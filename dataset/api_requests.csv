@@ -1,0 +1,501 @@
+request_id,timestamp,user_id,method,endpoint,request_payload,response_status_code,response_time_ms,is_intentional_error
+ed59da9c,2026-02-05 17:39:30,student_50,POST,/api/cart/add,"{""id"": 1, ""qty"": 226}",500,412,True
+42358197,2026-02-07 12:28:26,student_23,POST,/api/cart/add,"{""id"": 1, ""qty"": 682}",200,1824,False
+4a77d716,2026-02-04 16:02:16,student_04,POST,/api/cart/add,"{""id"": 1, ""qty"": 117}",200,1910,False
+875218c6,2026-02-21 21:49:06,student_12,POST,/api/orders,"{""id"": 1, ""qty"": 369}",200,866,False
+29e5a0fc,2026-02-28 07:22:47,student_31,POST,/api/orders,"{""id"": 1, ""qty"": 205}",500,997,True
+0bc78ffa,2026-02-17 04:24:25,student_15,GET,/api/products/1,,200,1146,False
+106b01c6,2026-02-15 05:06:51,student_15,POST,/api/cart/add,"{""id"": 1, ""qty"": 944}",200,1835,False
+cc3d247e,2026-02-05 04:06:16,student_01,POST,/api/cart/add,"{""id"": 1, ""qty"": 9}",500,1618,True
+e26c7e49,2026-02-28 10:44:24,student_01,GET,/api/user/profile,,500,621,True
+626b8012,2026-02-08 23:45:20,student_35,GET,/api/products/1,,500,1708,True
+ae0eddc3,2026-02-11 11:58:35,student_47,POST,/api/cart/add,"{""id"": 1, ""qty"": 677}",400,1712,True
+78d10208,2026-02-05 12:05:11,student_22,POST,/api/cart/add,"{""id"": 1, ""qty"": 642}",200,520,False
+240af16c,2026-02-14 12:03:18,student_15,POST,/api/orders,"{""id"": 1, ""qty"": 298}",200,1728,False
+81c92150,2026-03-02 03:32:08,student_23,GET,/api/products,,404,65,True
+f2c41d8c,2026-02-15 02:44:10,student_39,GET,/api/products,,404,1186,True
+43c0b510,2026-02-23 18:07:46,student_13,POST,/api/orders,"{""id"": 1, ""qty"": 601}",200,718,False
+7936e8b4,2026-02-15 06:03:02,student_20,POST,/api/cart/add,"{""id"": 1, ""qty"": 650}",200,357,False
+4d61a518,2026-02-06 18:12:03,student_31,POST,/api/orders,"{""id"": 1, ""qty"": 926}",404,1023,True
+dd63e110,2026-03-03 03:05:37,student_14,GET,/api/products,,200,1061,False
+81221cba,2026-02-25 17:17:28,student_07,POST,/api/cart/add,"{""id"": 1, ""qty"": 723}",404,618,True
+463b3095,2026-02-13 23:29:07,student_40,GET,/api/user/profile,,500,1001,True
+ee8a02af,2026-02-09 18:02:51,student_12,POST,/api/cart/add,"{""id"": 1, ""qty"": 6}",400,977,True
+f5db330a,2026-03-01 12:26:36,student_38,POST,/api/cart/add,"{""id"": 1, ""qty"": 636}",200,808,False
+026774c1,2026-02-11 05:40:46,student_39,GET,/api/products/1,,200,1195,False
+25665fc0,2026-02-16 08:11:33,student_47,GET,/api/products/1,,200,1852,False
+e67a4c71,2026-02-23 14:45:18,student_40,POST,/api/cart/add,"{""id"": 1, ""qty"": 628}",200,1130,False
+0a07e5a2,2026-02-20 11:33:25,student_37,GET,/api/products/1,,404,725,True
+d0a49ec3,2026-02-26 02:02:55,student_39,POST,/api/orders,"{""id"": 1, ""qty"": 507}",200,166,False
+52d37759,2026-02-27 05:17:22,student_08,POST,/api/orders,"{""id"": 1, ""qty"": 12}",400,1150,True
+0a953d1a,2026-02-08 12:04:05,student_39,GET,/api/products/1,,200,1638,False
+83512a1a,2026-02-19 10:58:14,student_41,POST,/api/cart/add,"{""id"": 1, ""qty"": 62}",500,772,True
+b0cade38,2026-02-06 14:26:24,student_05,GET,/api/products/1,,400,1414,True
+e179cd02,2026-02-10 03:41:06,student_31,GET,/api/products,,200,1886,False
+e2a9ac73,2026-03-02 04:30:22,student_13,GET,/api/products/1,,200,937,False
+9714937e,2026-02-25 23:26:31,student_29,GET,/api/products/1,,404,1139,True
+d9e01949,2026-02-05 11:26:34,student_11,GET,/api/products/1,,200,889,False
+1ded6cb3,2026-02-22 03:59:30,student_24,GET,/api/user/profile,,500,284,True
+85efc991,2026-02-12 07:16:45,student_30,GET,/api/products,,200,950,False
+63bf7231,2026-03-01 17:03:52,student_31,POST,/api/cart/add,"{""id"": 1, ""qty"": 240}",500,934,True
+2c7e988f,2026-02-21 05:17:39,student_29,POST,/api/orders,"{""id"": 1, ""qty"": 135}",500,812,True
+4d6cd6b0,2026-02-23 09:43:29,student_12,GET,/api/products/1,,404,1924,True
+99082867,2026-02-26 05:53:14,student_13,GET,/api/products/1,,200,1130,False
+60e2eb65,2026-02-21 14:21:47,student_28,GET,/api/products/1,,200,952,False
+1ac9eac7,2026-02-24 20:43:51,student_48,POST,/api/orders,"{""id"": 1, ""qty"": 295}",500,816,True
+334a12c4,2026-02-16 08:10:40,student_27,GET,/api/products/1,,404,1537,True
+083afde1,2026-02-14 15:32:37,student_29,GET,/api/products,,400,405,True
+8e621a0c,2026-02-01 23:33:28,student_12,GET,/api/user/profile,,200,1550,False
+c0bd8d6d,2026-02-25 09:00:24,student_15,GET,/api/user/profile,,200,1355,False
+57d4deee,2026-02-20 17:23:47,student_48,GET,/api/products/1,,200,100,False
+2b9cd7fb,2026-02-07 07:08:13,student_38,GET,/api/products,,404,913,True
+1d12df8d,2026-02-28 07:13:12,student_20,GET,/api/user/profile,,200,754,False
+9fc4fcf6,2026-02-13 18:57:16,student_16,GET,/api/user/profile,,200,254,False
+e1fbc3a2,2026-02-03 21:29:29,student_45,GET,/api/user/profile,,404,744,True
+b9d03b10,2026-02-19 08:15:36,student_31,GET,/api/products/1,,404,243,True
+4c4f45b5,2026-02-14 02:32:37,student_27,POST,/api/orders,"{""id"": 1, ""qty"": 850}",400,1010,True
+655311eb,2026-02-11 07:52:47,student_48,POST,/api/cart/add,"{""id"": 1, ""qty"": 221}",500,1185,True
+50fa5427,2026-02-02 01:48:38,student_49,POST,/api/orders,"{""id"": 1, ""qty"": 521}",200,1194,False
+4625e59e,2026-02-23 22:20:34,student_17,GET,/api/user/profile,,500,1907,True
+a64a162a,2026-02-02 23:16:37,student_15,POST,/api/orders,"{""id"": 1, ""qty"": 312}",400,876,True
+12af06df,2026-02-15 21:10:39,student_15,GET,/api/products,,404,1632,True
+36cd508b,2026-02-10 07:15:06,student_34,GET,/api/products,,200,183,False
+fda9a629,2026-02-20 08:36:25,student_40,GET,/api/products,,200,680,False
+85ac9e60,2026-02-19 14:34:30,student_05,GET,/api/user/profile,,200,669,False
+5cb05bb8,2026-02-07 01:06:24,student_19,GET,/api/user/profile,,200,352,False
+ae3cc9ca,2026-02-05 16:39:52,student_11,GET,/api/products,,200,719,False
+caabca78,2026-02-06 17:35:55,student_17,POST,/api/orders,"{""id"": 1, ""qty"": 437}",500,1933,True
+5323b82d,2026-02-03 13:15:54,student_25,GET,/api/user/profile,,200,1349,False
+1635fd21,2026-02-02 04:58:09,student_09,POST,/api/cart/add,"{""id"": 1, ""qty"": 49}",200,1435,False
+0a95b668,2026-02-20 04:26:23,student_03,GET,/api/user/profile,,500,1409,True
+0867d501,2026-02-22 07:07:26,student_15,GET,/api/products/1,,200,1821,False
+d7033343,2026-02-03 10:26:51,student_34,GET,/api/user/profile,,404,1321,True
+6ddd7db3,2026-02-12 10:05:42,student_27,POST,/api/orders,"{""id"": 1, ""qty"": 804}",500,1260,True
+ead9403e,2026-02-04 05:27:47,student_06,GET,/api/products/1,,500,549,True
+d2de95a4,2026-02-10 14:09:38,student_47,POST,/api/cart/add,"{""id"": 1, ""qty"": 5}",200,1286,False
+47789234,2026-02-09 11:20:31,student_41,POST,/api/cart/add,"{""id"": 1, ""qty"": -4}",400,1559,True
+ac9382f1,2026-03-02 20:40:57,student_37,POST,/api/orders,"{""id"": 1, ""qty"": 674}",200,751,False
+cdba26d1,2026-02-12 11:16:32,student_20,GET,/api/products/1,,500,1623,True
+fc588d0e,2026-02-08 14:41:51,student_03,GET,/api/products/1,,404,54,True
+c7dfb59f,2026-02-15 06:18:11,student_15,GET,/api/user/profile,,200,1866,False
+4647fd8e,2026-02-16 11:27:19,student_48,POST,/api/cart/add,"{""id"": 1, ""qty"": 325}",500,1089,True
+b94fc9f1,2026-02-24 16:16:09,student_42,GET,/api/products/1,,200,1476,False
+a62dfdcb,2026-02-25 15:55:01,student_40,GET,/api/user/profile,,200,854,False
+8f95ed6d,2026-02-01 17:11:59,student_50,POST,/api/orders,"{""id"": 1, ""qty"": 185}",400,819,True
+76534a58,2026-02-24 05:19:19,student_21,GET,/api/products/1,,200,645,False
+a2513008,2026-02-22 01:08:18,student_48,GET,/api/products,,200,410,False
+5ebe8a66,2026-02-17 17:13:30,student_02,GET,/api/products,,404,873,True
+70dd2ecf,2026-02-05 13:13:27,student_07,POST,/api/cart/add,"{""id"": 1, ""qty"": 800}",200,1324,False
+7b40ed40,2026-02-10 17:16:58,student_22,GET,/api/products,,200,1383,False
+3d44591c,2026-02-12 22:05:31,student_47,POST,/api/cart/add,"{""id"": 1, ""qty"": 428}",500,1171,True
+d4a153c3,2026-02-25 14:51:58,student_02,GET,/api/products,,400,875,True
+3fc79a3f,2026-02-25 00:12:58,student_15,POST,/api/orders,"{""id"": 1, ""qty"": 493}",404,1525,True
+e321618a,2026-02-02 12:18:24,student_36,POST,/api/orders,"{""id"": 1, ""qty"": 259}",200,857,False
+1159ee71,2026-02-09 10:37:14,student_36,GET,/api/user/profile,,200,1658,False
+27ca2935,2026-02-01 13:52:14,student_16,POST,/api/orders,"{""id"": 1, ""qty"": 138}",400,562,True
+475cd118,2026-02-18 21:49:44,student_47,GET,/api/user/profile,,404,87,True
+9a10eb1d,2026-02-23 04:50:32,student_40,GET,/api/products,,200,419,False
+dbe239cc,2026-02-12 11:13:38,student_46,POST,/api/cart/add,"{""id"": 1, ""qty"": 256}",200,118,False
+9d118e5c,2026-02-11 16:42:05,student_21,GET,/api/products,,400,1090,True
+29ec4eef,2026-02-05 16:24:13,student_20,GET,/api/products,,404,1237,True
+97c97c23,2026-02-24 02:38:26,student_42,POST,/api/cart/add,"{""id"": 1, ""qty"": 730}",500,1050,True
+7d2c5b9d,2026-02-16 09:50:29,student_35,POST,/api/orders,"{""id"": 1, ""qty"": 907}",400,1234,True
+445b0f11,2026-02-26 17:05:26,student_12,GET,/api/user/profile,,400,122,True
+b03ce5c4,2026-02-06 04:00:37,student_15,GET,/api/user/profile,,200,1096,False
+c17cb00b,2026-02-07 21:10:20,student_49,GET,/api/products,,404,1095,True
+87219d8d,2026-02-09 10:35:53,student_10,POST,/api/orders,"{""id"": 1, ""qty"": 180}",400,530,True
+9db2f74c,2026-02-22 22:06:21,student_24,GET,/api/user/profile,,200,594,False
+18b2a839,2026-02-12 17:39:27,student_33,POST,/api/cart/add,"{""id"": 1, ""qty"": 623}",404,489,True
+49e5817f,2026-02-01 11:29:42,student_02,GET,/api/products,,200,65,False
+8ea056fe,2026-02-07 05:30:01,student_45,POST,/api/cart/add,"{""id"": 1, ""qty"": 744}",500,111,True
+fb8b5903,2026-02-18 17:02:42,student_24,POST,/api/cart/add,"{""id"": 1, ""qty"": 884}",404,1194,True
+b3bc6cf4,2026-03-02 18:29:39,student_47,GET,/api/products/1,,500,274,True
+f3b1f9be,2026-02-13 23:26:53,student_34,GET,/api/products,,200,1833,False
+cbbacf7e,2026-02-03 16:22:51,student_15,POST,/api/orders,"{""id"": 1, ""qty"": 802}",200,1315,False
+dc5d0404,2026-02-17 23:35:57,student_17,POST,/api/cart/add,"{""id"": 1, ""qty"": 20}",200,248,False
+0fbeab9a,2026-02-19 17:15:43,student_46,GET,/api/products/1,,400,989,True
+b96e91b5,2026-02-12 19:59:38,student_39,GET,/api/products/1,,404,1518,True
+bb3b3a9f,2026-02-11 00:15:22,student_14,GET,/api/products,,200,426,False
+d9411694,2026-02-23 03:36:47,student_50,GET,/api/products/1,,200,1753,False
+f652f3ad,2026-02-25 05:34:20,student_26,GET,/api/user/profile,,200,660,False
+e023b29a,2026-02-10 13:00:37,student_09,GET,/api/products,,400,702,True
+4f43adbf,2026-02-24 03:10:49,student_26,POST,/api/cart/add,"{""id"": 1, ""qty"": 630}",200,1064,False
+804d20d8,2026-02-23 09:03:37,student_33,GET,/api/products/1,,404,316,True
+68162679,2026-02-07 13:47:49,student_39,GET,/api/products/1,,200,897,False
+cd7bb0d7,2026-02-28 23:17:09,student_34,POST,/api/orders,"{""id"": 1, ""qty"": 27}",400,556,True
+bc80efb8,2026-02-07 22:52:24,student_33,POST,/api/orders,"{""id"": 1, ""qty"": 59}",400,346,True
+b6a2a366,2026-02-22 11:33:21,student_48,GET,/api/products/1,,200,233,False
+cfb21e1c,2026-02-13 22:53:09,student_48,GET,/api/products,,400,979,True
+76f710c0,2026-02-11 17:49:55,student_04,GET,/api/user/profile,,400,1444,True
+437bb68f,2026-02-08 10:04:24,student_20,GET,/api/products,,200,1959,False
+270fe189,2026-02-06 10:25:45,student_15,GET,/api/products,,400,229,True
+8eb1d3cc,2026-02-13 05:52:47,student_44,GET,/api/products,,500,1377,True
+e840f16d,2026-02-18 11:42:45,student_32,GET,/api/user/profile,,500,1935,True
+b2c79ab5,2026-03-02 04:00:25,student_41,POST,/api/orders,"{""id"": 1, ""qty"": 696}",500,1460,True
+938bf2de,2026-03-03 05:45:16,student_24,GET,/api/products/1,,404,81,True
+ef21d47c,2026-02-20 21:05:31,student_41,POST,/api/orders,"{""id"": 1, ""qty"": 691}",404,1301,True
+9c338879,2026-02-24 01:26:53,student_27,GET,/api/products,,500,461,True
+ac303930,2026-02-14 10:31:11,student_05,POST,/api/cart/add,"{""id"": 1, ""qty"": 700}",200,1569,False
+d66a9336,2026-03-02 14:32:37,student_50,GET,/api/products/1,,200,433,False
+95b55bd3,2026-03-01 05:49:06,student_05,GET,/api/user/profile,,200,678,False
+a5ec3ad9,2026-02-03 22:30:02,student_36,GET,/api/products,,200,348,False
+69898675,2026-02-02 05:21:05,student_50,GET,/api/products,,200,1308,False
+b1b4e4e1,2026-02-28 00:55:50,student_30,GET,/api/user/profile,,400,687,True
+a930aef8,2026-02-21 21:08:54,student_33,GET,/api/user/profile,,200,851,False
+3f56349d,2026-02-25 06:20:23,student_04,GET,/api/products/1,,500,1249,True
+f79d074f,2026-02-10 22:59:52,student_15,POST,/api/cart/add,"{""id"": 1, ""qty"": 888}",200,88,False
+127d7707,2026-02-10 15:13:39,student_36,GET,/api/user/profile,,400,842,True
+a9d6bb1b,2026-02-23 18:55:02,student_30,POST,/api/cart/add,"{""id"": 1, ""qty"": 67}",400,1361,True
+84258903,2026-03-01 02:51:48,student_22,GET,/api/user/profile,,400,468,True
+c4502e37,2026-02-04 00:01:20,student_42,GET,/api/user/profile,,400,438,True
+917a3f11,2026-03-01 16:19:38,student_09,GET,/api/user/profile,,404,564,True
+52aba4bb,2026-02-18 16:51:10,student_10,GET,/api/user/profile,,500,558,True
+df11b0ea,2026-02-20 07:03:39,student_44,POST,/api/cart/add,"{""id"": 1, ""qty"": 810}",200,911,False
+1578a901,2026-02-12 01:32:38,student_32,POST,/api/orders,"{""id"": 1, ""qty"": 420}",404,89,True
+7a7c3f5a,2026-02-13 01:53:38,student_12,GET,/api/user/profile,,404,1914,True
+ea34fa99,2026-02-03 13:32:06,student_47,GET,/api/products/1,,200,1406,False
+e7347585,2026-02-27 12:41:48,student_12,GET,/api/user/profile,,400,1316,True
+ff44c58d,2026-02-09 17:14:03,student_19,GET,/api/products/1,,404,538,True
+8334a3c4,2026-02-18 04:04:35,student_21,GET,/api/products,,404,852,True
+ea5b5a73,2026-02-19 09:36:30,student_22,GET,/api/products/1,,200,899,False
+7da712a1,2026-02-16 20:05:14,student_37,POST,/api/orders,"{""id"": 1, ""qty"": 843}",400,608,True
+7ced6502,2026-02-02 02:23:09,student_16,GET,/api/products/1,,200,1378,False
+be89fb5e,2026-02-13 19:37:19,student_39,GET,/api/products,,400,1930,True
+d0548759,2026-02-17 11:53:45,student_50,POST,/api/orders,"{""id"": 1, ""qty"": 428}",200,739,False
+cf063aa4,2026-02-01 12:59:25,student_11,POST,/api/orders,"{""id"": 1, ""qty"": 899}",200,492,False
+6c85ac83,2026-03-01 11:35:07,student_12,POST,/api/orders,"{""id"": 1, ""qty"": 761}",404,1802,True
+f7cc8fc3,2026-02-22 19:35:07,student_23,GET,/api/user/profile,,200,199,False
+5a264822,2026-02-13 23:31:20,student_25,GET,/api/user/profile,,500,1800,True
+0b4d895f,2026-02-03 05:15:42,student_33,POST,/api/orders,"{""id"": 1, ""qty"": 918}",500,1827,True
+1db3ca74,2026-02-20 12:46:14,student_39,GET,/api/products/1,,200,1934,False
+700795a7,2026-02-24 19:28:22,student_26,POST,/api/cart/add,"{""id"": 1, ""qty"": 845}",500,1607,True
+11b4d993,2026-02-12 06:20:21,student_22,GET,/api/products/1,,500,853,True
+52105d8d,2026-02-04 11:49:35,student_47,POST,/api/cart/add,"{""id"": 1, ""qty"": 16}",200,489,False
+5fb06384,2026-02-09 05:32:55,student_02,GET,/api/products,,400,150,True
+5f80c685,2026-02-21 01:53:20,student_37,GET,/api/products,,400,826,True
+6dee14c2,2026-03-01 13:18:51,student_01,GET,/api/user/profile,,200,1251,False
+8f3329b1,2026-02-03 09:19:29,student_11,POST,/api/orders,"{""id"": 1, ""qty"": 370}",200,1079,False
+6b0f99e4,2026-02-06 06:45:14,student_34,GET,/api/products/1,,200,925,False
+d8921c14,2026-02-24 15:40:58,student_34,POST,/api/orders,"{""id"": 1, ""qty"": 943}",200,704,False
+95d6f331,2026-02-25 03:39:16,student_18,POST,/api/orders,"{""id"": 1, ""qty"": 795}",200,509,False
+7414a35f,2026-02-23 10:58:12,student_45,GET,/api/products/1,,400,1950,True
+68802b34,2026-02-24 22:30:28,student_18,POST,/api/orders,"{""id"": 1, ""qty"": 6}",404,1411,True
+b40a3da1,2026-02-28 21:12:54,student_37,POST,/api/cart/add,"{""id"": 1, ""qty"": 186}",500,1666,True
+fdea25cc,2026-02-05 23:11:33,student_43,POST,/api/cart/add,"{""id"": 1, ""qty"": 34}",400,1767,True
+b600f6c4,2026-02-07 18:56:49,student_39,GET,/api/user/profile,,200,1374,False
+f8c874e1,2026-02-03 19:39:27,student_35,GET,/api/products,,404,663,True
+0e11240a,2026-03-01 17:54:34,student_19,GET,/api/products/1,,404,539,True
+e0995eb4,2026-02-28 10:20:30,student_32,GET,/api/user/profile,,200,341,False
+ec412bca,2026-02-15 02:32:41,student_24,POST,/api/orders,"{""id"": 1, ""qty"": 136}",200,1806,False
+1bb0cb72,2026-02-03 12:14:32,student_09,GET,/api/products/1,,200,588,False
+9fdc173a,2026-02-16 23:46:34,student_06,GET,/api/user/profile,,200,589,False
+7000a76d,2026-02-09 15:33:32,student_07,GET,/api/products/1,,500,483,True
+51ae38a2,2026-02-23 07:05:21,student_39,POST,/api/orders,"{""id"": 1, ""qty"": 773}",200,1131,False
+8d010391,2026-02-12 00:15:05,student_23,POST,/api/orders,"{""id"": 1, ""qty"": 569}",404,1318,True
+424e9fda,2026-02-13 22:05:13,student_10,GET,/api/user/profile,,200,1071,False
+45673444,2026-02-07 21:41:44,student_24,GET,/api/products,,200,1133,False
+8e9adaca,2026-02-28 09:29:07,student_50,GET,/api/products,,200,1037,False
+fb91f413,2026-02-28 11:09:37,student_35,GET,/api/products/1,,200,799,False
+c37f695d,2026-02-26 14:15:41,student_29,POST,/api/orders,"{""id"": 1, ""qty"": 667}",200,1527,False
+a988eb9b,2026-02-03 08:26:43,student_43,GET,/api/products,,500,1124,True
+0a24ef98,2026-02-17 13:17:33,student_06,GET,/api/products,,400,1354,True
+cfe5378c,2026-03-01 08:26:53,student_12,POST,/api/cart/add,"{""id"": 1, ""qty"": 286}",200,391,False
+3478c36f,2026-02-07 21:05:22,student_44,POST,/api/cart/add,"{""id"": 1, ""qty"": 467}",500,541,True
+12bdb17b,2026-02-16 15:48:39,student_49,GET,/api/products/1,,404,968,True
+433f24dd,2026-02-23 21:33:15,student_31,POST,/api/orders,"{""id"": 1, ""qty"": 99}",404,1874,True
+5c7242cf,2026-02-08 23:47:11,student_19,GET,/api/products,,400,1810,True
+b0e4c906,2026-02-27 05:09:54,student_14,POST,/api/cart/add,"{""id"": 1, ""qty"": 105}",200,1780,False
+9c54d139,2026-02-02 11:08:32,student_36,GET,/api/products/1,,200,66,False
+1cdd0768,2026-02-03 22:58:31,student_43,GET,/api/products/1,,500,1314,True
+c479fda6,2026-02-17 00:55:32,student_02,GET,/api/products,,404,701,True
+6eeaeaa1,2026-02-02 08:10:20,student_10,POST,/api/cart/add,"{""id"": 1, ""qty"": 990}",200,1998,False
+39216fdc,2026-02-03 04:40:06,student_20,GET,/api/products,,200,1658,False
+de42547a,2026-02-11 23:03:17,student_14,GET,/api/user/profile,,404,837,True
+f0447a3d,2026-02-02 21:15:45,student_32,POST,/api/orders,"{""id"": 1, ""qty"": 792}",404,894,True
+b021162a,2026-02-27 22:51:29,student_36,GET,/api/products/1,,200,1275,False
+b5fb3606,2026-02-08 16:01:42,student_39,POST,/api/cart/add,"{""id"": 1, ""qty"": 715}",200,1773,False
+88e784e2,2026-02-13 15:43:52,student_31,POST,/api/orders,"{""id"": 1, ""qty"": 619}",200,51,False
+d21c40aa,2026-02-23 01:50:58,student_50,GET,/api/products/1,,200,972,False
+978a32c8,2026-02-07 17:04:12,student_15,GET,/api/products,,200,1418,False
+a2a74225,2026-02-03 09:40:12,student_38,POST,/api/cart/add,"{""id"": 1, ""qty"": 798}",200,1522,False
+62071d0f,2026-02-04 00:48:24,student_47,GET,/api/products,,200,237,False
+2b9da339,2026-02-19 20:43:20,student_37,POST,/api/cart/add,"{""id"": 1, ""qty"": 294}",500,1501,True
+e69e43b6,2026-02-19 23:16:39,student_13,GET,/api/products/1,,500,534,True
+b253cac9,2026-02-01 18:50:47,student_02,GET,/api/products,,400,92,True
+23d9b498,2026-02-21 22:55:15,student_21,GET,/api/products,,404,352,True
+a79a11ea,2026-02-22 19:46:44,student_19,POST,/api/orders,"{""id"": 1, ""qty"": 337}",400,422,True
+7dda1d5a,2026-02-19 23:18:53,student_06,GET,/api/user/profile,,200,429,False
+ef031580,2026-02-08 21:11:53,student_13,POST,/api/cart/add,"{""id"": 1, ""qty"": 449}",200,505,False
+238dcdc9,2026-02-25 22:20:19,student_29,GET,/api/products,,500,873,True
+abace7f9,2026-02-09 14:48:44,student_06,POST,/api/cart/add,"{""id"": 1, ""qty"": 68}",200,1907,False
+f12adbef,2026-02-05 20:28:11,student_33,GET,/api/products,,400,1948,True
+2a8ed7fa,2026-02-10 02:03:43,student_49,POST,/api/orders,"{""id"": 1, ""qty"": 722}",200,1163,False
+f8eddb4f,2026-02-12 23:47:34,student_30,POST,/api/cart/add,"{""id"": 1, ""qty"": 174}",200,722,False
+753ae24c,2026-02-22 09:40:04,student_47,POST,/api/orders,"{""id"": 1, ""qty"": 383}",200,1459,False
+6db6f974,2026-02-26 14:20:06,student_16,POST,/api/orders,"{""id"": 1, ""qty"": 873}",200,904,False
+623a0d43,2026-02-16 11:44:45,student_25,GET,/api/products,,200,1934,False
+3f128c4a,2026-02-06 13:34:10,student_33,GET,/api/products/1,,200,381,False
+4b5462e1,2026-02-15 20:08:41,student_10,GET,/api/products,,500,1128,True
+51b7f400,2026-02-05 08:19:17,student_10,GET,/api/products/1,,404,994,True
+6283b55b,2026-02-08 08:38:57,student_02,POST,/api/cart/add,"{""id"": 1, ""qty"": 603}",200,1351,False
+a47b404b,2026-03-01 22:06:43,student_30,POST,/api/orders,"{""id"": 1, ""qty"": 322}",500,1563,True
+97624805,2026-02-08 06:00:51,student_38,POST,/api/orders,"{""id"": 1, ""qty"": 198}",200,1607,False
+11f79345,2026-03-02 00:26:00,student_20,GET,/api/products/1,,200,1317,False
+99476781,2026-02-15 08:21:50,student_36,POST,/api/cart/add,"{""id"": 1, ""qty"": 404}",200,1220,False
+c1367f5e,2026-02-23 01:28:07,student_04,GET,/api/products/1,,200,789,False
+3e61fd30,2026-02-20 11:51:34,student_41,GET,/api/products,,200,1899,False
+dd1316e7,2026-02-18 13:15:05,student_05,GET,/api/products,,200,1860,False
+7c23bc91,2026-02-22 09:38:42,student_47,GET,/api/products,,404,507,True
+1ec9a05d,2026-02-14 17:52:06,student_07,POST,/api/cart/add,"{""id"": 1, ""qty"": 890}",404,1060,True
+d2c3f2db,2026-02-21 22:50:28,student_37,GET,/api/products,,200,140,False
+e4003a3b,2026-02-20 14:09:35,student_03,GET,/api/products,,200,1282,False
+42b3071b,2026-02-06 20:23:29,student_09,POST,/api/orders,"{""id"": 1, ""qty"": 939}",200,851,False
+ca985b8f,2026-03-02 07:14:51,student_24,GET,/api/user/profile,,200,364,False
+d5028012,2026-02-06 21:56:07,student_03,GET,/api/user/profile,,200,1395,False
+6493a767,2026-02-22 05:09:53,student_48,POST,/api/cart/add,"{""id"": 1, ""qty"": 18}",404,1769,True
+7a30ee7d,2026-02-26 09:11:00,student_23,GET,/api/products,,400,1950,True
+ca26f336,2026-02-17 15:31:27,student_23,POST,/api/orders,"{""id"": 1, ""qty"": 51}",500,1112,True
+2d2146cb,2026-02-24 09:17:15,student_31,GET,/api/products/1,,200,1539,False
+1eee14a2,2026-02-01 22:35:21,student_09,POST,/api/cart/add,"{""id"": 1, ""qty"": 933}",200,283,False
+7a0bbf99,2026-02-07 23:02:03,student_47,GET,/api/products/1,,500,124,True
+76e9c751,2026-02-27 03:13:42,student_07,POST,/api/orders,"{""id"": 1, ""qty"": 386}",200,1962,False
+f1441614,2026-02-04 21:25:38,student_28,GET,/api/user/profile,,200,373,False
+33b3430a,2026-03-02 13:33:12,student_38,GET,/api/products/1,,500,572,True
+c12492b8,2026-02-14 22:10:40,student_21,GET,/api/user/profile,,200,1709,False
+47454369,2026-02-28 13:26:16,student_29,GET,/api/products/1,,200,1255,False
+2b18ace7,2026-02-08 19:29:07,student_38,POST,/api/cart/add,"{""id"": 1, ""qty"": 531}",200,1803,False
+2f1e96ff,2026-02-19 23:56:25,student_44,POST,/api/orders,"{""id"": 1, ""qty"": 179}",200,124,False
+a6dd9f32,2026-02-16 10:05:13,student_03,GET,/api/products,,400,1644,True
+0900a2f2,2026-02-15 17:27:28,student_39,GET,/api/products,,404,647,True
+c1ec857c,2026-02-04 10:59:16,student_38,GET,/api/user/profile,,200,145,False
+eb4b9cfa,2026-02-10 15:41:27,student_05,POST,/api/orders,"{""id"": 1, ""qty"": 102}",200,1263,False
+2e865efa,2026-03-02 01:09:21,student_26,GET,/api/products/1,,200,728,False
+7b22e286,2026-02-12 02:58:41,student_44,GET,/api/products,,400,366,True
+e292d438,2026-03-03 07:47:05,student_25,POST,/api/cart/add,"{""id"": 1, ""qty"": 819}",500,1314,True
+980cefb6,2026-02-13 06:52:11,student_29,POST,/api/cart/add,"{""id"": 1, ""qty"": 680}",400,124,True
+f29c7ffc,2026-02-19 01:52:50,student_42,GET,/api/products,,200,1877,False
+e4ea1509,2026-02-04 07:24:28,student_26,POST,/api/cart/add,"{""id"": 1, ""qty"": 836}",400,272,True
+e8169e93,2026-02-11 06:31:23,student_15,GET,/api/products,,500,1758,True
+a7f28d44,2026-02-15 06:16:24,student_18,GET,/api/products,,200,509,False
+b47f4fb5,2026-02-21 05:24:43,student_21,POST,/api/orders,"{""id"": 1, ""qty"": 647}",200,1126,False
+8c8f81e4,2026-02-22 09:37:37,student_42,POST,/api/cart/add,"{""id"": 1, ""qty"": 817}",500,1124,True
+da40289e,2026-02-17 04:06:54,student_50,GET,/api/products/1,,500,401,True
+a1635d75,2026-02-07 00:29:55,student_31,GET,/api/products/1,,200,1834,False
+c27e9612,2026-02-23 20:08:31,student_25,GET,/api/products,,200,396,False
+dab2799c,2026-02-07 22:35:48,student_13,POST,/api/orders,"{""id"": 1, ""qty"": 72}",200,1203,False
+443406ce,2026-02-16 09:56:20,student_05,GET,/api/products,,200,205,False
+e8cc58d1,2026-02-25 05:38:05,student_50,POST,/api/orders,"{""id"": 1, ""qty"": 410}",200,126,False
+e234fbd3,2026-02-12 16:27:38,student_38,GET,/api/user/profile,,200,298,False
+08ee65ef,2026-02-13 15:44:21,student_46,POST,/api/cart/add,"{""id"": 1, ""qty"": 987}",200,223,False
+fa3f09ab,2026-02-17 20:15:30,student_22,POST,/api/orders,"{""id"": 1, ""qty"": 896}",200,1226,False
+99741613,2026-02-01 16:00:05,student_09,POST,/api/cart/add,"{""id"": 1, ""qty"": 741}",404,1309,True
+fa80f758,2026-02-07 00:31:05,student_33,GET,/api/user/profile,,500,119,True
+8b5c13f8,2026-02-25 22:52:05,student_48,GET,/api/products,,200,573,False
+ab703e24,2026-02-02 15:56:08,student_48,POST,/api/orders,"{""id"": 1, ""qty"": 384}",500,1735,True
+51555123,2026-02-19 17:45:01,student_23,GET,/api/products,,200,1217,False
+f00f29c4,2026-02-16 10:19:13,student_23,POST,/api/cart/add,"{""id"": 1, ""qty"": 615}",404,623,True
+79a31929,2026-02-06 21:24:53,student_23,GET,/api/user/profile,,400,145,True
+8ad1a053,2026-02-28 18:38:55,student_33,POST,/api/cart/add,"{""id"": 1, ""qty"": 296}",200,1074,False
+0e956b96,2026-02-23 07:32:10,student_30,GET,/api/products,,404,724,True
+150d3cf8,2026-02-08 08:06:48,student_33,POST,/api/cart/add,"{""id"": 1, ""qty"": 215}",200,1804,False
+db0650f2,2026-02-23 09:33:08,student_29,GET,/api/user/profile,,500,1496,True
+884cc463,2026-02-26 03:39:09,student_20,GET,/api/products/1,,400,304,True
+e9e70786,2026-02-25 22:48:49,student_16,GET,/api/user/profile,,500,215,True
+9070db88,2026-02-08 16:32:47,student_18,POST,/api/orders,"{""id"": 1, ""qty"": 511}",200,308,False
+697b44ea,2026-02-02 12:57:15,student_36,GET,/api/products,,500,1511,True
+44579da7,2026-02-18 21:05:24,student_31,POST,/api/cart/add,"{""id"": 1, ""qty"": 800}",500,369,True
+f2972e4b,2026-02-10 18:55:02,student_08,GET,/api/products,,200,862,False
+2500b807,2026-02-20 18:31:05,student_43,GET,/api/products,,200,1083,False
+df5676f9,2026-02-01 16:18:08,student_26,POST,/api/cart/add,"{""id"": 1, ""qty"": 165}",400,1157,True
+977c6d80,2026-02-07 03:59:17,student_08,GET,/api/products,,200,374,False
+69e904b0,2026-02-13 10:06:23,student_38,GET,/api/products,,400,1679,True
+5489f5fd,2026-03-01 00:32:18,student_23,POST,/api/cart/add,"{""id"": 1, ""qty"": 82}",200,910,False
+1b57e54f,2026-02-22 12:34:38,student_44,GET,/api/products,,200,1913,False
+e08c5d90,2026-02-11 13:13:41,student_27,POST,/api/orders,"{""id"": 1, ""qty"": 737}",404,112,True
+e202032b,2026-02-28 17:15:09,student_27,GET,/api/products/1,,400,508,True
+00a7e54f,2026-02-14 14:51:30,student_11,GET,/api/products/1,,400,973,True
+4cfc1855,2026-02-08 08:00:57,student_15,GET,/api/products/1,,400,817,True
+8830211f,2026-02-11 08:07:05,student_28,POST,/api/orders,"{""id"": 1, ""qty"": 164}",200,1376,False
+6baa8fdb,2026-02-14 06:51:26,student_37,GET,/api/user/profile,,400,619,True
+e1ae810d,2026-03-02 07:47:33,student_39,POST,/api/orders,"{""id"": 1, ""qty"": 184}",200,646,False
+05a334db,2026-02-23 04:59:18,student_05,POST,/api/orders,"{""id"": 1, ""qty"": 732}",404,553,True
+c024d18a,2026-02-27 21:44:24,student_12,POST,/api/cart/add,"{""id"": 1, ""qty"": 958}",200,1759,False
+b5f024aa,2026-03-03 01:03:12,student_23,GET,/api/products,,200,110,False
+ddc1aced,2026-02-20 23:03:50,student_13,POST,/api/cart/add,"{""id"": 1, ""qty"": 171}",200,1953,False
+c19c8e54,2026-02-08 09:17:25,student_10,GET,/api/products/1,,200,1613,False
+e199b804,2026-02-16 06:46:39,student_10,GET,/api/products,,500,1550,True
+db0bffbe,2026-02-09 15:01:22,student_01,GET,/api/products/1,,200,69,False
+11cf986e,2026-02-28 00:55:13,student_16,POST,/api/orders,"{""id"": 1, ""qty"": -1}",500,223,True
+93c14e2a,2026-02-02 12:04:37,student_30,POST,/api/cart/add,"{""id"": 1, ""qty"": 1}",500,837,True
+c011e4a3,2026-02-15 04:18:48,student_09,POST,/api/orders,"{""id"": 1, ""qty"": 495}",200,1643,False
+d20f3838,2026-02-12 04:19:16,student_28,POST,/api/cart/add,"{""id"": 1, ""qty"": 10}",200,1311,False
+3142d430,2026-03-03 01:00:43,student_49,GET,/api/products,,404,1420,True
+7e4a7d48,2026-02-06 20:24:20,student_37,POST,/api/orders,"{""id"": 1, ""qty"": 320}",500,1204,True
+74b15552,2026-02-17 07:51:31,student_41,GET,/api/products,,200,248,False
+aaedd4bf,2026-02-07 22:59:13,student_01,GET,/api/products/1,,500,1946,True
+835a1d5b,2026-02-28 14:11:26,student_18,GET,/api/products,,400,706,True
+aebeb6a9,2026-02-01 18:48:03,student_21,POST,/api/orders,"{""id"": 1, ""qty"": 632}",404,96,True
+10ed704d,2026-02-24 01:02:12,student_10,GET,/api/user/profile,,200,1827,False
+76fc999d,2026-02-12 14:48:48,student_26,POST,/api/cart/add,"{""id"": 1, ""qty"": 936}",200,1825,False
+c005c2ed,2026-02-07 21:25:21,student_04,GET,/api/products,,404,1674,True
+26a0e7ef,2026-03-02 02:56:34,student_19,GET,/api/products,,400,1415,True
+fb540e14,2026-02-10 15:28:03,student_35,POST,/api/orders,"{""id"": 1, ""qty"": 59}",400,988,True
+140977b2,2026-02-24 14:20:35,student_19,GET,/api/products/1,,200,1840,False
+66d6493a,2026-02-11 20:03:47,student_13,POST,/api/cart/add,"{""id"": 1, ""qty"": 769}",200,1475,False
+59bb6b38,2026-02-09 16:11:51,student_38,POST,/api/cart/add,"{""id"": 1, ""qty"": 265}",400,1815,True
+7347d6fb,2026-02-24 13:59:23,student_40,POST,/api/cart/add,"{""id"": 1, ""qty"": 500}",200,1498,False
+5230931a,2026-02-17 05:32:45,student_22,GET,/api/products,,500,424,True
+b71c8745,2026-02-04 05:59:16,student_46,POST,/api/cart/add,"{""id"": 1, ""qty"": 840}",404,1697,True
+b3342d6c,2026-02-16 00:12:54,student_27,POST,/api/cart/add,"{""id"": 1, ""qty"": 314}",200,719,False
+b69b7c56,2026-02-23 02:01:54,student_48,GET,/api/products,,500,1600,True
+aa92c451,2026-02-22 14:34:00,student_43,GET,/api/products,,400,1213,True
+33824147,2026-02-09 02:05:17,student_30,GET,/api/products,,400,53,True
+545d4555,2026-02-12 16:41:34,student_09,POST,/api/orders,"{""id"": 1, ""qty"": 390}",404,622,True
+6e2f3f9e,2026-03-01 21:08:45,student_24,POST,/api/cart/add,"{""id"": 1, ""qty"": 994}",500,53,True
+1e0913f6,2026-02-15 02:59:09,student_07,POST,/api/cart/add,"{""id"": 1, ""qty"": 24}",200,1619,False
+62a09cfc,2026-02-22 21:28:27,student_13,GET,/api/user/profile,,400,93,True
+70841f05,2026-02-03 18:53:54,student_26,POST,/api/cart/add,"{""id"": 1, ""qty"": 547}",400,1290,True
+ed7d2490,2026-02-27 06:31:09,student_48,POST,/api/orders,"{""id"": 1, ""qty"": 98}",200,1961,False
+90e0288e,2026-02-25 17:58:31,student_49,GET,/api/user/profile,,400,1875,True
+28cc16f5,2026-02-15 18:41:57,student_49,GET,/api/products,,500,449,True
+90d35023,2026-02-22 12:33:50,student_44,POST,/api/cart/add,"{""id"": 1, ""qty"": 981}",200,1185,False
+a3127dce,2026-02-02 15:09:57,student_46,GET,/api/user/profile,,400,1189,True
+d68e866d,2026-02-28 01:04:33,student_46,GET,/api/products,,500,1212,True
+7e906166,2026-02-18 01:57:26,student_35,POST,/api/orders,"{""id"": 1, ""qty"": 351}",500,1605,True
+11c42b42,2026-02-04 06:53:37,student_38,POST,/api/cart/add,"{""id"": 1, ""qty"": 42}",500,1343,True
+32f88088,2026-02-13 23:19:24,student_18,GET,/api/products/1,,200,1252,False
+42905e20,2026-02-13 09:16:44,student_18,POST,/api/cart/add,"{""id"": 1, ""qty"": 700}",200,605,False
+5d0e2b71,2026-02-07 13:02:19,student_20,GET,/api/user/profile,,500,1362,True
+7d00b0fe,2026-02-04 06:39:18,student_46,POST,/api/orders,"{""id"": 1, ""qty"": 974}",200,465,False
+ba5b5acf,2026-02-16 22:56:25,student_48,GET,/api/products,,200,646,False
+498c1888,2026-02-12 03:18:27,student_25,GET,/api/products,,500,253,True
+135bf64f,2026-02-16 02:58:25,student_16,GET,/api/products/1,,200,889,False
+5e09ed35,2026-02-07 16:18:39,student_38,GET,/api/products,,200,1650,False
+e48bf2ee,2026-02-28 08:43:07,student_19,GET,/api/user/profile,,200,1376,False
+2da01ca1,2026-02-08 22:33:37,student_34,GET,/api/products/1,,500,1001,True
+73bd3b45,2026-02-12 00:23:52,student_33,GET,/api/products,,404,187,True
+f947e46c,2026-02-20 21:08:00,student_18,GET,/api/products,,200,1048,False
+c35354ac,2026-02-28 04:27:24,student_21,POST,/api/cart/add,"{""id"": 1, ""qty"": 125}",500,1582,True
+518b1b9a,2026-02-12 22:09:38,student_24,POST,/api/cart/add,"{""id"": 1, ""qty"": 619}",200,1662,False
+8ac91ec5,2026-02-27 11:51:36,student_40,GET,/api/user/profile,,200,346,False
+4e842033,2026-02-26 03:43:07,student_48,POST,/api/cart/add,"{""id"": 1, ""qty"": 315}",200,50,False
+bfa5eb5e,2026-02-25 07:47:14,student_06,GET,/api/user/profile,,200,334,False
+6077cb66,2026-02-17 10:39:21,student_20,GET,/api/products,,404,1434,True
+506ed69e,2026-02-15 10:03:46,student_15,GET,/api/products,,200,765,False
+2ff501cb,2026-02-14 08:29:28,student_10,POST,/api/cart/add,"{""id"": 1, ""qty"": 142}",400,737,True
+d03a36e3,2026-02-14 16:35:57,student_24,POST,/api/orders,"{""id"": 1, ""qty"": 274}",500,1143,True
+9fa56e12,2026-02-20 11:22:07,student_45,POST,/api/cart/add,"{""id"": 1, ""qty"": 110}",200,1850,False
+3b662481,2026-02-04 16:47:08,student_32,POST,/api/cart/add,"{""id"": 1, ""qty"": 542}",404,603,True
+ded6ae98,2026-02-26 18:16:52,student_25,GET,/api/user/profile,,200,946,False
+43d0bc65,2026-02-12 18:25:51,student_14,POST,/api/cart/add,"{""id"": 1, ""qty"": 824}",200,441,False
+28798a9b,2026-02-03 00:23:41,student_03,GET,/api/products,,400,927,True
+84adbd8b,2026-02-23 08:09:42,student_07,POST,/api/cart/add,"{""id"": 1, ""qty"": 266}",200,625,False
+fbdfbd13,2026-02-06 05:52:28,student_25,POST,/api/cart/add,"{""id"": 1, ""qty"": 213}",200,1518,False
+91f18012,2026-02-09 01:16:31,student_10,POST,/api/orders,"{""id"": 1, ""qty"": 156}",200,1609,False
+449df5b9,2026-02-28 17:45:15,student_09,GET,/api/products,,400,705,True
+d6bc6bf2,2026-02-28 16:57:43,student_26,GET,/api/user/profile,,400,1119,True
+ea2f7ad2,2026-02-05 02:50:09,student_01,GET,/api/user/profile,,400,1626,True
+9ed25a3c,2026-03-03 08:32:12,student_08,GET,/api/user/profile,,404,450,True
+418ab0d5,2026-02-04 23:07:39,student_02,POST,/api/orders,"{""id"": 1, ""qty"": 630}",200,1062,False
+685ffe74,2026-02-01 23:59:02,student_07,GET,/api/products/1,,200,427,False
+5c487677,2026-02-07 02:40:05,student_21,POST,/api/cart/add,"{""id"": 1, ""qty"": 602}",500,458,True
+ea40dc96,2026-02-08 06:44:47,student_08,POST,/api/orders,"{""id"": 1, ""qty"": 324}",400,1018,True
+230c1e83,2026-02-02 06:58:37,student_50,POST,/api/cart/add,"{""id"": 1, ""qty"": 671}",200,564,False
+cd650fee,2026-02-02 11:01:13,student_37,GET,/api/user/profile,,404,967,True
+6219b4dd,2026-03-02 08:43:30,student_48,POST,/api/orders,"{""id"": 1, ""qty"": 288}",200,884,False
+2efecc26,2026-03-01 12:42:31,student_07,POST,/api/orders,"{""id"": 1, ""qty"": 468}",400,1834,True
+8f531bf3,2026-02-08 21:56:45,student_10,POST,/api/orders,"{""id"": 1, ""qty"": 193}",200,1067,False
+428ef8b6,2026-02-02 18:13:21,student_26,GET,/api/products,,200,429,False
+271d3b4f,2026-02-22 06:01:59,student_25,GET,/api/user/profile,,400,1267,True
+c030ef5d,2026-02-05 23:41:16,student_13,POST,/api/cart/add,"{""id"": 1, ""qty"": 131}",200,1275,False
+23016292,2026-03-01 10:27:48,student_20,GET,/api/products,,500,1773,True
+6b7eab23,2026-02-27 13:59:11,student_38,GET,/api/user/profile,,500,423,True
+49770a3c,2026-02-09 12:53:51,student_09,GET,/api/products/1,,200,902,False
+420170d5,2026-02-27 16:38:52,student_23,GET,/api/products,,200,155,False
+8235f8ea,2026-02-06 16:23:31,student_08,GET,/api/products/1,,200,1609,False
+86861ca7,2026-02-10 14:08:48,student_01,GET,/api/user/profile,,400,968,True
+9d3209a2,2026-02-18 11:30:54,student_49,GET,/api/products,,200,1846,False
+7d8a7828,2026-02-24 21:07:39,student_39,GET,/api/user/profile,,200,465,False
+e91976ea,2026-02-03 23:51:05,student_49,POST,/api/cart/add,"{""id"": 1, ""qty"": 243}",200,1143,False
+caf5bdd3,2026-02-04 17:50:30,student_48,GET,/api/user/profile,,400,784,True
+625f8dd3,2026-03-03 04:08:27,student_42,GET,/api/products/1,,500,807,True
+790692f9,2026-02-21 00:21:20,student_37,GET,/api/products/1,,200,852,False
+11f0dfa2,2026-02-12 23:50:30,student_19,POST,/api/cart/add,"{""id"": 1, ""qty"": 808}",200,1222,False
+5ad288f6,2026-02-01 12:54:18,student_43,POST,/api/orders,"{""id"": 1, ""qty"": 990}",200,1374,False
+fda6a826,2026-02-06 21:10:00,student_10,GET,/api/products,,200,261,False
+ea196bb1,2026-02-02 03:39:37,student_07,GET,/api/products/1,,500,66,True
+3d43b39f,2026-03-02 23:00:49,student_05,GET,/api/user/profile,,400,1240,True
+b99ba7f1,2026-02-17 00:54:16,student_14,POST,/api/cart/add,"{""id"": 1, ""qty"": 60}",500,1137,True
+c0ed70ae,2026-02-20 05:02:43,student_45,POST,/api/cart/add,"{""id"": 1, ""qty"": 808}",200,456,False
+f835c673,2026-02-07 14:19:13,student_26,GET,/api/products,,200,1594,False
+1bad31c5,2026-02-28 12:29:07,student_09,GET,/api/products,,200,699,False
+ab2012c2,2026-02-22 15:41:39,student_03,POST,/api/orders,"{""id"": 1, ""qty"": 468}",200,861,False
+82a0484c,2026-02-24 05:07:59,student_24,GET,/api/products/1,,200,479,False
+27d7eed1,2026-03-02 13:27:41,student_39,POST,/api/orders,"{""id"": 1, ""qty"": 9}",500,923,True
+9685bb45,2026-02-19 05:54:48,student_43,POST,/api/orders,"{""id"": 1, ""qty"": 693}",200,265,False
+d0c5b6be,2026-02-28 01:34:17,student_13,POST,/api/orders,"{""id"": 1, ""qty"": 494}",404,198,True
+fb861838,2026-02-13 19:48:10,student_30,POST,/api/cart/add,"{""id"": 1, ""qty"": 772}",200,1009,False
+409d7ab2,2026-02-11 04:30:26,student_42,GET,/api/user/profile,,404,103,True
+5bf39864,2026-02-28 04:16:58,student_47,GET,/api/products,,200,1877,False
+4a3e6a7b,2026-02-23 18:12:17,student_07,GET,/api/user/profile,,200,452,False
+45881919,2026-02-25 16:09:38,student_45,GET,/api/products,,200,559,False
+7968b146,2026-02-23 18:29:24,student_17,POST,/api/cart/add,"{""id"": 1, ""qty"": 250}",404,371,True
+c48f0e0c,2026-02-05 22:58:12,student_32,GET,/api/products,,200,1014,False
+ec3101df,2026-02-05 09:50:31,student_32,POST,/api/cart/add,"{""id"": 1, ""qty"": 289}",404,1271,True
+9f3d85fc,2026-02-06 21:36:57,student_22,POST,/api/orders,"{""id"": 1, ""qty"": 835}",200,1097,False
+ecc0727f,2026-02-02 06:11:29,student_45,GET,/api/products/1,,200,693,False
+66ded4d4,2026-02-08 15:29:57,student_48,POST,/api/cart/add,"{""id"": 1, ""qty"": 588}",400,651,True
+d9522c14,2026-02-05 02:48:16,student_13,POST,/api/cart/add,"{""id"": 1, ""qty"": 698}",200,884,False
+8ffb9f4a,2026-02-15 09:08:07,student_22,POST,/api/cart/add,"{""id"": 1, ""qty"": 270}",200,1525,False
+4773bb04,2026-02-24 14:50:10,student_27,GET,/api/user/profile,,500,990,True
+0f4d34a7,2026-03-03 02:23:03,student_41,POST,/api/cart/add,"{""id"": 1, ""qty"": 803}",500,1232,True
+a2e3a0d2,2026-02-27 18:39:48,student_08,POST,/api/cart/add,"{""id"": 1, ""qty"": 478}",404,1866,True
+c05bf4af,2026-02-20 23:44:16,student_03,GET,/api/products/1,,500,1256,True
+cdbbe25c,2026-02-18 11:40:45,student_18,POST,/api/cart/add,"{""id"": 1, ""qty"": 793}",200,1616,False
+d66fa2c7,2026-02-15 16:11:37,student_28,POST,/api/orders,"{""id"": 1, ""qty"": 397}",404,1812,True
+22361d4d,2026-02-28 15:30:14,student_11,POST,/api/cart/add,"{""id"": 1, ""qty"": 504}",200,929,False
+6f373b9c,2026-02-18 01:23:07,student_49,GET,/api/products,,404,1341,True
+fc64df4b,2026-02-03 09:54:56,student_34,POST,/api/orders,"{""id"": 1, ""qty"": 767}",404,721,True
+11d26541,2026-02-15 05:16:36,student_01,POST,/api/orders,"{""id"": 1, ""qty"": 366}",200,372,False
+9f3b17eb,2026-02-04 20:01:33,student_08,POST,/api/orders,"{""id"": 1, ""qty"": 515}",200,234,False
+4bdbe9ca,2026-02-20 22:10:19,student_28,GET,/api/products,,200,996,False
+262947e0,2026-02-22 04:11:47,student_30,GET,/api/user/profile,,200,384,False
+1b2a3d54,2026-02-15 06:40:24,student_13,GET,/api/products/1,,200,1266,False
+f08dd7ce,2026-02-24 02:38:29,student_14,GET,/api/user/profile,,200,1424,False
+bcaa4e27,2026-02-25 11:36:01,student_44,POST,/api/cart/add,"{""id"": 1, ""qty"": 972}",500,518,True
+e5c6b045,2026-02-08 19:32:54,student_20,GET,/api/products,,400,1506,True
+b10dfcec,2026-02-02 20:13:37,student_29,POST,/api/orders,"{""id"": 1, ""qty"": 703}",404,1776,True
+78ba91cf,2026-02-15 04:19:41,student_49,GET,/api/products/1,,200,143,False
+2c68f915,2026-02-11 23:28:51,student_04,GET,/api/products/1,,500,549,True
+9c5831fe,2026-02-18 09:31:26,student_19,GET,/api/products/1,,200,362,False
+c4de0a47,2026-02-10 02:22:19,student_45,GET,/api/products/1,,404,1904,True
+62ae2d68,2026-02-23 22:03:11,student_31,GET,/api/products,,200,207,False
+9dbc695e,2026-02-05 09:52:59,student_03,GET,/api/products,,500,1923,True
+04ece210,2026-02-23 00:08:59,student_01,POST,/api/orders,"{""id"": 1, ""qty"": 724}",200,59,False
+ab2453e1,2026-02-27 11:21:20,student_05,POST,/api/cart/add,"{""id"": 1, ""qty"": 914}",200,481,False
+e4100069,2026-02-22 15:58:57,student_24,GET,/api/user/profile,,500,721,True
+74089cfe,2026-02-14 16:47:05,student_31,GET,/api/products/1,,404,386,True
+c287888a,2026-02-02 08:33:32,student_34,POST,/api/orders,"{""id"": 1, ""qty"": 573}",200,526,False
+f251b86b,2026-02-25 15:05:09,student_24,POST,/api/orders,"{""id"": 1, ""qty"": 435}",200,1351,False
+a2431081,2026-02-21 14:40:12,student_22,GET,/api/products/1,,200,1888,False
+3b8fe316,2026-02-28 18:03:42,student_20,GET,/api/products,,200,813,False
+f9f9ff44,2026-02-18 21:25:27,student_09,GET,/api/products/1,,400,1215,True
+00bf3574,2026-02-27 18:30:24,student_05,POST,/api/cart/add,"{""id"": 1, ""qty"": 483}",400,189,True
+e6f24e7c,2026-02-10 03:12:01,student_31,GET,/api/products/1,,200,1631,False
+de1c4107,2026-02-22 14:08:40,student_38,POST,/api/orders,"{""id"": 1, ""qty"": 529}",200,1025,False
+75c24919,2026-02-02 03:31:46,student_29,GET,/api/products,,200,854,False
+4c1c0e40,2026-02-21 15:58:30,student_19,GET,/api/user/profile,,200,1747,False
+28b8bd77,2026-02-15 17:03:28,student_34,POST,/api/cart/add,"{""id"": 1, ""qty"": 922}",200,1550,False
+d480edab,2026-03-01 21:27:28,student_03,GET,/api/products/1,,500,878,True
+a69a7d34,2026-02-26 06:10:01,student_11,GET,/api/products/1,,200,1973,False
+380269fe,2026-02-16 22:41:33,student_21,GET,/api/user/profile,,200,1762,False
+8d88dc76,2026-02-07 01:49:08,student_29,GET,/api/products/1,,200,637,False
+953bfff5,2026-02-13 11:27:34,student_34,POST,/api/cart/add,"{""id"": 1, ""qty"": 295}",404,1524,True
+587d6c2b,2026-02-03 19:52:27,student_12,POST,/api/orders,"{""id"": 1, ""qty"": 681}",400,420,True
+8c89e316,2026-02-14 02:11:02,student_38,GET,/api/user/profile,,200,380,False
+8d176bc5,2026-02-11 22:27:25,student_33,GET,/api/user/profile,,500,410,True
+8974820d,2026-02-15 09:04:37,student_08,GET,/api/products,,404,1395,True
+80d6d59a,2026-02-21 02:00:45,student_24,GET,/api/user/profile,,404,548,True
+91b7c673,2026-02-23 21:33:13,student_38,POST,/api/cart/add,"{""id"": 1, ""qty"": 110}",400,703,True
+f28cf005,2026-02-18 11:25:07,student_25,GET,/api/products/1,,200,1669,False
+c89c21c6,2026-02-09 10:57:19,student_05,GET,/api/products,,200,1038,False

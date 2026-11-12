@@ -1,0 +1,2537 @@
+click_id,timestamp,user_id,element_id,element_text,coordinates_x,coordinates_y,is_error_click
+c14b0587,2026-02-25 01:07:34,student_35,btn_buy,Купить,1737,857,True
+10e290ba,2026-02-25 01:08:15,student_35,btn_buy,Купить,1053,215,False
+7a2d4c4c,2026-02-25 01:08:32,student_35,btn_buy,Купить,506,759,False
+7338b58a,2026-02-25 01:09:19,student_35,btn_add_cart,В корзину,594,915,False
+fc00aa79,2026-02-25 01:10:07,student_35,filter_sort,Сортировка,915,389,False
+a9f501c6,2026-02-25 01:10:47,student_35,filter_sort,Сортировка,1659,949,False
+9d26895b,2026-02-25 01:11:12,student_35,btn_submit,Оформить,578,821,False
+3c1faf5f,2026-02-25 01:12:11,student_35,btn_add_cart,В корзину,59,89,False
+bc7437fa,2026-02-25 01:13:04,student_35,btn_submit,Оформить,294,839,True
+2b3dc365,2026-02-25 01:13:39,student_35,filter_sort,Сортировка,1831,187,False
+aa972676,2026-02-25 01:14:23,student_35,filter_sort,Сортировка,1620,32,False
+aba22b2c,2026-02-25 01:15:14,student_35,filter_sort,Сортировка,1815,874,False
+83b0b5c9,2026-02-25 01:16:00,student_35,btn_submit,Оформить,1158,850,False
+3a9c9c40,2026-02-25 01:16:19,student_35,filter_sort,Сортировка,1362,102,False
+88ae5809,2026-02-25 01:17:08,student_35,btn_submit,Оформить,1861,810,False
+095fa539,2026-02-25 01:17:31,student_35,btn_buy,Купить,913,493,False
+71b9fc6c,2026-02-25 01:17:53,student_35,btn_submit,Оформить,858,58,False
+bfd28d20,2026-02-25 01:18:14,student_35,btn_add_cart,В корзину,1204,521,False
+8fcb9482,2026-02-25 01:18:22,student_35,btn_submit,Оформить,725,184,False
+12593ff0,2026-02-25 01:18:49,student_35,filter_sort,Сортировка,1251,48,False
+abcb01ee,2026-02-22 16:13:21,student_50,btn_buy,Купить,876,781,False
+97ecfab8,2026-02-22 16:14:20,student_50,btn_submit,Оформить,237,843,False
+6dbb065a,2026-02-22 16:14:28,student_50,btn_submit,Оформить,354,811,False
+f64617e5,2026-02-22 16:14:33,student_50,btn_submit,Оформить,548,665,False
+acaa90c0,2026-02-22 16:15:27,student_50,btn_submit,Оформить,1745,232,False
+8b459528,2026-02-22 16:16:14,student_50,btn_submit,Оформить,114,780,False
+b289f330,2026-02-22 16:17:06,student_50,btn_buy,Купить,439,203,True
+b4def26a,2026-02-22 16:17:09,student_50,filter_sort,Сортировка,504,137,False
+dab303d8,2026-02-22 16:17:44,student_50,btn_buy,Купить,1413,401,True
+24985e77,2026-02-22 16:17:47,student_50,filter_sort,Сортировка,369,120,False
+3dde3d38,2026-02-22 16:18:00,student_50,btn_submit,Оформить,737,1030,False
+3521a4fc,2026-02-22 16:18:12,student_50,filter_sort,Сортировка,815,498,False
+56ab1b36,2026-02-22 16:19:07,student_50,filter_sort,Сортировка,280,90,False
+c836cb49,2026-02-22 16:19:25,student_50,filter_sort,Сортировка,1502,19,False
+2a81adb5,2026-02-22 16:20:10,student_50,filter_sort,Сортировка,296,851,False
+1af8246d,2026-02-22 16:20:58,student_50,filter_sort,Сортировка,420,269,False
+ff3f9a95,2026-02-22 16:21:01,student_50,filter_sort,Сортировка,1616,791,False
+0f26c56d,2026-02-14 04:30:43,student_12,btn_add_cart,В корзину,726,281,False
+8990eb0e,2026-02-14 04:30:47,student_12,filter_sort,Сортировка,748,537,False
+cafc8f52,2026-02-14 04:31:11,student_12,btn_submit,Оформить,681,459,False
+455f131b,2026-02-14 04:32:04,student_12,btn_add_cart,В корзину,322,1019,True
+3288f079,2026-02-14 04:32:40,student_12,filter_sort,Сортировка,580,216,True
+a58fe870,2026-02-14 04:33:08,student_12,filter_sort,Сортировка,167,153,True
+53a12171,2026-02-14 04:33:24,student_12,btn_buy,Купить,1471,693,False
+010c1fc7,2026-02-07 19:42:23,student_23,filter_sort,Сортировка,1683,304,False
+49ab6160,2026-02-07 19:43:09,student_23,btn_buy,Купить,1887,703,False
+6e6aa190,2026-02-07 19:43:55,student_23,filter_sort,Сортировка,1808,62,False
+3db8664e,2026-02-07 19:44:19,student_23,btn_submit,Оформить,78,926,False
+917d3bd2,2026-02-07 19:44:40,student_23,btn_buy,Купить,1597,239,True
+c5b7d1a8,2026-02-07 19:44:53,student_23,btn_add_cart,В корзину,600,640,False
+be2e6d2f,2026-02-07 19:45:20,student_23,filter_sort,Сортировка,89,809,True
+049ee57a,2026-02-07 19:45:27,student_23,btn_submit,Оформить,1115,305,False
+e7b8b0c3,2026-02-07 19:46:04,student_23,btn_submit,Оформить,1763,412,False
+8eeafc6c,2026-02-26 05:59:55,student_05,btn_submit,Оформить,175,711,True
+23584f0c,2026-02-26 06:00:55,student_05,btn_add_cart,В корзину,1010,624,True
+a42b0bc6,2026-02-26 06:00:57,student_05,filter_sort,Сортировка,1311,105,False
+018bde82,2026-02-26 06:01:20,student_05,btn_buy,Купить,960,710,False
+e0b55860,2026-02-26 06:02:09,student_05,btn_buy,Купить,1788,283,False
+73562c01,2026-02-26 06:02:20,student_05,btn_submit,Оформить,624,492,False
+681f7cfe,2026-02-26 06:03:20,student_05,btn_buy,Купить,1305,60,False
+b4014f65,2026-02-19 00:05:31,student_47,btn_submit,Оформить,19,332,False
+12c35e87,2026-02-19 00:06:16,student_47,btn_add_cart,В корзину,1848,15,False
+7ef172bf,2026-02-19 00:06:17,student_47,filter_sort,Сортировка,988,282,False
+7cf11295,2026-02-19 00:06:30,student_47,btn_add_cart,В корзину,87,81,False
+ae402117,2026-02-19 00:07:29,student_47,btn_buy,Купить,862,1060,False
+0b8dcdc4,2026-02-19 00:08:24,student_47,filter_sort,Сортировка,1702,527,False
+a2e912ce,2026-02-19 00:08:44,student_47,btn_add_cart,В корзину,1703,84,False
+3531fdc9,2026-02-19 00:09:03,student_47,btn_add_cart,В корзину,190,871,False
+614970a8,2026-02-19 00:09:10,student_47,btn_buy,Купить,612,1004,False
+50686d76,2026-02-19 00:09:54,student_47,btn_buy,Купить,952,501,False
+8b809ae6,2026-02-19 00:10:34,student_47,filter_sort,Сортировка,1644,894,False
+48e7548f,2026-02-19 00:10:56,student_47,btn_submit,Оформить,51,752,False
+933640c6,2026-02-19 00:11:56,student_47,btn_add_cart,В корзину,615,123,False
+6248115a,2026-02-19 00:12:39,student_47,btn_submit,Оформить,99,894,True
+860e5953,2026-02-19 00:13:04,student_47,btn_submit,Оформить,91,842,False
+6fac2b24,2026-02-19 00:13:43,student_47,btn_add_cart,В корзину,1614,122,False
+303bee40,2026-02-19 00:14:10,student_47,filter_sort,Сортировка,1437,457,False
+a2881751,2026-02-19 00:14:19,student_47,btn_add_cart,В корзину,1793,1036,False
+5acee6b7,2026-02-19 00:15:12,student_47,btn_submit,Оформить,372,1032,False
+f44925a6,2026-02-24 13:55:17,student_29,btn_buy,Купить,120,337,False
+c5d0ca33,2026-02-24 13:55:34,student_29,btn_buy,Купить,1564,998,False
+79afc591,2026-02-24 13:56:09,student_29,btn_submit,Оформить,29,273,False
+ddd38dad,2026-02-24 13:56:44,student_29,btn_add_cart,В корзину,1011,1047,False
+5393cc54,2026-02-24 13:56:54,student_29,filter_sort,Сортировка,1852,349,False
+a781a3c8,2026-02-10 06:41:18,student_05,btn_submit,Оформить,743,335,False
+b83b973f,2026-02-10 06:41:48,student_05,btn_buy,Купить,387,586,False
+1ab8e025,2026-02-10 06:42:33,student_05,btn_add_cart,В корзину,701,180,False
+dbfd12b0,2026-02-10 06:43:29,student_05,btn_buy,Купить,1342,330,False
+3c5ef00f,2026-02-10 06:43:44,student_05,filter_sort,Сортировка,1452,410,False
+00d26bcb,2026-02-10 06:44:30,student_05,btn_submit,Оформить,1668,707,False
+77f56ae9,2026-02-10 06:45:02,student_05,btn_submit,Оформить,1916,590,False
+eaa8e6d5,2026-02-10 06:45:29,student_05,btn_buy,Купить,860,970,False
+933da632,2026-02-10 06:45:36,student_05,btn_submit,Оформить,995,70,False
+4619e1c5,2026-02-10 06:46:09,student_05,btn_buy,Купить,185,201,False
+22301474,2026-02-10 06:46:34,student_05,filter_sort,Сортировка,1799,1056,False
+c04823a4,2026-02-20 14:58:09,student_21,filter_sort,Сортировка,1091,961,False
+099c2bec,2026-02-20 14:58:41,student_21,btn_buy,Купить,1152,378,False
+94f664ec,2026-02-20 14:58:59,student_21,filter_sort,Сортировка,731,851,False
+9f3f52f1,2026-02-20 14:59:36,student_21,btn_buy,Купить,150,729,False
+31732dfd,2026-02-20 14:59:39,student_21,btn_submit,Оформить,437,956,False
+32af18d6,2026-02-20 15:00:15,student_21,filter_sort,Сортировка,1830,933,False
+67aacbb1,2026-02-20 15:00:49,student_21,filter_sort,Сортировка,1918,382,False
+0c5406c6,2026-02-20 15:01:46,student_21,btn_buy,Купить,1215,832,False
+590f9de5,2026-02-20 15:01:49,student_21,btn_buy,Купить,408,164,True
+a1071831,2026-02-20 15:02:44,student_21,filter_sort,Сортировка,47,851,True
+4482c6dc,2026-02-20 15:03:16,student_21,btn_submit,Оформить,1548,219,True
+1c8a0234,2026-02-11 13:40:28,student_38,btn_buy,Купить,740,326,False
+22963478,2026-02-11 13:40:57,student_38,btn_buy,Купить,747,976,False
+3e850054,2026-02-11 13:41:51,student_38,btn_buy,Купить,900,803,False
+bdb27370,2026-02-11 13:42:31,student_38,btn_buy,Купить,1700,750,False
+62b7d7b0,2026-02-11 13:43:20,student_38,btn_submit,Оформить,772,39,False
+953ec75a,2026-02-11 13:43:50,student_38,btn_add_cart,В корзину,1641,541,False
+7c2980cf,2026-02-27 22:48:18,student_43,btn_submit,Оформить,560,578,False
+b291695d,2026-02-27 22:48:53,student_43,btn_buy,Купить,406,171,False
+077c621a,2026-02-27 22:48:56,student_43,btn_submit,Оформить,80,39,False
+4171d81e,2026-02-27 22:49:07,student_43,btn_buy,Купить,974,955,False
+e1f879b3,2026-02-27 22:49:22,student_43,filter_sort,Сортировка,653,64,False
+58ed85f1,2026-02-12 08:28:27,student_46,btn_buy,Купить,356,307,False
+f964f239,2026-02-12 08:29:25,student_46,btn_buy,Купить,1689,33,False
+a8947447,2026-02-12 08:30:02,student_46,btn_add_cart,В корзину,844,536,True
+3cc372ee,2026-02-12 08:30:22,student_46,btn_submit,Оформить,417,949,False
+11d5551d,2026-02-12 08:30:50,student_46,btn_buy,Купить,425,78,False
+2cf69896,2026-02-12 08:31:34,student_46,filter_sort,Сортировка,1247,793,False
+a1a1b497,2026-02-12 08:32:14,student_46,btn_submit,Оформить,924,886,False
+d1f5bfd0,2026-02-12 08:33:04,student_46,filter_sort,Сортировка,599,584,False
+61115ab2,2026-02-12 08:33:12,student_46,btn_buy,Купить,527,648,True
+6ce5c957,2026-02-26 09:40:16,student_22,btn_buy,Купить,1232,486,False
+884105d7,2026-02-26 09:41:09,student_22,btn_submit,Оформить,1452,162,False
+cc4bdb07,2026-02-26 09:41:13,student_22,btn_buy,Купить,1865,781,False
+3c7cb37c,2026-02-26 09:41:37,student_22,btn_buy,Купить,613,952,False
+4bba6d7e,2026-02-26 09:42:10,student_22,btn_buy,Купить,1083,113,False
+d96b6ede,2026-02-26 09:43:04,student_22,btn_add_cart,В корзину,1317,42,False
+d53a8af4,2026-02-26 09:43:33,student_22,btn_submit,Оформить,1762,243,False
+3dfd4554,2026-02-26 09:44:29,student_22,btn_buy,Купить,1594,616,False
+1bfd0d2c,2026-02-26 09:44:54,student_22,btn_add_cart,В корзину,808,906,False
+80bc9bb3,2026-02-26 09:45:21,student_22,btn_add_cart,В корзину,1440,880,False
+f2815487,2026-02-26 09:46:11,student_22,filter_sort,Сортировка,852,695,False
+d77ac45a,2026-02-26 09:46:20,student_22,btn_add_cart,В корзину,289,113,False
+3d5c5e5c,2026-02-26 09:47:12,student_22,btn_buy,Купить,223,31,False
+b71745c9,2026-02-04 22:20:59,student_12,btn_add_cart,В корзину,684,561,False
+573c2ac4,2026-02-04 22:21:41,student_12,btn_submit,Оформить,336,788,False
+2d2b497d,2026-02-04 22:21:58,student_12,filter_sort,Сортировка,127,74,False
+ee097a5f,2026-02-04 22:22:29,student_12,btn_buy,Купить,725,978,False
+a8a9b980,2026-02-04 22:23:29,student_12,btn_submit,Оформить,587,994,False
+dd1ccf31,2026-02-04 22:23:41,student_12,btn_submit,Оформить,1158,27,False
+a994d374,2026-02-04 22:24:34,student_12,btn_add_cart,В корзину,1208,10,False
+38e4474c,2026-02-04 22:25:03,student_12,btn_buy,Купить,477,311,False
+1f01222a,2026-02-04 22:25:12,student_12,btn_buy,Купить,415,542,False
+c046013f,2026-02-04 22:25:38,student_12,btn_add_cart,В корзину,1435,205,False
+36b02383,2026-02-04 22:25:40,student_12,btn_buy,Купить,89,633,True
+789d4a67,2026-02-04 22:25:42,student_12,btn_submit,Оформить,486,814,False
+9c53c9de,2026-02-04 22:25:54,student_12,filter_sort,Сортировка,1588,59,False
+cccf84d1,2026-02-04 22:26:07,student_12,btn_buy,Купить,1645,934,False
+9c62d17e,2026-02-04 22:26:12,student_12,filter_sort,Сортировка,1193,813,True
+cf18d333,2026-02-04 22:26:39,student_12,btn_submit,Оформить,357,875,False
+2108b295,2026-02-04 22:27:29,student_12,filter_sort,Сортировка,1471,115,False
+65a28e9c,2026-02-13 01:56:39,student_29,btn_add_cart,В корзину,1366,977,False
+3420ddba,2026-02-13 01:56:59,student_29,btn_submit,Оформить,38,440,True
+da9f25c5,2026-02-13 01:57:17,student_29,filter_sort,Сортировка,106,362,True
+46e4d0de,2026-02-13 01:57:46,student_29,filter_sort,Сортировка,1533,698,False
+60b532ab,2026-02-13 01:58:23,student_29,filter_sort,Сортировка,666,344,False
+8cdef79b,2026-02-13 01:59:16,student_29,btn_submit,Оформить,1504,240,False
+e3c402f3,2026-02-05 12:02:01,student_35,btn_add_cart,В корзину,853,880,False
+b3b0492e,2026-02-05 12:02:09,student_35,btn_add_cart,В корзину,1517,415,False
+9caac006,2026-02-05 12:02:37,student_35,filter_sort,Сортировка,1741,943,False
+d5762f96,2026-02-05 12:02:53,student_35,btn_buy,Купить,1747,14,False
+358049fe,2026-02-05 12:03:40,student_35,btn_add_cart,В корзину,1724,908,False
+72cf11d3,2026-02-05 12:04:11,student_35,btn_submit,Оформить,1277,692,False
+0c6173e0,2026-02-05 12:04:56,student_35,filter_sort,Сортировка,1217,702,False
+0f98c093,2026-02-08 14:24:57,student_18,btn_add_cart,В корзину,760,474,False
+f7f66c0f,2026-02-08 14:25:28,student_18,btn_add_cart,В корзину,642,951,False
+587e387e,2026-02-08 14:25:31,student_18,btn_submit,Оформить,1,779,False
+d1a42f6a,2026-02-08 14:25:52,student_18,filter_sort,Сортировка,889,917,False
+29ece50e,2026-02-08 14:25:59,student_18,btn_submit,Оформить,725,255,False
+6e85fd86,2026-02-08 14:26:05,student_18,btn_buy,Купить,1195,295,False
+4f1acbaa,2026-02-08 14:26:54,student_18,btn_submit,Оформить,1637,894,False
+32fd7200,2026-02-08 14:27:41,student_18,btn_add_cart,В корзину,221,1007,False
+3d5cf141,2026-02-19 01:58:01,student_35,filter_sort,Сортировка,197,283,False
+fe82b225,2026-02-19 01:58:51,student_35,btn_buy,Купить,1688,519,False
+1fee67ab,2026-02-19 01:59:28,student_35,btn_buy,Купить,1410,710,False
+c1f8488a,2026-02-19 02:00:27,student_35,btn_add_cart,В корзину,620,686,False
+7bc9660d,2026-02-19 02:01:25,student_35,filter_sort,Сортировка,1422,326,False
+faa71dcb,2026-02-19 02:01:34,student_35,btn_submit,Оформить,692,946,False
+ad36c205,2026-02-19 02:02:20,student_35,btn_submit,Оформить,702,911,False
+d1518b72,2026-02-19 02:03:07,student_35,btn_buy,Купить,62,923,False
+d29ef626,2026-02-19 02:03:15,student_35,filter_sort,Сортировка,1691,279,False
+e0fd3367,2026-02-19 02:04:12,student_35,btn_add_cart,В корзину,1554,163,False
+7d78a97c,2026-02-19 02:05:08,student_35,btn_buy,Купить,146,989,False
+556debbc,2026-02-19 02:05:09,student_35,btn_add_cart,В корзину,274,946,True
+5f9c0f22,2026-02-19 02:05:52,student_35,btn_submit,Оформить,1137,204,False
+e9f69202,2026-02-19 02:06:02,student_35,btn_buy,Купить,1588,510,False
+00cc5ca6,2026-02-15 16:13:36,student_20,btn_add_cart,В корзину,1389,597,False
+ac9d54c7,2026-02-15 16:14:00,student_20,filter_sort,Сортировка,920,773,False
+a16b9251,2026-02-15 16:14:52,student_20,btn_submit,Оформить,1447,816,False
+a970c91f,2026-02-15 16:15:39,student_20,btn_buy,Купить,1121,1044,False
+badb6c7b,2026-02-15 16:15:47,student_20,filter_sort,Сортировка,844,234,False
+b73631f7,2026-02-15 16:16:30,student_20,btn_buy,Купить,1399,781,False
+eb6a38e2,2026-02-15 16:17:14,student_20,btn_submit,Оформить,1033,111,False
+0c83391c,2026-02-15 16:18:00,student_20,btn_buy,Купить,673,933,False
+ad7dcbfe,2026-02-15 16:18:30,student_20,filter_sort,Сортировка,1860,483,False
+0a753b8b,2026-02-15 16:18:50,student_20,btn_add_cart,В корзину,1355,753,False
+2253656c,2026-02-15 16:19:04,student_20,btn_submit,Оформить,8,1054,False
+1b63e35d,2026-02-15 16:19:08,student_20,btn_submit,Оформить,838,642,False
+5e9c6bb7,2026-02-15 16:19:30,student_20,btn_add_cart,В корзину,1007,367,False
+051545b0,2026-02-15 16:20:08,student_20,btn_buy,Купить,930,66,False
+68bb10eb,2026-02-15 16:20:27,student_20,btn_buy,Купить,1166,800,False
+19f3593f,2026-02-15 16:21:17,student_20,btn_submit,Оформить,1675,604,False
+d376c47f,2026-03-01 02:01:52,student_30,filter_sort,Сортировка,129,482,False
+04fc0794,2026-03-01 02:02:01,student_30,filter_sort,Сортировка,1742,165,False
+f24b0f29,2026-03-01 02:02:18,student_30,btn_buy,Купить,1153,670,False
+7bf159f1,2026-03-01 02:02:26,student_30,btn_add_cart,В корзину,1750,162,False
+b0f7e2d7,2026-03-01 02:02:50,student_30,btn_submit,Оформить,1748,132,False
+0d1de18f,2026-03-01 02:03:04,student_30,btn_add_cart,В корзину,1644,740,False
+1af69d92,2026-03-01 02:03:42,student_30,btn_submit,Оформить,319,1060,False
+124301c1,2026-03-01 02:03:49,student_30,btn_buy,Купить,250,482,False
+52b531e7,2026-03-01 02:04:19,student_30,btn_submit,Оформить,184,720,False
+4c61ced2,2026-03-01 02:04:50,student_30,btn_add_cart,В корзину,860,336,False
+3df4b79e,2026-03-01 02:05:01,student_30,btn_submit,Оформить,1546,295,True
+ee943de6,2026-03-01 02:05:46,student_30,filter_sort,Сортировка,469,412,False
+5f88e2aa,2026-03-01 02:06:10,student_30,btn_add_cart,В корзину,1111,37,False
+eb8417bb,2026-03-01 02:07:02,student_30,btn_add_cart,В корзину,695,973,False
+91b81fb9,2026-03-01 02:07:55,student_30,btn_submit,Оформить,1877,25,False
+2cb61ca4,2026-03-01 02:08:31,student_30,filter_sort,Сортировка,1555,78,False
+2cda25ba,2026-03-01 02:09:00,student_30,btn_add_cart,В корзину,335,326,False
+c3e99f75,2026-03-01 02:09:48,student_30,btn_buy,Купить,344,637,False
+2a589bd5,2026-02-02 22:49:15,student_06,btn_buy,Купить,1604,760,True
+2037521f,2026-02-02 22:50:14,student_06,btn_submit,Оформить,1894,752,False
+cacf4569,2026-02-02 22:50:43,student_06,btn_submit,Оформить,1241,780,False
+6ac969a5,2026-02-02 22:51:01,student_06,btn_add_cart,В корзину,1295,395,False
+81bcbad9,2026-02-02 22:51:02,student_06,btn_buy,Купить,415,125,False
+241588a7,2026-02-02 22:51:41,student_06,btn_submit,Оформить,450,19,False
+a7e8dedc,2026-02-02 22:52:35,student_06,btn_submit,Оформить,1541,425,False
+b5a0d731,2026-02-02 22:53:12,student_06,btn_add_cart,В корзину,1028,861,False
+3dc79de7,2026-02-02 22:53:28,student_06,btn_add_cart,В корзину,817,492,True
+3057e6d3,2026-02-15 23:54:38,student_15,btn_submit,Оформить,462,177,False
+f741101d,2026-02-15 23:54:39,student_15,btn_submit,Оформить,1037,1077,False
+8397f66a,2026-02-15 23:55:20,student_15,btn_add_cart,В корзину,172,539,False
+edcc6fd0,2026-02-15 23:55:37,student_15,btn_add_cart,В корзину,900,459,False
+7aecbb0b,2026-02-15 23:56:09,student_15,btn_buy,Купить,1478,775,False
+b9a587b4,2026-02-15 23:56:54,student_15,filter_sort,Сортировка,41,195,False
+64848715,2026-02-15 23:57:26,student_15,btn_submit,Оформить,1191,335,False
+3d2640db,2026-02-15 23:58:18,student_15,btn_submit,Оформить,1599,828,False
+9ec5bc0f,2026-02-15 18:49:43,student_11,filter_sort,Сортировка,986,490,False
+dcc7332a,2026-02-15 18:50:36,student_11,btn_submit,Оформить,538,488,False
+5ed1ca45,2026-02-15 18:50:59,student_11,btn_submit,Оформить,1071,213,False
+e0fbf814,2026-02-15 18:51:55,student_11,btn_add_cart,В корзину,361,1073,False
+5b04b487,2026-02-15 18:52:15,student_11,filter_sort,Сортировка,821,1012,False
+3ae4156b,2026-02-15 18:52:52,student_11,filter_sort,Сортировка,1225,3,False
+857c5539,2026-02-15 18:53:34,student_11,btn_add_cart,В корзину,1118,885,False
+a425be02,2026-02-15 18:54:17,student_11,btn_submit,Оформить,863,902,False
+8f4963fd,2026-02-15 18:55:00,student_11,btn_buy,Купить,1150,1051,True
+d8d727c8,2026-02-15 18:55:46,student_11,filter_sort,Сортировка,1564,528,False
+2f4e165f,2026-02-15 18:56:40,student_11,btn_buy,Купить,254,533,True
+63aca6d2,2026-02-15 18:57:17,student_11,btn_submit,Оформить,704,88,False
+9088e0fd,2026-02-15 18:58:00,student_11,btn_add_cart,В корзину,450,701,False
+af092242,2026-02-15 18:58:17,student_11,btn_add_cart,В корзину,859,1045,False
+a29f1354,2026-02-15 18:59:03,student_11,btn_buy,Купить,298,521,False
+d135a832,2026-02-15 19:00:02,student_11,btn_submit,Оформить,376,1048,False
+e1008881,2026-02-15 19:00:42,student_11,filter_sort,Сортировка,1408,237,False
+73583ee6,2026-02-15 19:01:15,student_11,btn_add_cart,В корзину,1607,1008,False
+1e34dc2e,2026-02-03 13:13:35,student_34,btn_submit,Оформить,95,290,False
+88eaf45f,2026-02-03 13:14:20,student_34,btn_submit,Оформить,97,337,False
+66bc31e2,2026-02-03 13:14:24,student_34,btn_submit,Оформить,1352,1075,False
+c21ce9ba,2026-02-03 13:14:34,student_34,btn_add_cart,В корзину,746,464,False
+a6a976d1,2026-02-03 13:15:13,student_34,filter_sort,Сортировка,149,238,True
+de4c3c02,2026-02-03 13:15:33,student_34,filter_sort,Сортировка,1100,20,False
+88075843,2026-02-03 13:16:15,student_34,btn_buy,Купить,963,668,True
+7cf80c9e,2026-02-03 13:16:21,student_34,filter_sort,Сортировка,87,305,False
+0e79ae1a,2026-02-03 13:16:45,student_34,btn_buy,Купить,1072,715,False
+71253ed3,2026-02-03 13:16:56,student_34,btn_add_cart,В корзину,1192,290,False
+59d5edfe,2026-02-03 13:17:01,student_34,btn_buy,Купить,949,482,False
+9edf6371,2026-02-03 13:17:37,student_34,btn_add_cart,В корзину,494,749,False
+bbba7da4,2026-02-03 13:18:02,student_34,btn_buy,Купить,1215,311,True
+aad16d7b,2026-02-03 13:18:57,student_34,btn_add_cart,В корзину,5,753,False
+830b2321,2026-02-03 13:19:37,student_34,btn_submit,Оформить,1365,619,False
+3e377624,2026-02-18 21:12:55,student_19,btn_submit,Оформить,1070,961,False
+b507929e,2026-02-18 21:13:39,student_19,filter_sort,Сортировка,1275,1066,False
+e01757ce,2026-02-18 21:14:22,student_19,filter_sort,Сортировка,353,183,False
+7655ecbc,2026-02-18 21:15:15,student_19,btn_add_cart,В корзину,270,304,False
+8b54f0e7,2026-02-18 21:15:27,student_19,filter_sort,Сортировка,1501,580,True
+c803aa65,2026-02-18 21:15:44,student_19,btn_submit,Оформить,108,492,False
+41ccc923,2026-02-18 21:16:36,student_19,btn_buy,Купить,427,722,False
+8fc86307,2026-02-18 21:16:56,student_19,btn_add_cart,В корзину,464,900,False
+bc5888ad,2026-02-16 20:54:24,student_24,filter_sort,Сортировка,1216,117,False
+96ab586c,2026-02-16 20:55:24,student_24,btn_submit,Оформить,888,55,False
+efae72dd,2026-02-16 20:56:16,student_24,btn_add_cart,В корзину,1665,506,False
+0f0a02b9,2026-02-16 20:57:03,student_24,btn_submit,Оформить,691,401,False
+78648a9a,2026-02-16 20:57:53,student_24,btn_add_cart,В корзину,258,409,False
+2f41a712,2026-02-16 20:57:58,student_24,btn_buy,Купить,688,974,False
+b860009d,2026-02-16 20:58:34,student_24,btn_add_cart,В корзину,1601,1030,False
+1e113298,2026-02-18 03:27:22,student_21,filter_sort,Сортировка,964,357,False
+a23a6e47,2026-02-18 03:27:27,student_21,btn_submit,Оформить,1127,349,False
+e8d7b702,2026-02-18 03:28:11,student_21,btn_add_cart,В корзину,1602,424,False
+2b4b06f3,2026-02-18 03:29:08,student_21,filter_sort,Сортировка,966,373,False
+65f0309d,2026-02-18 03:29:38,student_21,filter_sort,Сортировка,904,203,False
+7e827507,2026-02-18 03:30:18,student_21,btn_add_cart,В корзину,89,963,False
+d4f9ceff,2026-02-18 03:31:01,student_21,btn_add_cart,В корзину,1113,943,False
+8c16226d,2026-02-18 03:31:53,student_21,btn_add_cart,В корзину,757,1052,False
+2edfc256,2026-02-18 03:32:35,student_21,btn_add_cart,В корзину,878,494,False
+175d9a87,2026-02-18 03:33:28,student_21,filter_sort,Сортировка,1292,112,False
+9bee6565,2026-02-18 03:34:04,student_21,filter_sort,Сортировка,327,698,False
+6617a953,2026-02-18 03:34:53,student_21,btn_submit,Оформить,539,1058,False
+284ec1e5,2026-02-18 03:35:45,student_21,btn_submit,Оформить,1148,98,False
+3b816fba,2026-02-18 03:35:46,student_21,btn_add_cart,В корзину,118,517,False
+c36bf061,2026-02-18 03:36:05,student_21,btn_buy,Купить,737,987,False
+f4ae7bf4,2026-02-18 03:36:10,student_21,filter_sort,Сортировка,412,39,False
+b6e93962,2026-02-18 03:36:24,student_21,btn_submit,Оформить,1373,6,False
+3ea26960,2026-02-01 16:31:42,student_27,btn_buy,Купить,143,299,False
+c3ff7786,2026-02-01 16:31:44,student_27,btn_add_cart,В корзину,1545,379,False
+0eeaaca4,2026-02-01 16:32:44,student_27,filter_sort,Сортировка,995,869,True
+1396a37c,2026-02-01 16:33:24,student_27,btn_submit,Оформить,1698,1069,True
+2130754e,2026-02-01 16:33:39,student_27,btn_buy,Купить,1748,973,False
+58fa893d,2026-02-01 16:34:26,student_27,btn_buy,Купить,728,462,False
+76cde548,2026-02-01 16:34:40,student_27,btn_add_cart,В корзину,1087,1035,False
+bce57c1a,2026-02-01 16:35:40,student_27,btn_add_cart,В корзину,1663,821,False
+10fdf7a7,2026-02-01 16:36:00,student_27,btn_add_cart,В корзину,915,543,False
+1e8c9884,2026-02-01 16:36:14,student_27,filter_sort,Сортировка,1846,436,False
+97196f52,2026-02-01 16:36:54,student_27,btn_submit,Оформить,857,1022,True
+c6956564,2026-02-01 16:37:41,student_27,filter_sort,Сортировка,390,643,True
+27c85b3f,2026-02-01 16:38:15,student_27,btn_submit,Оформить,1175,386,False
+1ccc1f1f,2026-02-01 16:38:55,student_27,btn_submit,Оформить,1505,277,False
+d765dc3f,2026-02-01 16:39:07,student_27,btn_submit,Оформить,1263,952,False
+b7073f6a,2026-02-01 16:39:51,student_27,filter_sort,Сортировка,1829,149,False
+b830cbe6,2026-02-22 20:07:46,student_07,btn_add_cart,В корзину,806,992,False
+540f9792,2026-02-22 20:07:56,student_07,btn_buy,Купить,1600,593,False
+4534e38d,2026-02-22 20:08:01,student_07,filter_sort,Сортировка,1789,1064,False
+4ed519dc,2026-02-22 20:08:06,student_07,btn_add_cart,В корзину,1338,580,False
+170bdb74,2026-02-22 20:09:04,student_07,btn_submit,Оформить,1908,384,False
+3b3c8acd,2026-02-22 20:09:54,student_07,filter_sort,Сортировка,1823,372,False
+dee67e52,2026-02-22 20:10:06,student_07,filter_sort,Сортировка,1241,191,False
+b0c6736e,2026-02-22 20:10:21,student_07,btn_submit,Оформить,959,769,False
+18e74f26,2026-02-22 20:11:18,student_07,btn_buy,Купить,71,460,True
+715f790b,2026-02-20 19:03:26,student_28,btn_buy,Купить,991,483,False
+8c897047,2026-02-20 19:03:36,student_28,btn_buy,Купить,1126,763,False
+554d79d9,2026-02-20 19:03:42,student_28,btn_buy,Купить,1897,211,False
+92771a23,2026-02-20 19:03:47,student_28,btn_add_cart,В корзину,1105,846,False
+cf47d5d4,2026-02-20 19:04:39,student_28,btn_add_cart,В корзину,1203,916,False
+fd032710,2026-02-20 19:05:05,student_28,btn_add_cart,В корзину,180,96,False
+74907a60,2026-02-20 19:05:15,student_28,filter_sort,Сортировка,775,960,False
+37223475,2026-02-20 19:05:43,student_28,btn_submit,Оформить,1018,300,True
+f0308a10,2026-02-20 19:06:08,student_28,btn_buy,Купить,274,887,False
+2c93a748,2026-02-20 19:06:55,student_28,btn_submit,Оформить,1074,120,False
+9bf03e1e,2026-02-20 19:07:02,student_28,filter_sort,Сортировка,1845,278,False
+b3c0c9c3,2026-02-20 19:07:50,student_28,btn_submit,Оформить,1723,621,False
+bed17b34,2026-02-20 19:08:25,student_28,btn_submit,Оформить,1028,283,False
+fed4ca22,2026-02-20 19:09:16,student_28,filter_sort,Сортировка,314,586,False
+61d1e50e,2026-02-20 19:09:23,student_28,btn_buy,Купить,232,597,False
+7f625b3a,2026-02-20 19:09:51,student_28,filter_sort,Сортировка,1685,938,False
+45de03fc,2026-02-20 19:10:09,student_28,btn_add_cart,В корзину,504,517,False
+117cf8e3,2026-02-20 19:10:15,student_28,btn_add_cart,В корзину,1254,255,False
+49af7cb2,2026-02-20 19:10:29,student_28,btn_submit,Оформить,1820,672,False
+5b0f4b98,2026-02-20 19:11:15,student_28,btn_buy,Купить,1360,416,False
+573bc12a,2026-02-06 15:49:57,student_09,btn_submit,Оформить,1378,1,False
+08a2bcd4,2026-02-06 15:50:19,student_09,btn_buy,Купить,1605,188,False
+8f7849dd,2026-02-06 15:50:43,student_09,btn_buy,Купить,654,503,False
+1fd1bb9f,2026-02-06 15:51:39,student_09,btn_buy,Купить,738,1032,False
+1644c6c9,2026-02-06 15:52:03,student_09,filter_sort,Сортировка,771,310,False
+8aae943b,2026-02-06 15:52:58,student_09,btn_add_cart,В корзину,458,460,False
+4cbcf73c,2026-02-06 15:53:35,student_09,btn_add_cart,В корзину,1561,411,True
+3f5c270c,2026-02-06 15:54:04,student_09,filter_sort,Сортировка,690,78,False
+e41167a4,2026-02-06 15:54:36,student_09,btn_submit,Оформить,937,587,True
+61ceb528,2026-02-06 15:55:14,student_09,btn_add_cart,В корзину,851,720,False
+00026079,2026-02-06 15:56:11,student_09,btn_buy,Купить,1061,294,False
+52ba0fb0,2026-02-06 15:56:27,student_09,filter_sort,Сортировка,1428,779,False
+8e334b1d,2026-02-06 15:56:32,student_09,btn_buy,Купить,709,520,False
+b5783539,2026-02-06 15:56:47,student_09,btn_submit,Оформить,589,377,True
+c7feeedd,2026-02-06 15:57:22,student_09,btn_buy,Купить,1075,872,False
+25c20cbb,2026-02-06 15:57:46,student_09,btn_add_cart,В корзину,607,784,False
+854d6ada,2026-02-06 15:57:55,student_09,btn_buy,Купить,216,158,False
+597c6657,2026-02-06 15:58:49,student_09,btn_submit,Оформить,1478,426,False
+eb1da7c4,2026-02-06 15:59:36,student_09,btn_add_cart,В корзину,1024,714,False
+15c3c344,2026-02-06 16:00:09,student_09,filter_sort,Сортировка,505,395,False
+8e35a44b,2026-02-14 11:39:42,student_40,btn_submit,Оформить,938,1042,True
+4a58aca2,2026-02-14 11:40:31,student_40,btn_buy,Купить,1226,753,False
+62bd19d3,2026-02-14 11:41:19,student_40,btn_buy,Купить,1809,31,False
+72345c65,2026-02-14 11:41:54,student_40,btn_add_cart,В корзину,1086,959,False
+6d3c8080,2026-02-14 11:42:44,student_40,btn_buy,Купить,391,60,False
+0925815e,2026-02-14 11:43:33,student_40,filter_sort,Сортировка,1880,774,False
+fab3d463,2026-02-14 11:43:55,student_40,btn_buy,Купить,352,1014,False
+520ccd5d,2026-02-14 11:44:04,student_40,btn_submit,Оформить,1628,1032,True
+92f6a906,2026-02-14 11:44:06,student_40,btn_add_cart,В корзину,1561,861,False
+20108049,2026-03-01 07:16:14,student_05,btn_add_cart,В корзину,1092,318,False
+ccc7d499,2026-03-01 07:16:38,student_05,btn_add_cart,В корзину,1209,90,True
+7f5a6c35,2026-03-01 07:17:14,student_05,btn_add_cart,В корзину,1271,83,False
+440a5446,2026-03-01 07:17:40,student_05,btn_buy,Купить,339,904,False
+15067e6b,2026-03-01 07:18:04,student_05,btn_submit,Оформить,1345,389,False
+fad74a78,2026-03-01 07:18:47,student_05,filter_sort,Сортировка,1372,124,False
+1e5d2249,2026-03-01 07:19:38,student_05,btn_buy,Купить,346,349,False
+dde347a4,2026-03-01 07:20:05,student_05,btn_buy,Купить,858,89,True
+9a68ad43,2026-03-01 07:20:07,student_05,btn_submit,Оформить,992,212,False
+67b7538e,2026-03-01 07:20:25,student_05,btn_submit,Оформить,1176,97,False
+9bae9be5,2026-03-01 07:20:39,student_05,filter_sort,Сортировка,586,506,False
+5c771485,2026-03-01 07:21:25,student_05,filter_sort,Сортировка,203,334,False
+0ceede43,2026-03-01 07:21:36,student_05,filter_sort,Сортировка,1405,793,False
+508289ea,2026-03-01 07:21:50,student_05,btn_add_cart,В корзину,197,135,False
+b24ff150,2026-02-28 18:45:57,student_39,btn_submit,Оформить,337,294,False
+02f580bd,2026-02-28 18:46:17,student_39,btn_submit,Оформить,1689,207,False
+a8711848,2026-02-28 18:46:59,student_39,filter_sort,Сортировка,121,811,False
+30931084,2026-02-28 18:47:10,student_39,filter_sort,Сортировка,614,899,True
+f70b5934,2026-02-28 18:48:07,student_39,btn_submit,Оформить,351,672,False
+1536dd0f,2026-02-28 18:48:55,student_39,btn_buy,Купить,1125,768,True
+8923eab9,2026-02-28 18:49:33,student_39,btn_buy,Купить,1624,160,False
+73cae097,2026-02-11 13:57:06,student_34,btn_submit,Оформить,1292,614,False
+72032b14,2026-02-11 13:57:50,student_34,btn_buy,Купить,1439,348,False
+9db9ff0c,2026-02-11 13:58:39,student_34,btn_submit,Оформить,1646,510,False
+bc7a4075,2026-02-11 13:59:17,student_34,btn_add_cart,В корзину,1078,135,False
+31c415b8,2026-02-11 13:59:18,student_34,btn_add_cart,В корзину,208,983,False
+f0186c53,2026-02-11 13:59:35,student_34,btn_buy,Купить,1758,330,False
+d4313772,2026-02-11 14:00:35,student_34,btn_buy,Купить,17,1062,False
+717c7848,2026-02-11 14:01:18,student_34,btn_submit,Оформить,359,593,False
+553d3d50,2026-02-11 14:01:52,student_34,btn_buy,Купить,326,1024,False
+2600a695,2026-02-11 14:02:05,student_34,btn_buy,Купить,332,666,False
+34316e71,2026-02-11 14:02:14,student_34,btn_add_cart,В корзину,350,359,False
+3199a42d,2026-02-11 14:03:07,student_34,filter_sort,Сортировка,1774,393,False
+55698b11,2026-02-11 14:03:45,student_34,btn_submit,Оформить,545,847,False
+d0da2aa3,2026-02-11 14:04:32,student_34,btn_buy,Купить,1175,233,False
+0588df5a,2026-02-09 02:23:40,student_43,btn_buy,Купить,31,355,False
+be26dab3,2026-02-09 02:24:24,student_43,btn_buy,Купить,64,184,False
+cdab27f5,2026-02-09 02:25:03,student_43,btn_submit,Оформить,1535,710,False
+0c1956a6,2026-02-09 02:25:27,student_43,btn_submit,Оформить,1550,384,False
+ae58e1dc,2026-02-09 02:26:13,student_43,btn_submit,Оформить,1456,417,True
+102d91d2,2026-02-09 02:26:32,student_43,btn_submit,Оформить,1449,178,False
+b2bf2950,2026-02-09 02:26:50,student_43,btn_add_cart,В корзину,792,1033,False
+dea5f23d,2026-02-09 02:27:00,student_43,btn_buy,Купить,1457,937,False
+395a93fa,2026-02-09 02:27:38,student_43,btn_add_cart,В корзину,628,365,False
+ab7607d6,2026-02-09 02:28:36,student_43,btn_submit,Оформить,636,166,False
+ed3ca84a,2026-02-09 02:28:40,student_43,btn_submit,Оформить,1785,692,False
+f318af34,2026-02-09 02:29:02,student_43,btn_add_cart,В корзину,1845,550,False
+1ad258fa,2026-02-09 02:29:41,student_43,btn_add_cart,В корзину,1723,512,True
+fa7d5e8b,2026-02-09 02:29:45,student_43,btn_submit,Оформить,1703,191,False
+b885cda9,2026-02-09 02:30:33,student_43,btn_buy,Купить,1704,667,True
+cff40db9,2026-02-09 02:31:25,student_43,btn_buy,Купить,1912,52,False
+6e44bc5d,2026-02-05 17:01:38,student_19,btn_buy,Купить,378,114,True
+dff0ed2b,2026-02-05 17:01:48,student_19,btn_buy,Купить,384,236,False
+aa1253e8,2026-02-05 17:02:48,student_19,btn_buy,Купить,1695,682,False
+0fdee321,2026-02-05 17:03:06,student_19,btn_add_cart,В корзину,1288,734,False
+204acfe9,2026-02-05 17:03:23,student_19,filter_sort,Сортировка,274,365,False
+b74894b2,2026-02-05 18:43:11,student_26,btn_add_cart,В корзину,1318,1023,False
+2e141f91,2026-02-05 18:43:14,student_26,btn_buy,Купить,11,551,False
+de1e168b,2026-02-05 18:43:37,student_26,btn_buy,Купить,169,428,False
+725fa4c3,2026-02-05 18:44:05,student_26,btn_add_cart,В корзину,727,37,True
+41dc33c0,2026-02-05 18:44:39,student_26,btn_submit,Оформить,268,655,False
+3585d562,2026-02-05 18:44:51,student_26,filter_sort,Сортировка,1573,950,False
+f511dadc,2026-02-05 18:45:19,student_26,btn_submit,Оформить,231,1058,True
+3f1f4757,2026-02-05 18:46:11,student_26,filter_sort,Сортировка,965,987,False
+47ef8b99,2026-02-25 20:05:44,student_35,btn_add_cart,В корзину,1062,967,False
+5e4c33cb,2026-02-25 20:05:56,student_35,filter_sort,Сортировка,1131,214,False
+4b461a13,2026-02-25 20:06:39,student_35,btn_buy,Купить,1441,336,False
+4c262fd7,2026-02-25 20:07:21,student_35,filter_sort,Сортировка,1641,1056,False
+ec822e68,2026-02-25 20:08:16,student_35,btn_buy,Купить,1690,411,False
+0e5b42a5,2026-02-25 20:09:02,student_35,btn_buy,Купить,1746,92,False
+56946e15,2026-02-25 20:09:45,student_35,btn_add_cart,В корзину,18,464,True
+133c9c36,2026-02-25 20:09:57,student_35,btn_submit,Оформить,1710,1032,False
+5ab6f06a,2026-02-25 20:10:28,student_35,btn_add_cart,В корзину,657,558,False
+c8e918f7,2026-02-25 20:11:07,student_35,btn_submit,Оформить,984,446,False
+335f3a6c,2026-02-25 20:11:41,student_35,btn_add_cart,В корзину,165,363,False
+df090800,2026-02-25 20:12:33,student_35,filter_sort,Сортировка,1755,373,False
+4ac8b33d,2026-02-25 20:13:01,student_35,filter_sort,Сортировка,494,381,False
+aa4b8fdc,2026-02-25 20:13:52,student_35,filter_sort,Сортировка,1873,437,False
+da01e103,2026-02-02 10:59:14,student_21,btn_add_cart,В корзину,1313,629,False
+ee31a67d,2026-02-02 10:59:54,student_21,filter_sort,Сортировка,1429,998,False
+9db51dc8,2026-02-02 11:00:42,student_21,btn_buy,Купить,1024,898,False
+c5ad4429,2026-02-02 11:01:25,student_21,btn_add_cart,В корзину,604,881,True
+dd903ee5,2026-02-02 11:01:45,student_21,btn_add_cart,В корзину,938,101,True
+5807cb9a,2026-02-02 11:02:30,student_21,filter_sort,Сортировка,1575,862,True
+4b6e9707,2026-02-02 11:03:30,student_21,filter_sort,Сортировка,1140,114,False
+bae90498,2026-02-02 11:03:54,student_21,filter_sort,Сортировка,1847,485,True
+5685c221,2026-02-02 11:04:42,student_21,btn_add_cart,В корзину,374,134,True
+7316c9c0,2026-02-02 11:05:10,student_21,btn_submit,Оформить,1621,163,False
+d475a4e6,2026-02-02 11:05:33,student_21,filter_sort,Сортировка,1327,607,False
+8dde4f10,2026-02-02 11:06:19,student_21,filter_sort,Сортировка,783,142,False
+5c6d1037,2026-02-02 11:06:21,student_21,btn_buy,Купить,1218,768,False
+7eed4af7,2026-02-02 11:07:08,student_21,btn_submit,Оформить,1577,1065,True
+622aa10a,2026-02-02 11:07:53,student_21,filter_sort,Сортировка,1230,192,False
+ac202800,2026-02-02 11:08:02,student_21,filter_sort,Сортировка,1323,865,False
+8c587fb3,2026-02-02 11:08:55,student_21,btn_submit,Оформить,1703,332,False
+c7adecd0,2026-02-02 11:09:40,student_21,filter_sort,Сортировка,77,719,False
+5422d153,2026-02-28 13:20:02,student_47,filter_sort,Сортировка,892,321,False
+fdfef9da,2026-02-28 13:20:39,student_47,btn_submit,Оформить,1341,399,False
+a997b1a5,2026-02-28 13:21:05,student_47,btn_buy,Купить,1265,221,False
+ea6a590a,2026-02-28 13:21:43,student_47,filter_sort,Сортировка,660,256,False
+448d78cd,2026-02-28 13:22:23,student_47,filter_sort,Сортировка,448,572,False
+45a9a5e4,2026-02-28 13:22:36,student_47,btn_add_cart,В корзину,1843,741,False
+8a92a4e6,2026-02-28 13:23:08,student_47,filter_sort,Сортировка,73,655,False
+6e2e524d,2026-02-28 13:23:18,student_47,btn_add_cart,В корзину,1242,671,False
+3f4082f5,2026-02-28 13:23:42,student_47,btn_buy,Купить,274,1050,False
+99b22036,2026-02-28 13:24:17,student_47,btn_submit,Оформить,598,335,False
+569571f4,2026-02-28 13:24:37,student_47,btn_submit,Оформить,945,476,False
+30732916,2026-02-05 15:32:25,student_38,filter_sort,Сортировка,2,175,False
+c272002c,2026-02-05 15:32:45,student_38,btn_buy,Купить,1003,941,False
+9df12704,2026-02-05 15:33:42,student_38,btn_buy,Купить,1006,82,False
+8a147ed2,2026-02-05 15:34:19,student_38,btn_submit,Оформить,504,1075,False
+0d074aeb,2026-02-05 15:35:14,student_38,btn_add_cart,В корзину,364,6,False
+f865cd25,2026-02-05 15:35:43,student_38,btn_submit,Оформить,1815,217,True
+8b87d5d2,2026-02-05 15:36:26,student_38,btn_submit,Оформить,1329,802,True
+ead34bbe,2026-02-05 15:37:04,student_38,btn_buy,Купить,992,144,False
+8db0cf53,2026-02-05 15:37:50,student_38,btn_buy,Купить,1325,60,False
+c75c9287,2026-02-26 10:37:18,student_19,btn_buy,Купить,1864,222,False
+f09ac0ca,2026-02-26 10:37:51,student_19,btn_add_cart,В корзину,626,737,False
+32dcfcae,2026-02-26 10:38:21,student_19,btn_add_cart,В корзину,1797,497,False
+fe7ca588,2026-02-26 10:38:37,student_19,btn_submit,Оформить,1483,583,False
+131606fa,2026-02-26 10:38:43,student_19,btn_submit,Оформить,1673,299,False
+9c449a64,2026-02-26 10:39:07,student_19,btn_buy,Купить,1404,651,False
+705830f9,2026-02-26 10:40:04,student_19,btn_submit,Оформить,341,23,False
+db21ccd7,2026-02-26 10:40:39,student_19,btn_submit,Оформить,1804,1001,True
+66a0bf77,2026-02-26 10:41:04,student_19,btn_add_cart,В корзину,1715,1025,False
+63739290,2026-02-02 02:21:34,student_08,btn_buy,Купить,953,689,False
+a3590b08,2026-02-02 02:22:21,student_08,btn_buy,Купить,1174,982,False
+55012708,2026-02-02 02:22:51,student_08,btn_buy,Купить,9,697,False
+5346b3cf,2026-02-02 02:22:57,student_08,btn_submit,Оформить,1381,40,False
+33eef0b1,2026-02-02 02:23:51,student_08,btn_submit,Оформить,1345,465,False
+f07ca097,2026-02-02 02:24:45,student_08,btn_submit,Оформить,426,84,False
+b5a28c09,2026-02-02 02:24:55,student_08,btn_add_cart,В корзину,1643,555,False
+e419def7,2026-02-02 02:25:10,student_08,btn_buy,Купить,443,826,False
+d51d470b,2026-02-02 02:25:34,student_08,filter_sort,Сортировка,1197,242,False
+1a682c5d,2026-02-02 02:26:11,student_08,btn_buy,Купить,239,440,False
+c38b4312,2026-02-02 02:26:15,student_08,btn_submit,Оформить,1187,536,False
+f1c6b253,2026-02-02 02:27:00,student_08,btn_add_cart,В корзину,668,77,False
+a690e6d9,2026-02-02 02:27:51,student_08,btn_submit,Оформить,811,428,True
+6ae9db91,2026-02-02 02:28:34,student_08,btn_buy,Купить,1252,942,True
+a94961a6,2026-02-02 02:28:46,student_08,btn_submit,Оформить,401,362,False
+5443989b,2026-02-02 02:29:08,student_08,filter_sort,Сортировка,1417,679,False
+dd375937,2026-02-06 04:51:35,student_16,btn_buy,Купить,1808,958,False
+01467c04,2026-02-06 04:52:13,student_16,btn_add_cart,В корзину,1054,109,False
+9e11c5a1,2026-02-06 04:52:31,student_16,filter_sort,Сортировка,401,1013,False
+d7f4ae39,2026-02-06 04:53:25,student_16,btn_add_cart,В корзину,207,641,True
+c7431509,2026-02-06 04:53:27,student_16,btn_buy,Купить,1544,345,False
+c741115f,2026-02-06 04:53:49,student_16,filter_sort,Сортировка,93,386,False
+0a77cd4e,2026-02-06 04:54:08,student_16,filter_sort,Сортировка,137,593,False
+5a9f7bae,2026-02-06 04:54:54,student_16,btn_buy,Купить,1302,192,False
+a5e85ae9,2026-02-06 04:55:52,student_16,btn_add_cart,В корзину,681,796,False
+cc871c1d,2026-02-06 04:55:57,student_16,btn_add_cart,В корзину,451,1025,False
+653e673f,2026-02-06 04:56:49,student_16,filter_sort,Сортировка,611,630,False
+f83bf3cd,2026-02-06 04:57:41,student_16,filter_sort,Сортировка,212,475,False
+cfced973,2026-02-20 20:13:18,student_17,btn_buy,Купить,1168,306,False
+33fac7d5,2026-02-20 20:13:36,student_17,btn_submit,Оформить,445,793,False
+7141a78c,2026-02-20 20:14:10,student_17,btn_add_cart,В корзину,53,325,False
+20f6d2d7,2026-02-20 20:15:09,student_17,btn_buy,Купить,1807,292,False
+4d858906,2026-02-20 20:15:50,student_17,btn_submit,Оформить,288,772,False
+bc07fb31,2026-02-20 20:16:37,student_17,btn_add_cart,В корзину,1298,1054,False
+a4e32d51,2026-02-20 20:17:32,student_17,btn_buy,Купить,1069,710,True
+9d01f4e1,2026-02-20 20:18:20,student_17,btn_submit,Оформить,732,65,False
+3de915a2,2026-02-20 20:18:52,student_17,btn_add_cart,В корзину,247,333,False
+481e5107,2026-02-20 20:19:33,student_17,btn_submit,Оформить,835,1038,False
+1382388d,2026-02-20 20:20:26,student_17,btn_add_cart,В корзину,11,432,False
+81a661b4,2026-02-20 20:20:49,student_17,btn_add_cart,В корзину,127,785,False
+88a55fa1,2026-02-20 20:21:47,student_17,btn_submit,Оформить,136,331,False
+400f9dac,2026-02-06 09:11:11,student_30,filter_sort,Сортировка,890,383,False
+da0d25af,2026-02-06 09:11:16,student_30,btn_submit,Оформить,895,305,True
+69576ba2,2026-02-06 09:11:51,student_30,btn_add_cart,В корзину,1026,520,False
+9382b0b0,2026-02-06 09:12:13,student_30,filter_sort,Сортировка,1224,326,True
+97f61601,2026-02-06 09:12:16,student_30,btn_add_cart,В корзину,413,973,False
+be43c58d,2026-02-06 09:12:25,student_30,filter_sort,Сортировка,469,549,False
+591f79e1,2026-02-06 09:12:32,student_30,btn_add_cart,В корзину,269,268,False
+e3594198,2026-02-06 09:13:17,student_30,filter_sort,Сортировка,699,74,False
+d9a4002a,2026-02-06 09:13:28,student_30,filter_sort,Сортировка,1598,149,False
+f6081fbc,2026-02-20 22:56:45,student_13,filter_sort,Сортировка,875,639,False
+e717f461,2026-02-20 22:57:22,student_13,btn_submit,Оформить,26,831,False
+6fd99529,2026-02-20 22:57:24,student_13,btn_submit,Оформить,1812,787,False
+cf73fb13,2026-02-20 22:57:27,student_13,btn_submit,Оформить,1735,717,False
+a556aee8,2026-02-20 22:57:32,student_13,btn_add_cart,В корзину,1822,39,False
+b9bfafea,2026-02-20 22:57:36,student_13,filter_sort,Сортировка,487,393,False
+85cacf93,2026-02-20 22:57:54,student_13,filter_sort,Сортировка,798,193,False
+d0281d0a,2026-02-20 22:58:52,student_13,filter_sort,Сортировка,1572,188,False
+293baa9b,2026-02-20 22:59:12,student_13,btn_submit,Оформить,1562,359,False
+29d365e7,2026-02-20 22:59:38,student_13,btn_add_cart,В корзину,411,246,False
+d1a6c8d5,2026-02-20 23:00:17,student_13,filter_sort,Сортировка,56,4,False
+404a3730,2026-02-20 23:00:46,student_13,btn_buy,Купить,892,919,False
+44ff74a7,2026-02-20 23:01:19,student_13,filter_sort,Сортировка,1638,852,False
+03524914,2026-02-20 23:02:14,student_13,btn_buy,Купить,842,2,False
+7b230ff6,2026-02-20 23:03:11,student_13,filter_sort,Сортировка,1581,624,False
+0b0531d5,2026-02-20 23:03:55,student_13,filter_sort,Сортировка,1288,229,False
+6070c59d,2026-02-10 14:20:12,student_45,btn_submit,Оформить,1347,813,False
+ca8c4878,2026-02-10 14:21:09,student_45,btn_submit,Оформить,263,891,False
+032dea1a,2026-02-10 14:22:06,student_45,btn_add_cart,В корзину,1109,31,False
+70aa9c48,2026-02-10 14:23:05,student_45,btn_buy,Купить,598,1059,False
+10127157,2026-02-10 14:23:23,student_45,btn_add_cart,В корзину,852,561,False
+6cbb601c,2026-02-10 14:23:51,student_45,btn_buy,Купить,391,477,False
+39dcabbf,2026-02-10 14:24:29,student_45,btn_submit,Оформить,1085,521,False
+a4bd13c9,2026-02-10 14:24:41,student_45,btn_submit,Оформить,642,398,False
+bbacf18a,2026-02-10 14:24:49,student_45,filter_sort,Сортировка,373,125,False
+82c4a03e,2026-02-10 14:24:59,student_45,btn_buy,Купить,1508,22,False
+1014e96e,2026-02-10 14:25:14,student_45,btn_add_cart,В корзину,12,460,False
+ff06e3c4,2026-02-10 14:26:01,student_45,btn_add_cart,В корзину,1018,540,False
+ec38cff6,2026-02-10 14:26:14,student_45,btn_buy,Купить,66,685,False
+9762c10c,2026-02-10 14:26:43,student_45,btn_buy,Купить,857,102,False
+04f286dc,2026-02-10 14:27:35,student_45,btn_buy,Купить,1838,327,False
+e4c6030e,2026-02-10 14:27:51,student_45,btn_submit,Оформить,1488,346,False
+d6639197,2026-02-10 14:27:57,student_45,btn_submit,Оформить,22,558,False
+abcc780f,2026-02-10 14:28:39,student_45,btn_add_cart,В корзину,1416,663,False
+3aba0748,2026-02-10 14:28:47,student_45,btn_buy,Купить,648,1060,False
+f6041515,2026-02-10 14:29:17,student_45,btn_buy,Купить,723,421,False
+8344cd62,2026-02-20 03:24:36,student_25,filter_sort,Сортировка,1146,846,False
+f78361b3,2026-02-20 03:25:23,student_25,filter_sort,Сортировка,1485,517,False
+f96e7398,2026-02-20 03:26:01,student_25,btn_add_cart,В корзину,1681,638,False
+ed867cd8,2026-02-20 03:26:56,student_25,btn_submit,Оформить,605,32,False
+ffc5e98e,2026-02-20 03:27:55,student_25,btn_buy,Купить,1736,38,False
+e61fc9c3,2026-02-20 03:28:11,student_25,btn_add_cart,В корзину,1385,402,False
+a291c83c,2026-02-20 03:28:35,student_25,btn_add_cart,В корзину,558,189,False
+fa4d4d74,2026-02-20 03:29:13,student_25,btn_add_cart,В корзину,295,383,False
+08aa0778,2026-02-20 03:29:17,student_25,btn_buy,Купить,235,556,False
+ca07ea26,2026-02-20 03:29:35,student_25,btn_add_cart,В корзину,1424,50,False
+65d3d679,2026-02-20 03:29:58,student_25,btn_buy,Купить,1258,190,False
+ec358b66,2026-02-20 03:30:05,student_25,btn_buy,Купить,1852,337,False
+16c44efb,2026-02-20 03:30:09,student_25,btn_buy,Купить,1654,817,False
+9dc21b17,2026-02-20 03:30:33,student_25,btn_submit,Оформить,1020,227,False
+ae1403e3,2026-02-20 03:31:00,student_25,filter_sort,Сортировка,228,251,False
+c8e88522,2026-02-20 03:31:59,student_25,btn_submit,Оформить,1322,737,False
+9d7fb4e7,2026-02-20 03:32:49,student_25,btn_buy,Купить,748,781,False
+44fa6d3c,2026-02-20 03:32:56,student_25,btn_buy,Купить,557,909,True
+fd80cbdb,2026-02-20 03:33:14,student_25,btn_buy,Купить,1889,798,False
+12715cca,2026-02-20 03:34:06,student_25,filter_sort,Сортировка,1056,910,False
+3bc1de70,2026-02-16 18:37:44,student_36,btn_submit,Оформить,1483,644,False
+3945ade6,2026-02-16 18:38:43,student_36,btn_buy,Купить,972,969,False
+c0787310,2026-02-16 18:38:52,student_36,btn_buy,Купить,1831,651,False
+e5ff989a,2026-02-16 18:39:38,student_36,filter_sort,Сортировка,1442,342,False
+d7d48483,2026-02-16 18:40:16,student_36,btn_submit,Оформить,1751,468,False
+de5e994b,2026-02-16 18:40:52,student_36,btn_buy,Купить,104,835,False
+924675ed,2026-02-16 18:40:55,student_36,btn_buy,Купить,1226,23,False
+a6212ba3,2026-02-16 18:41:16,student_36,btn_buy,Купить,541,535,False
+0a7ba7d4,2026-02-16 18:42:16,student_36,btn_add_cart,В корзину,304,637,False
+9ce741ee,2026-02-16 18:43:01,student_36,btn_buy,Купить,1206,537,False
+f298b628,2026-02-16 18:43:04,student_36,btn_add_cart,В корзину,1025,172,True
+0e393fb5,2026-02-16 18:43:46,student_36,filter_sort,Сортировка,1696,177,True
+a74b32fe,2026-02-16 18:44:40,student_36,btn_add_cart,В корзину,107,1058,False
+62894637,2026-02-16 18:45:10,student_36,btn_submit,Оформить,1680,67,False
+f767940c,2026-02-16 18:45:12,student_36,btn_buy,Купить,1048,498,False
+188074e1,2026-02-16 18:45:58,student_36,btn_add_cart,В корзину,1782,1065,False
+c0f62387,2026-02-16 18:46:56,student_36,btn_buy,Купить,743,606,False
+39286c56,2026-02-16 18:47:10,student_36,btn_buy,Купить,1239,129,False
+e4a2dd15,2026-02-16 18:48:02,student_36,btn_add_cart,В корзину,1106,4,False
+f94cc357,2026-02-16 18:48:57,student_36,btn_add_cart,В корзину,1621,363,False
+504a951d,2026-02-09 22:02:25,student_19,btn_add_cart,В корзину,1654,282,False
+4c22244e,2026-02-09 22:03:19,student_19,btn_add_cart,В корзину,763,148,False
+0aec1ebf,2026-02-09 22:03:40,student_19,btn_submit,Оформить,256,533,False
+b396bfa2,2026-02-09 22:04:34,student_19,btn_submit,Оформить,629,957,False
+bab1c6e1,2026-02-09 22:05:16,student_19,filter_sort,Сортировка,819,385,False
+189ac3a6,2026-02-09 22:05:18,student_19,btn_buy,Купить,1104,232,False
+2029ee33,2026-02-09 22:06:09,student_19,btn_buy,Купить,1243,938,False
+34ae90d5,2026-02-09 22:07:08,student_19,btn_submit,Оформить,1756,406,True
+ed5dbd2b,2026-02-09 22:07:23,student_19,filter_sort,Сортировка,1323,734,False
+ab1cef86,2026-02-09 22:07:33,student_19,btn_add_cart,В корзину,1756,291,False
+0840a3ff,2026-02-09 22:08:21,student_19,btn_add_cart,В корзину,1279,110,False
+b0ee3aec,2026-02-09 22:08:43,student_19,btn_add_cart,В корзину,1879,766,True
+8f68efe3,2026-02-09 22:08:57,student_19,btn_buy,Купить,427,605,False
+10b1b903,2026-02-09 22:09:04,student_19,btn_submit,Оформить,756,902,False
+3ac5ea07,2026-02-09 22:09:38,student_19,btn_buy,Купить,1701,97,False
+d9ba9a4f,2026-02-09 22:10:00,student_19,btn_add_cart,В корзину,350,423,False
+d08665e9,2026-02-09 22:10:11,student_19,btn_submit,Оформить,1059,369,False
+dcdfee75,2026-02-09 22:10:50,student_19,btn_submit,Оформить,1061,606,False
+de9a5d15,2026-02-09 22:10:59,student_19,btn_add_cart,В корзину,662,979,False
+b4deb7ab,2026-02-09 22:11:33,student_19,btn_buy,Купить,936,143,True
+513d530d,2026-02-25 23:46:53,student_09,btn_submit,Оформить,260,373,False
+3879c6f8,2026-02-25 23:47:52,student_09,filter_sort,Сортировка,1013,736,False
+9af1c66b,2026-02-25 23:47:56,student_09,btn_submit,Оформить,1743,260,True
+24f819fc,2026-02-25 23:48:08,student_09,btn_add_cart,В корзину,805,1026,False
+2ce559ae,2026-02-25 23:48:35,student_09,btn_buy,Купить,1161,203,False
+8ca9e8e2,2026-02-25 23:49:07,student_09,btn_add_cart,В корзину,776,731,False
+ed7b3ccf,2026-02-25 23:49:10,student_09,btn_submit,Оформить,1749,706,True
+b8e03e0c,2026-02-25 23:49:50,student_09,btn_submit,Оформить,431,986,False
+2d8724e4,2026-02-25 23:50:22,student_09,filter_sort,Сортировка,1772,292,False
+5d196db3,2026-02-25 23:50:45,student_09,btn_add_cart,В корзину,594,55,False
+86346634,2026-02-25 23:50:56,student_09,btn_add_cart,В корзину,1763,471,True
+70a694f6,2026-02-25 23:51:26,student_09,btn_add_cart,В корзину,452,474,False
+7cb13234,2026-02-25 23:52:25,student_09,btn_add_cart,В корзину,1041,431,False
+d069c86e,2026-02-25 23:52:58,student_09,btn_buy,Купить,601,730,False
+824121c6,2026-02-25 23:53:29,student_09,filter_sort,Сортировка,594,1043,False
+0e0da225,2026-02-25 23:54:06,student_09,btn_buy,Купить,71,25,False
+4b7ad823,2026-02-25 23:54:29,student_09,btn_buy,Купить,55,482,False
+1e87553c,2026-02-25 23:55:21,student_09,btn_buy,Купить,532,116,False
+aaf34085,2026-02-27 14:41:28,student_14,filter_sort,Сортировка,1109,189,False
+ac8e62ce,2026-02-27 14:42:04,student_14,filter_sort,Сортировка,555,146,False
+866337e0,2026-02-27 14:42:22,student_14,btn_submit,Оформить,22,781,False
+38287c6a,2026-02-27 14:43:18,student_14,filter_sort,Сортировка,1384,392,False
+b6dbbfbe,2026-02-27 14:43:59,student_14,btn_add_cart,В корзину,940,594,True
+0330c279,2026-02-27 14:44:58,student_14,btn_submit,Оформить,1858,338,False
+d7453a70,2026-02-27 14:45:18,student_14,btn_submit,Оформить,833,443,False
+592ff648,2026-02-27 14:46:04,student_14,btn_buy,Купить,1347,519,True
+d82cfe52,2026-02-27 14:47:04,student_14,btn_submit,Оформить,926,451,False
+b3563d5d,2026-02-27 14:47:41,student_14,btn_submit,Оформить,1488,859,False
+e3c05b53,2026-02-27 14:48:29,student_14,btn_buy,Купить,1515,191,False
+9e7be868,2026-02-27 14:49:23,student_14,filter_sort,Сортировка,171,610,True
+6f7e8756,2026-02-27 14:50:06,student_14,btn_add_cart,В корзину,517,527,True
+d2832608,2026-02-27 14:50:12,student_14,btn_submit,Оформить,1406,351,False
+a6177df9,2026-02-27 14:50:23,student_14,btn_submit,Оформить,1144,444,False
+737d043a,2026-02-27 14:51:05,student_14,filter_sort,Сортировка,1165,727,False
+d6e22138,2026-02-27 14:51:47,student_14,btn_buy,Купить,1181,428,False
+6c623f84,2026-02-27 14:52:29,student_14,btn_submit,Оформить,434,385,False
+3293039c,2026-02-17 22:06:09,student_09,btn_submit,Оформить,1733,672,False
+3e5eb940,2026-02-17 22:06:13,student_09,filter_sort,Сортировка,259,389,False
+7d4d7d79,2026-02-17 22:07:04,student_09,filter_sort,Сортировка,1791,495,False
+1991b560,2026-02-17 22:07:34,student_09,filter_sort,Сортировка,67,771,False
+d3ed169d,2026-02-17 22:08:14,student_09,btn_add_cart,В корзину,1695,665,False
+7d005c8a,2026-02-17 22:09:03,student_09,btn_submit,Оформить,582,762,False
+21f30d92,2026-02-17 22:09:51,student_09,btn_buy,Купить,493,838,False
+61c97c87,2026-02-17 22:10:51,student_09,filter_sort,Сортировка,1627,1078,False
+d28dd399,2026-02-17 22:11:03,student_09,btn_submit,Оформить,949,757,False
+7d42a3de,2026-02-17 22:11:59,student_09,btn_submit,Оформить,496,1019,False
+4faf0ec8,2026-02-17 22:12:46,student_09,filter_sort,Сортировка,1908,184,False
+b716026b,2026-02-17 22:13:45,student_09,btn_submit,Оформить,1231,912,False
+ba624d14,2026-02-17 22:13:54,student_09,filter_sort,Сортировка,911,1001,False
+c2123e36,2026-02-17 22:14:35,student_09,btn_submit,Оформить,1039,657,True
+e5a29581,2026-02-17 22:15:13,student_09,btn_submit,Оформить,1171,447,False
+c3cc3026,2026-02-17 22:15:28,student_09,btn_buy,Купить,1336,276,False
+53427d6f,2026-02-17 22:16:26,student_09,btn_buy,Купить,1603,434,False
+503ae81b,2026-02-17 22:16:38,student_09,btn_submit,Оформить,1488,801,False
+4c11da4b,2026-02-17 22:17:30,student_09,filter_sort,Сортировка,1289,132,False
+d5a3e356,2026-02-17 22:18:27,student_09,btn_submit,Оформить,1418,826,False
+5e510d40,2026-02-09 12:19:40,student_43,btn_add_cart,В корзину,433,585,False
+1941863f,2026-02-09 12:19:52,student_43,btn_add_cart,В корзину,1087,980,False
+1b9f71da,2026-02-09 12:20:46,student_43,btn_buy,Купить,1840,141,False
+9e0f9732,2026-02-09 12:21:04,student_43,btn_submit,Оформить,485,700,False
+eec5b4be,2026-02-09 12:21:21,student_43,btn_add_cart,В корзину,267,789,False
+c6c209f6,2026-02-09 12:21:24,student_43,btn_add_cart,В корзину,581,385,False
+6a46c6c0,2026-02-09 12:22:16,student_43,btn_submit,Оформить,1910,996,False
+eb6e7ccd,2026-02-09 12:23:16,student_43,filter_sort,Сортировка,1137,930,False
+360ed354,2026-02-09 12:23:55,student_43,btn_add_cart,В корзину,1006,165,False
+fc8303e3,2026-02-09 12:24:12,student_43,filter_sort,Сортировка,1916,321,False
+7b5484be,2026-02-09 12:24:37,student_43,btn_buy,Купить,668,610,False
+398805cc,2026-02-09 12:25:09,student_43,btn_submit,Оформить,669,1047,False
+795591cd,2026-02-09 12:25:22,student_43,btn_submit,Оформить,1390,182,False
+28da58ab,2026-02-09 12:25:47,student_43,btn_buy,Купить,1749,39,False
+b13e6d15,2026-02-09 12:26:38,student_43,filter_sort,Сортировка,603,77,False
+61ec1cf1,2026-02-09 12:26:50,student_43,filter_sort,Сортировка,423,387,False
+d97e720e,2026-02-09 12:27:45,student_43,filter_sort,Сортировка,1493,635,False
+141d3dc4,2026-02-09 12:28:29,student_43,btn_submit,Оформить,440,993,False
+1f4649c1,2026-02-09 12:29:29,student_43,btn_add_cart,В корзину,1079,393,False
+ca973c53,2026-02-16 02:25:07,student_05,btn_add_cart,В корзину,794,148,False
+b4f01ef3,2026-02-16 02:25:40,student_05,btn_submit,Оформить,1556,335,False
+0729e4f1,2026-02-16 02:26:15,student_05,btn_add_cart,В корзину,1147,403,False
+3789e8c4,2026-02-16 02:26:57,student_05,btn_buy,Купить,625,671,False
+aaa61d85,2026-02-16 02:27:30,student_05,btn_submit,Оформить,1500,431,False
+66f6e3be,2026-02-16 02:28:11,student_05,filter_sort,Сортировка,1496,638,False
+6eb22ef7,2026-02-16 02:28:33,student_05,btn_add_cart,В корзину,1450,192,True
+bee4e427,2026-02-16 02:29:21,student_05,btn_add_cart,В корзину,74,708,False
+0fd8ce9d,2026-02-16 02:30:07,student_05,btn_submit,Оформить,1439,940,False
+9b80240d,2026-02-16 02:30:56,student_05,btn_buy,Купить,1740,959,False
+d291d074,2026-02-16 02:31:02,student_05,btn_buy,Купить,752,118,False
+557d9557,2026-02-16 02:31:11,student_05,btn_add_cart,В корзину,1459,989,False
+9e2c5de0,2026-02-16 02:31:39,student_05,btn_buy,Купить,48,676,False
+d16eb170,2026-02-16 02:32:32,student_05,btn_add_cart,В корзину,482,1034,False
+62d42bce,2026-02-16 02:32:58,student_05,btn_add_cart,В корзину,1058,743,False
+8837ad68,2026-02-16 02:33:56,student_05,filter_sort,Сортировка,1254,754,False
+eb1c8844,2026-02-16 02:34:12,student_05,filter_sort,Сортировка,1695,1024,False
+9c848ce3,2026-03-01 06:31:12,student_35,btn_submit,Оформить,834,210,False
+d6d1d7d5,2026-03-01 06:31:41,student_35,btn_submit,Оформить,509,956,False
+d5cf9ee8,2026-03-01 06:31:49,student_35,btn_add_cart,В корзину,1705,43,False
+c2e5b11d,2026-03-01 06:32:01,student_35,btn_buy,Купить,1688,135,False
+a17770b0,2026-03-01 06:32:04,student_35,btn_submit,Оформить,152,937,False
+92aab6bf,2026-03-01 06:32:16,student_35,btn_buy,Купить,1135,340,False
+c727c997,2026-03-01 06:33:03,student_35,btn_buy,Купить,1752,82,True
+afe48a84,2026-03-01 06:33:44,student_35,btn_add_cart,В корзину,1594,648,False
+86e06651,2026-02-14 19:39:46,student_11,btn_add_cart,В корзину,1716,548,False
+a126e805,2026-02-14 19:40:06,student_11,btn_submit,Оформить,1130,327,False
+16b0e247,2026-02-14 19:40:43,student_11,btn_submit,Оформить,803,1052,False
+6fad6a75,2026-02-14 19:41:37,student_11,btn_add_cart,В корзину,1736,1029,False
+f7208aad,2026-02-14 19:42:23,student_11,btn_submit,Оформить,945,207,False
+2d4ea7a9,2026-02-14 19:43:08,student_11,filter_sort,Сортировка,1128,688,False
+1cc70ea9,2026-02-14 19:43:51,student_11,btn_buy,Купить,115,8,False
+d6bba175,2026-02-14 19:44:45,student_11,btn_submit,Оформить,1104,816,False
+6b368599,2026-02-14 19:45:05,student_11,btn_buy,Купить,732,773,False
+f7ad6d6d,2026-02-14 19:45:13,student_11,filter_sort,Сортировка,451,738,False
+2cfacea5,2026-02-14 19:45:19,student_11,btn_buy,Купить,1028,321,False
+7e3de4de,2026-02-14 19:45:40,student_11,btn_submit,Оформить,574,923,False
+1edb35de,2026-02-14 19:46:27,student_11,btn_buy,Купить,564,849,False
+d9871d7c,2026-02-14 19:46:52,student_11,btn_add_cart,В корзину,1172,225,False
+84b61db8,2026-02-14 19:47:18,student_11,btn_submit,Оформить,867,589,False
+0892801f,2026-02-14 19:47:25,student_11,btn_add_cart,В корзину,632,1000,False
+afa313a4,2026-02-14 19:47:53,student_11,filter_sort,Сортировка,295,881,True
+0a8c9fab,2026-02-14 19:48:24,student_11,btn_add_cart,В корзину,384,416,False
+445d8552,2026-02-14 19:48:40,student_11,filter_sort,Сортировка,541,598,False
+97a08bca,2026-02-14 19:49:10,student_11,btn_submit,Оформить,25,1075,False
+5c9a9f0b,2026-02-04 22:20:14,student_26,btn_buy,Купить,288,534,False
+e4fbe231,2026-02-04 22:20:22,student_26,btn_buy,Купить,1152,685,False
+57278b12,2026-02-04 22:21:01,student_26,btn_buy,Купить,1650,693,False
+e07fcc4e,2026-02-04 22:21:10,student_26,btn_buy,Купить,1296,907,False
+039da0bd,2026-02-04 22:21:33,student_26,btn_submit,Оформить,918,288,False
+d50f9e11,2026-02-04 22:22:30,student_26,btn_add_cart,В корзину,245,14,False
+7a881b9c,2026-02-04 22:23:26,student_26,btn_buy,Купить,781,340,False
+be6cd710,2026-02-04 22:24:17,student_26,filter_sort,Сортировка,524,545,False
+4a0941ac,2026-02-04 22:24:41,student_26,btn_add_cart,В корзину,157,618,False
+68ac0adc,2026-02-04 22:24:43,student_26,filter_sort,Сортировка,855,322,False
+f4b48527,2026-02-05 07:42:06,student_15,btn_add_cart,В корзину,467,984,False
+23ad7b33,2026-02-05 07:42:54,student_15,btn_add_cart,В корзину,1885,881,False
+31876feb,2026-02-05 07:43:28,student_15,btn_buy,Купить,1737,533,False
+a9658faf,2026-02-05 07:43:41,student_15,btn_buy,Купить,578,793,False
+80dfcfd3,2026-02-05 07:43:53,student_15,filter_sort,Сортировка,1252,88,False
+b2e87337,2026-02-05 07:44:08,student_15,btn_add_cart,В корзину,50,791,True
+b09d3045,2026-02-12 22:03:43,student_25,btn_submit,Оформить,1592,798,False
+85b2bc97,2026-02-12 22:04:27,student_25,btn_submit,Оформить,1157,818,False
+b7c96926,2026-02-12 22:04:48,student_25,btn_add_cart,В корзину,413,1014,False
+db85b218,2026-02-12 22:05:08,student_25,btn_submit,Оформить,1719,410,False
+e53d145d,2026-02-12 22:05:50,student_25,filter_sort,Сортировка,1912,143,False
+9e784138,2026-02-12 22:06:25,student_25,btn_buy,Купить,266,101,False
+3f686dd4,2026-02-12 22:06:34,student_25,btn_submit,Оформить,839,420,False
+436e20c2,2026-02-12 22:07:12,student_25,filter_sort,Сортировка,363,686,False
+6c968fd4,2026-02-12 22:07:41,student_25,btn_add_cart,В корзину,1738,418,False
+604f5656,2026-02-12 22:07:49,student_25,btn_submit,Оформить,1524,268,False
+7ca2a5b7,2026-02-12 22:08:20,student_25,btn_submit,Оформить,571,479,False
+e820af81,2026-02-12 22:08:44,student_25,btn_buy,Купить,438,795,False
+35f4e4db,2026-02-12 22:09:05,student_25,filter_sort,Сортировка,1016,678,False
+b99e3ab4,2026-02-12 22:09:15,student_25,btn_add_cart,В корзину,401,670,False
+c80f8cc8,2026-02-12 22:09:58,student_25,btn_submit,Оформить,1256,517,False
+0e47e4de,2026-02-12 22:10:02,student_25,filter_sort,Сортировка,1207,478,False
+4d27b078,2026-02-12 22:10:57,student_25,filter_sort,Сортировка,1083,75,True
+bfdadff5,2026-02-10 16:37:20,student_20,filter_sort,Сортировка,471,937,False
+6aad2450,2026-02-10 16:37:31,student_20,btn_add_cart,В корзину,233,415,True
+bf5f6193,2026-02-10 16:37:36,student_20,btn_submit,Оформить,530,169,False
+9192ecc3,2026-02-10 16:38:36,student_20,btn_submit,Оформить,1127,831,False
+f6e4292a,2026-02-10 16:38:40,student_20,filter_sort,Сортировка,34,1041,True
+d0cb9e76,2026-02-10 16:38:50,student_20,btn_buy,Купить,1391,499,False
+eb276e89,2026-02-10 16:39:16,student_20,btn_submit,Оформить,988,201,False
+999a6781,2026-02-10 16:40:07,student_20,btn_submit,Оформить,1428,295,False
+564823f0,2026-02-10 16:40:10,student_20,btn_submit,Оформить,583,646,False
+e6f93af1,2026-02-10 16:40:42,student_20,filter_sort,Сортировка,779,947,False
+8d0e0398,2026-02-10 16:41:05,student_20,btn_buy,Купить,1758,449,True
+34a84896,2026-02-10 16:41:18,student_20,btn_submit,Оформить,157,548,False
+5ae9e154,2026-02-10 16:41:52,student_20,filter_sort,Сортировка,755,64,False
+9d6925d7,2026-02-10 16:42:21,student_20,btn_submit,Оформить,327,155,False
+1bb59e3e,2026-02-10 16:42:54,student_20,filter_sort,Сортировка,864,1000,False
+91fc82b8,2026-02-10 16:43:00,student_20,btn_add_cart,В корзину,220,1076,False
+5b7b9833,2026-02-10 16:43:38,student_20,btn_add_cart,В корзину,209,39,False
+bcd6a26f,2026-02-10 16:43:54,student_20,btn_buy,Купить,225,423,False
+e53b0462,2026-02-10 16:44:48,student_20,btn_add_cart,В корзину,911,665,False
+a6ddcdc9,2026-02-10 16:45:08,student_20,filter_sort,Сортировка,1671,468,False
+5eb768f8,2026-03-02 06:39:12,student_20,btn_buy,Купить,525,640,False
+cf7ea1fb,2026-03-02 06:39:41,student_20,filter_sort,Сортировка,608,40,False
+d52e777a,2026-03-02 06:40:27,student_20,btn_buy,Купить,1204,739,False
+83ffa5af,2026-03-02 06:40:43,student_20,btn_buy,Купить,1315,430,False
+c08fbbfe,2026-03-02 06:41:17,student_20,btn_add_cart,В корзину,1208,413,False
+e75c40d9,2026-03-02 06:41:33,student_20,filter_sort,Сортировка,1442,913,False
+c35f7e5c,2026-03-02 06:41:50,student_20,btn_submit,Оформить,1022,1062,False
+96ca4e5e,2026-03-02 06:42:05,student_20,btn_buy,Купить,1388,159,False
+96fa06f0,2026-03-02 06:42:37,student_20,btn_add_cart,В корзину,839,678,False
+45352886,2026-03-02 06:42:45,student_20,btn_add_cart,В корзину,1174,528,True
+1c40567c,2026-03-02 06:43:36,student_20,btn_add_cart,В корзину,1243,123,False
+48d27943,2026-03-02 06:43:55,student_20,btn_submit,Оформить,1239,185,False
+19680075,2026-03-02 06:44:07,student_20,btn_buy,Купить,354,781,False
+ef60a026,2026-02-04 17:15:44,student_18,btn_add_cart,В корзину,578,937,False
+bdcf748d,2026-02-04 17:16:40,student_18,btn_buy,Купить,157,793,False
+ad6a59b1,2026-02-04 17:17:35,student_18,filter_sort,Сортировка,30,743,False
+fffa838d,2026-02-04 17:17:37,student_18,filter_sort,Сортировка,1418,1032,True
+84bea5d5,2026-02-04 17:17:38,student_18,btn_add_cart,В корзину,1193,837,False
+208596af,2026-02-04 17:17:52,student_18,btn_add_cart,В корзину,562,1018,False
+bd9f1c35,2026-02-04 17:18:23,student_18,filter_sort,Сортировка,1093,791,False
+d60f827d,2026-02-04 17:18:28,student_18,filter_sort,Сортировка,1476,90,False
+9f53328d,2026-02-04 17:18:32,student_18,filter_sort,Сортировка,1086,13,False
+16aa5f6d,2026-02-04 17:18:45,student_18,btn_buy,Купить,1861,1056,False
+86b0cf26,2026-02-04 17:19:27,student_18,btn_buy,Купить,338,45,False
+155e9ffd,2026-02-04 17:19:28,student_18,btn_add_cart,В корзину,7,323,True
+a1beec61,2026-02-04 17:19:31,student_18,btn_submit,Оформить,1501,348,False
+86339ea1,2026-02-04 17:19:50,student_18,btn_buy,Купить,913,583,False
+b664d10f,2026-02-04 17:20:31,student_18,btn_add_cart,В корзину,54,825,False
+089cb93b,2026-02-12 18:56:18,student_44,btn_add_cart,В корзину,580,636,False
+8ac2b4b3,2026-02-12 18:57:08,student_44,filter_sort,Сортировка,610,704,False
+2f232a6a,2026-02-12 18:57:40,student_44,btn_add_cart,В корзину,1736,295,False
+b452dfa7,2026-02-12 18:58:02,student_44,btn_add_cart,В корзину,565,832,False
+350f57e8,2026-02-12 18:58:19,student_44,btn_buy,Купить,160,953,False
+ca281d6b,2026-02-12 18:58:37,student_44,btn_buy,Купить,175,27,False
+8875b574,2026-02-12 18:59:10,student_44,btn_add_cart,В корзину,1828,968,True
+79dc9fd3,2026-02-12 18:59:31,student_44,btn_buy,Купить,255,349,False
+05ed3a54,2026-02-12 19:00:19,student_44,filter_sort,Сортировка,166,679,False
+296c4fbc,2026-02-12 19:00:36,student_44,btn_submit,Оформить,625,994,False
+dce97247,2026-02-09 18:43:10,student_39,btn_buy,Купить,1326,313,True
+c2c68c93,2026-02-09 18:43:25,student_39,filter_sort,Сортировка,1807,502,True
+92ce2adb,2026-02-09 18:43:32,student_39,btn_submit,Оформить,1047,238,False
+b4077a84,2026-02-09 18:44:11,student_39,btn_add_cart,В корзину,1235,74,False
+524227aa,2026-02-09 18:44:12,student_39,filter_sort,Сортировка,1669,169,False
+39f40085,2026-02-09 18:44:39,student_39,btn_submit,Оформить,666,169,True
+e22bfc8d,2026-02-09 18:44:49,student_39,btn_add_cart,В корзину,333,436,False
+7d8a822c,2026-02-09 18:45:36,student_39,btn_add_cart,В корзину,1459,802,False
+a63b0816,2026-02-09 18:46:09,student_39,btn_add_cart,В корзину,519,134,False
+85233ed9,2026-02-09 18:46:28,student_39,btn_add_cart,В корзину,81,206,False
+6b1f85f2,2026-02-09 18:46:48,student_39,btn_buy,Купить,1063,26,False
+a169e35a,2026-02-09 18:47:01,student_39,btn_submit,Оформить,186,933,False
+0141d73b,2026-02-09 18:47:55,student_39,btn_submit,Оформить,1497,419,False
+eae5c14f,2026-02-09 18:48:15,student_39,btn_add_cart,В корзину,1775,586,False
+1167d122,2026-02-09 18:48:52,student_39,filter_sort,Сортировка,39,207,False
+a46af564,2026-02-09 18:49:10,student_39,btn_submit,Оформить,883,563,False
+5c5e5586,2026-02-09 18:49:23,student_39,btn_submit,Оформить,482,452,False
+10f50d1d,2026-02-09 18:49:30,student_39,filter_sort,Сортировка,759,471,False
+4f7cd3c4,2026-02-09 18:50:13,student_39,filter_sort,Сортировка,102,87,False
+f8b8bdd5,2026-02-11 19:47:23,student_35,btn_add_cart,В корзину,820,634,False
+98eabc35,2026-02-11 19:48:05,student_35,btn_submit,Оформить,1632,126,False
+9e9061ee,2026-02-11 19:48:57,student_35,btn_submit,Оформить,710,1055,False
+9bbdddbf,2026-02-11 19:49:09,student_35,btn_buy,Купить,1092,870,False
+b5f4f435,2026-02-11 19:50:04,student_35,btn_submit,Оформить,820,231,False
+5249760a,2026-02-11 19:50:11,student_35,btn_add_cart,В корзину,1672,372,False
+cd4fc934,2026-02-11 19:50:25,student_35,filter_sort,Сортировка,644,195,False
+aafe397f,2026-02-11 19:50:57,student_35,filter_sort,Сортировка,270,525,False
+97223692,2026-02-11 19:51:18,student_35,filter_sort,Сортировка,1761,962,True
+51f65b80,2026-02-11 19:51:36,student_35,btn_add_cart,В корзину,1706,224,True
+a2a462ff,2026-02-11 19:52:05,student_35,filter_sort,Сортировка,644,18,False
+70a6112c,2026-02-11 19:52:14,student_35,filter_sort,Сортировка,1458,266,False
+29621a6c,2026-02-11 19:52:34,student_35,btn_submit,Оформить,817,403,False
+d4758b73,2026-02-07 23:31:02,student_49,btn_buy,Купить,535,314,False
+0c5a4b0c,2026-02-07 23:31:05,student_49,btn_add_cart,В корзину,1286,69,False
+40c18f7a,2026-02-07 23:31:20,student_49,btn_submit,Оформить,913,703,True
+02fc5b00,2026-02-07 23:31:49,student_49,btn_submit,Оформить,1563,302,False
+d8714d19,2026-02-07 23:32:39,student_49,btn_add_cart,В корзину,385,303,False
+ae47a884,2026-02-07 23:33:00,student_49,btn_submit,Оформить,21,698,False
+9acafa23,2026-02-07 23:33:16,student_49,btn_add_cart,В корзину,890,805,False
+2456f3c6,2026-02-07 23:33:44,student_49,btn_buy,Купить,1680,460,False
+1e659f9e,2026-02-07 23:34:12,student_49,filter_sort,Сортировка,648,424,False
+082fb47d,2026-02-10 19:59:38,student_13,filter_sort,Сортировка,595,788,False
+34300d15,2026-02-10 20:00:09,student_13,btn_submit,Оформить,1816,747,False
+056ec36d,2026-02-10 20:00:47,student_13,btn_add_cart,В корзину,1918,461,False
+1eb89a39,2026-02-10 20:01:13,student_13,filter_sort,Сортировка,1150,329,False
+17007a79,2026-02-10 20:02:09,student_13,btn_buy,Купить,1649,615,False
+b745ed4c,2026-02-10 20:02:32,student_13,btn_add_cart,В корзину,1810,1062,False
+bf1bfa37,2026-02-10 20:03:14,student_13,btn_add_cart,В корзину,208,410,False
+8f88e730,2026-02-10 20:04:11,student_13,btn_buy,Купить,1732,820,True
+442b2826,2026-02-10 20:04:44,student_13,filter_sort,Сортировка,706,419,False
+2cd730c7,2026-02-10 20:05:07,student_13,filter_sort,Сортировка,584,485,True
+49b23393,2026-02-10 20:05:38,student_13,btn_add_cart,В корзину,9,6,False
+52e417ad,2026-02-10 20:06:01,student_13,btn_buy,Купить,1512,620,False
+df57f0fb,2026-02-10 20:06:40,student_13,btn_submit,Оформить,1345,661,True
+33be4d1c,2026-02-10 20:07:29,student_13,btn_add_cart,В корзину,1735,665,False
+762b0ad4,2026-02-10 20:08:21,student_13,btn_buy,Купить,641,406,False
+86ebc763,2026-02-10 20:08:22,student_13,btn_buy,Купить,941,508,True
+767ab4db,2026-02-10 20:08:47,student_13,btn_buy,Купить,124,110,True
+93210081,2026-02-10 20:09:10,student_13,filter_sort,Сортировка,1710,129,False
+9ac171f6,2026-02-28 21:05:38,student_02,btn_add_cart,В корзину,1097,961,False
+62f4abae,2026-02-28 21:06:36,student_02,btn_add_cart,В корзину,960,362,False
+978ffe21,2026-02-28 21:07:15,student_02,filter_sort,Сортировка,1529,87,False
+55b6f758,2026-02-28 21:07:55,student_02,btn_add_cart,В корзину,53,812,False
+15c2c692,2026-02-28 21:08:24,student_02,filter_sort,Сортировка,973,808,False
+1e4c7bcf,2026-02-28 21:08:31,student_02,btn_submit,Оформить,575,288,False
+29af5a54,2026-02-28 21:09:22,student_02,btn_submit,Оформить,1661,153,False
+d0db828d,2026-02-28 21:10:03,student_02,btn_add_cart,В корзину,738,86,False
+e667c76f,2026-02-11 01:53:11,student_14,filter_sort,Сортировка,1550,314,False
+d91423c5,2026-02-11 01:54:03,student_14,filter_sort,Сортировка,101,759,False
+d3598bda,2026-02-11 01:54:18,student_14,btn_buy,Купить,1698,106,True
+84e8ad14,2026-02-11 01:55:10,student_14,btn_buy,Купить,148,902,False
+fd338b2f,2026-02-11 01:55:14,student_14,filter_sort,Сортировка,1202,820,False
+08985b42,2026-02-11 01:55:35,student_14,btn_add_cart,В корзину,407,173,False
+83fb2e63,2026-02-11 01:56:26,student_14,btn_add_cart,В корзину,1681,1013,False
+c4fa8793,2026-02-11 01:57:19,student_14,btn_buy,Купить,1665,695,False
+d13f0eb1,2026-02-11 01:57:28,student_14,btn_add_cart,В корзину,1364,654,False
+abd0ecf5,2026-02-11 01:58:27,student_14,btn_add_cart,В корзину,903,576,False
+94120396,2026-02-11 01:58:28,student_14,filter_sort,Сортировка,950,1045,False
+0fe643e9,2026-02-11 01:58:49,student_14,btn_submit,Оформить,534,187,False
+d6be0d05,2026-02-11 01:59:00,student_14,filter_sort,Сортировка,453,342,False
+24371c63,2026-02-11 01:59:21,student_14,btn_buy,Купить,1656,668,True
+4c9257b8,2026-02-27 13:43:04,student_35,btn_buy,Купить,71,352,False
+098438f4,2026-02-27 13:43:19,student_35,btn_submit,Оформить,1697,296,False
+b86ccedb,2026-02-27 13:44:14,student_35,btn_add_cart,В корзину,860,469,False
+44904fba,2026-02-27 13:44:36,student_35,btn_buy,Купить,244,85,True
+0de2ea3e,2026-02-27 13:44:53,student_35,filter_sort,Сортировка,1200,485,False
+bfd39748,2026-02-27 13:45:53,student_35,btn_buy,Купить,1352,198,False
+8dd4ae3e,2026-02-27 13:46:47,student_35,filter_sort,Сортировка,633,683,False
+4b4e97ee,2026-02-27 13:47:00,student_35,btn_submit,Оформить,130,14,False
+6bc14562,2026-02-27 13:47:32,student_35,btn_buy,Купить,196,657,False
+d79d0325,2026-02-27 13:47:42,student_35,filter_sort,Сортировка,1172,236,True
+82f41cce,2026-02-27 23:14:51,student_20,btn_add_cart,В корзину,1062,992,False
+5bbb61f3,2026-02-27 23:15:43,student_20,btn_add_cart,В корзину,218,308,True
+f26c6385,2026-02-27 23:16:19,student_20,btn_add_cart,В корзину,1050,966,False
+f7ba8f1a,2026-02-27 23:16:54,student_20,filter_sort,Сортировка,1291,466,False
+a8bcdb05,2026-02-27 23:17:13,student_20,btn_buy,Купить,868,898,False
+a9306518,2026-02-27 23:17:40,student_20,btn_submit,Оформить,1046,273,False
+3e1a03a2,2026-02-27 23:17:47,student_20,filter_sort,Сортировка,1027,880,False
+180c8e72,2026-02-27 23:18:03,student_20,btn_submit,Оформить,171,650,False
+b5372902,2026-02-15 17:51:34,student_20,btn_submit,Оформить,5,841,False
+56a2b391,2026-02-15 17:52:10,student_20,btn_add_cart,В корзину,436,236,False
+b615bec6,2026-02-15 17:52:26,student_20,btn_submit,Оформить,208,484,False
+46e30637,2026-02-15 17:53:20,student_20,filter_sort,Сортировка,1403,48,True
+b6a0054c,2026-02-15 17:53:36,student_20,btn_add_cart,В корзину,1245,829,False
+5935bce6,2026-02-15 17:54:22,student_20,filter_sort,Сортировка,1780,413,False
+2d0a343a,2026-02-03 04:16:31,student_06,btn_add_cart,В корзину,1226,719,False
+73112e13,2026-02-03 04:16:44,student_06,btn_submit,Оформить,319,83,False
+87bfdcd2,2026-02-03 04:17:13,student_06,btn_add_cart,В корзину,1867,451,False
+61103446,2026-02-03 04:17:20,student_06,filter_sort,Сортировка,788,389,False
+3b51b562,2026-02-03 04:17:36,student_06,btn_submit,Оформить,1477,404,False
+da889b73,2026-02-03 04:18:15,student_06,filter_sort,Сортировка,759,771,False
+86359d76,2026-02-03 04:18:30,student_06,btn_submit,Оформить,926,608,True
+4a01cfa0,2026-02-03 04:19:30,student_06,filter_sort,Сортировка,473,902,False
+a8d81463,2026-02-03 04:20:29,student_06,filter_sort,Сортировка,853,475,False
+a31f462a,2026-02-03 04:21:00,student_06,filter_sort,Сортировка,766,98,False
+cec9ec0e,2026-02-03 04:21:48,student_06,btn_submit,Оформить,62,156,False
+11981ac1,2026-02-03 04:21:57,student_06,btn_submit,Оформить,844,688,False
+9d5cb326,2026-02-03 04:22:40,student_06,btn_add_cart,В корзину,462,779,False
+09c98ef8,2026-02-03 04:22:42,student_06,btn_submit,Оформить,1121,710,False
+fe2d6f25,2026-02-03 04:22:52,student_06,btn_add_cart,В корзину,680,891,False
+710fd45f,2026-02-03 04:23:37,student_06,btn_submit,Оформить,1595,1054,False
+0d0c4c2c,2026-02-03 04:24:28,student_06,btn_buy,Купить,1158,563,False
+f503068b,2026-02-03 04:25:14,student_06,btn_add_cart,В корзину,1570,93,False
+df41cf00,2026-02-03 04:26:12,student_06,btn_submit,Оформить,318,529,False
+58421e92,2026-02-03 04:26:41,student_06,btn_add_cart,В корзину,1015,976,True
+0cda01db,2026-02-02 03:05:08,student_07,btn_submit,Оформить,729,51,False
+4d9d9cde,2026-02-02 03:05:46,student_07,btn_add_cart,В корзину,1364,963,False
+bb5b1550,2026-02-02 03:06:37,student_07,btn_submit,Оформить,807,616,False
+321ffe98,2026-02-02 03:07:02,student_07,btn_add_cart,В корзину,371,491,False
+02b34ff9,2026-02-02 03:07:34,student_07,btn_submit,Оформить,679,304,False
+6797f945,2026-02-27 07:04:08,student_19,filter_sort,Сортировка,152,609,False
+855e6778,2026-02-27 07:04:13,student_19,btn_buy,Купить,1194,637,False
+5d305924,2026-02-27 07:04:17,student_19,btn_submit,Оформить,1056,897,False
+8a8135da,2026-02-27 07:04:39,student_19,btn_submit,Оформить,332,813,False
+1e9082cf,2026-02-27 07:05:21,student_19,filter_sort,Сортировка,934,556,False
+4269cb8f,2026-02-27 07:06:17,student_19,btn_submit,Оформить,1176,844,False
+5e7f0da4,2026-02-27 07:07:15,student_19,btn_submit,Оформить,875,985,True
+66ea2cd3,2026-02-27 07:07:31,student_19,btn_add_cart,В корзину,961,984,False
+85d87999,2026-02-27 07:07:41,student_19,filter_sort,Сортировка,449,335,False
+114746da,2026-02-27 07:08:40,student_19,btn_buy,Купить,307,683,False
+886314a3,2026-02-27 07:09:08,student_19,btn_buy,Купить,1418,665,False
+ae1014ac,2026-02-27 07:09:18,student_19,btn_buy,Купить,435,777,False
+bb9cb6fd,2026-02-27 07:10:16,student_19,btn_submit,Оформить,965,252,True
+80d6b427,2026-02-27 07:10:53,student_19,btn_submit,Оформить,539,290,False
+870c4973,2026-02-19 13:04:42,student_14,btn_add_cart,В корзину,1350,266,False
+625d798f,2026-02-19 13:04:59,student_14,btn_add_cart,В корзину,862,777,False
+4422c512,2026-02-19 13:05:37,student_14,btn_add_cart,В корзину,99,719,False
+51255f79,2026-02-19 13:05:43,student_14,btn_submit,Оформить,700,550,False
+2ed50040,2026-02-19 13:06:14,student_14,filter_sort,Сортировка,1081,442,False
+7cbcc39f,2026-02-19 13:06:55,student_14,filter_sort,Сортировка,950,36,True
+c198d51f,2026-02-19 13:07:26,student_14,btn_add_cart,В корзину,286,635,False
+2cfbbf09,2026-02-19 13:07:53,student_14,btn_buy,Купить,1377,267,False
+60cdfeac,2026-02-19 13:08:15,student_14,btn_submit,Оформить,1028,0,False
+8dc2b708,2026-02-19 13:08:35,student_14,btn_add_cart,В корзину,1531,492,True
+5c9d5259,2026-02-19 13:09:00,student_14,btn_buy,Купить,1102,625,False
+f9a72f3c,2026-02-27 11:22:46,student_20,btn_add_cart,В корзину,176,887,False
+ed9544f3,2026-02-27 11:22:54,student_20,btn_submit,Оформить,1892,868,False
+63919dd6,2026-02-27 11:23:36,student_20,btn_add_cart,В корзину,1485,566,False
+1feec539,2026-02-27 11:23:45,student_20,btn_buy,Купить,1863,26,False
+960e6540,2026-02-27 11:24:30,student_20,btn_add_cart,В корзину,1334,588,False
+fb0914bb,2026-02-27 11:25:19,student_20,filter_sort,Сортировка,462,1047,False
+d5cf7b3a,2026-02-27 11:25:44,student_20,btn_buy,Купить,1845,324,False
+51e4abe8,2026-02-27 11:26:19,student_20,btn_submit,Оформить,1381,870,False
+66177b0e,2026-02-27 11:26:20,student_20,filter_sort,Сортировка,1683,549,False
+d5a2e9a7,2026-02-27 11:26:36,student_20,btn_submit,Оформить,1009,622,False
+d023770b,2026-02-27 11:27:24,student_20,btn_submit,Оформить,492,906,False
+9bff7e41,2026-02-27 11:28:22,student_20,filter_sort,Сортировка,8,693,False
+227ceeeb,2026-02-27 11:28:52,student_20,btn_buy,Купить,1859,145,False
+e9ffd90f,2026-02-27 11:29:15,student_20,btn_buy,Купить,365,124,False
+a628927b,2026-02-27 11:29:54,student_20,btn_submit,Оформить,50,321,False
+dd468c6f,2026-02-15 05:28:39,student_13,btn_submit,Оформить,239,99,False
+29f36f9e,2026-02-15 05:29:25,student_13,btn_add_cart,В корзину,174,33,False
+2698b3fb,2026-02-15 05:29:33,student_13,btn_submit,Оформить,1079,1008,False
+da3c557c,2026-02-15 05:29:57,student_13,btn_add_cart,В корзину,688,275,False
+43bc6e39,2026-02-15 05:30:25,student_13,btn_submit,Оформить,1536,389,False
+6b0a339a,2026-02-15 05:30:46,student_13,filter_sort,Сортировка,953,946,True
+fcf91bd7,2026-02-15 05:31:11,student_13,filter_sort,Сортировка,78,656,False
+e006dc4b,2026-02-15 05:32:02,student_13,btn_add_cart,В корзину,1399,695,False
+17ff4dbb,2026-02-15 05:32:11,student_13,btn_submit,Оформить,477,226,False
+b148149d,2026-02-15 05:32:38,student_13,btn_buy,Купить,1419,659,False
+18f1567f,2026-02-15 05:33:19,student_13,btn_buy,Купить,1639,483,False
+e1979d09,2026-02-15 05:34:00,student_13,filter_sort,Сортировка,61,722,False
+b4a1c9bb,2026-02-15 05:34:18,student_13,filter_sort,Сортировка,1629,594,False
+5043686e,2026-02-15 05:34:35,student_13,btn_add_cart,В корзину,569,467,True
+529c935d,2026-02-15 05:35:20,student_13,btn_buy,Купить,883,507,False
+97519e3a,2026-02-15 05:36:15,student_13,btn_submit,Оформить,1401,137,False
+4291962d,2026-02-15 05:36:48,student_13,btn_add_cart,В корзину,160,897,False
+401a2221,2026-02-15 05:37:48,student_13,btn_submit,Оформить,623,901,False
+b83d9f53,2026-02-15 05:38:31,student_13,btn_buy,Купить,1658,640,True
+e09be6c9,2026-02-06 00:44:09,student_44,btn_submit,Оформить,756,374,False
+9b67527d,2026-02-06 00:44:50,student_44,btn_add_cart,В корзину,448,583,False
+067dd79a,2026-02-06 00:45:46,student_44,filter_sort,Сортировка,1305,95,False
+579789bc,2026-02-06 00:45:57,student_44,filter_sort,Сортировка,178,490,False
+4c3ef6a3,2026-02-06 00:46:05,student_44,btn_add_cart,В корзину,349,200,False
+64707576,2026-02-06 00:46:57,student_44,filter_sort,Сортировка,415,943,False
+9e88efa7,2026-02-06 00:47:10,student_44,btn_submit,Оформить,1747,643,False
+59520ec7,2026-02-06 00:47:42,student_44,btn_buy,Купить,1301,321,False
+1ba58541,2026-02-06 00:48:21,student_44,btn_buy,Купить,947,544,False
+650a43c8,2026-02-06 00:49:12,student_44,btn_submit,Оформить,1910,900,False
+27aed0e2,2026-02-06 00:49:46,student_44,btn_add_cart,В корзину,1172,295,False
+a49e6187,2026-02-06 00:50:26,student_44,filter_sort,Сортировка,453,788,False
+3efdeaca,2026-02-06 00:51:16,student_44,btn_buy,Купить,285,423,True
+8bc46ea7,2026-02-06 00:52:14,student_44,btn_submit,Оформить,1148,164,False
+90196c5d,2026-02-06 00:52:55,student_44,btn_add_cart,В корзину,789,502,False
+aa76ede2,2026-02-06 00:53:08,student_44,btn_buy,Купить,1026,896,False
+9deee914,2026-02-06 00:53:49,student_44,btn_add_cart,В корзину,1901,276,False
+2c708892,2026-02-06 00:54:37,student_44,btn_submit,Оформить,868,723,False
+3bd003f8,2026-02-06 00:55:00,student_44,btn_submit,Оформить,1691,364,False
+169936f5,2026-02-06 00:06:26,student_06,btn_buy,Купить,1560,500,False
+379eafce,2026-02-06 00:07:17,student_06,btn_submit,Оформить,670,810,False
+23bc6470,2026-02-06 00:07:48,student_06,btn_submit,Оформить,1702,170,False
+5d5fb464,2026-02-06 00:08:45,student_06,btn_add_cart,В корзину,1209,136,False
+7d4c49ab,2026-02-06 00:08:51,student_06,btn_buy,Купить,133,1035,False
+87031baf,2026-02-06 00:09:37,student_06,btn_submit,Оформить,1829,575,False
+942b70b3,2026-02-06 00:09:41,student_06,btn_buy,Купить,1412,633,True
+1ef21ee7,2026-02-06 00:10:31,student_06,btn_add_cart,В корзину,1064,965,False
+c95fec84,2026-02-06 00:11:06,student_06,btn_add_cart,В корзину,880,1068,False
+d0d3a447,2026-02-06 00:11:10,student_06,btn_buy,Купить,1276,396,False
+b961ea13,2026-02-06 00:11:42,student_06,btn_buy,Купить,1408,134,False
+bfc7618a,2026-02-06 00:12:23,student_06,btn_submit,Оформить,1627,136,False
+8cef7971,2026-02-06 00:13:00,student_06,btn_buy,Купить,1497,934,False
+b62b038c,2026-02-06 00:13:15,student_06,btn_add_cart,В корзину,272,135,False
+a062d19d,2026-02-16 04:55:13,student_24,btn_buy,Купить,334,890,False
+aa4fbf13,2026-02-16 04:55:55,student_24,btn_buy,Купить,984,90,False
+a2e8548e,2026-02-16 04:56:33,student_24,btn_add_cart,В корзину,1017,793,True
+ef5211d2,2026-02-16 04:57:16,student_24,btn_submit,Оформить,1862,150,True
+30e5c152,2026-02-16 04:58:15,student_24,btn_buy,Купить,95,765,False
+d647c5ee,2026-02-20 13:22:21,student_25,btn_buy,Купить,928,638,True
+d168df30,2026-02-20 13:23:09,student_25,filter_sort,Сортировка,1514,839,False
+79afc9cc,2026-02-20 13:23:27,student_25,btn_submit,Оформить,465,339,False
+2da2be00,2026-02-20 13:24:18,student_25,filter_sort,Сортировка,934,50,False
+4ca34975,2026-02-20 13:25:10,student_25,filter_sort,Сортировка,1424,859,True
+9ca6bee4,2026-02-20 13:25:47,student_25,btn_buy,Купить,1382,729,False
+679b7a77,2026-02-20 13:26:05,student_25,filter_sort,Сортировка,469,540,False
+0b710ca3,2026-02-20 13:26:11,student_25,btn_submit,Оформить,28,38,False
+51fe9503,2026-02-14 05:06:18,student_28,filter_sort,Сортировка,1471,974,False
+cda52365,2026-02-14 05:06:20,student_28,btn_add_cart,В корзину,12,625,False
+3845a08a,2026-02-14 05:07:15,student_28,btn_add_cart,В корзину,562,878,False
+3c7985f8,2026-02-14 05:07:16,student_28,btn_buy,Купить,1540,964,False
+073255a2,2026-02-14 05:07:48,student_28,filter_sort,Сортировка,1393,829,False
+dfdca1cb,2026-02-14 05:07:49,student_28,btn_buy,Купить,1848,580,False
+c2030ff7,2026-02-14 05:08:22,student_28,btn_buy,Купить,1237,858,False
+1ff069c5,2026-02-14 05:09:10,student_28,btn_add_cart,В корзину,927,1035,False
+697a50e6,2026-02-14 05:10:06,student_28,btn_add_cart,В корзину,577,542,False
+e8526a92,2026-02-14 05:11:03,student_28,btn_buy,Купить,850,901,False
+afd6afd5,2026-02-14 05:11:35,student_28,btn_submit,Оформить,761,686,False
+8031c197,2026-02-14 05:11:58,student_28,btn_add_cart,В корзину,111,813,False
+96b25c77,2026-02-14 05:12:27,student_28,filter_sort,Сортировка,653,697,False
+217bef80,2026-02-14 05:12:39,student_28,btn_submit,Оформить,1853,516,False
+b280292e,2026-02-14 05:12:45,student_28,btn_submit,Оформить,1065,28,False
+506545d1,2026-02-14 05:13:08,student_28,btn_submit,Оформить,41,480,False
+e8a9a4a1,2026-02-14 05:13:29,student_28,filter_sort,Сортировка,1095,1011,False
+67cd7ed2,2026-02-14 05:13:39,student_28,btn_submit,Оформить,1775,862,False
+daa3e508,2026-02-14 05:13:54,student_28,btn_submit,Оформить,711,441,False
+c38df213,2026-02-14 05:14:40,student_28,filter_sort,Сортировка,1840,345,False
+6a5d955a,2026-02-13 00:31:28,student_30,btn_add_cart,В корзину,389,15,False
+15af5ec9,2026-02-13 00:32:16,student_30,btn_add_cart,В корзину,1360,142,False
+554e3518,2026-02-13 00:32:42,student_30,btn_submit,Оформить,557,53,False
+88dcb346,2026-02-13 00:33:27,student_30,btn_buy,Купить,339,184,False
+68530072,2026-02-13 00:34:09,student_30,btn_submit,Оформить,3,381,False
+439af7ba,2026-02-13 00:35:05,student_30,btn_buy,Купить,795,156,False
+1cce89d5,2026-02-13 00:35:59,student_30,btn_buy,Купить,1414,612,False
+1ce14d86,2026-02-13 00:36:08,student_30,btn_add_cart,В корзину,595,582,False
+2ad605ac,2026-02-13 00:36:16,student_30,filter_sort,Сортировка,800,322,False
+3d2afbfb,2026-02-13 00:36:42,student_30,btn_add_cart,В корзину,944,551,False
+5d53f04e,2026-02-13 00:37:19,student_30,btn_submit,Оформить,1099,838,False
+c232b897,2026-02-13 00:37:37,student_30,filter_sort,Сортировка,251,185,False
+36b9bad6,2026-02-02 02:21:19,student_49,btn_submit,Оформить,35,646,True
+c48d48b4,2026-02-02 02:22:16,student_49,btn_add_cart,В корзину,483,74,False
+d3952835,2026-02-02 02:22:55,student_49,btn_buy,Купить,301,942,False
+bd440324,2026-02-02 02:23:05,student_49,btn_add_cart,В корзину,439,761,False
+238127c7,2026-02-02 02:23:41,student_49,filter_sort,Сортировка,1088,530,False
+990daf00,2026-02-02 02:23:43,student_49,btn_buy,Купить,409,530,False
+5e682a27,2026-02-02 02:24:14,student_49,filter_sort,Сортировка,1521,762,False
+8354e7cb,2026-02-19 07:36:33,student_23,filter_sort,Сортировка,6,103,False
+c2529461,2026-02-19 07:36:44,student_23,btn_submit,Оформить,1836,271,False
+b331b8d2,2026-02-19 07:37:42,student_23,btn_add_cart,В корзину,835,961,False
+06172f24,2026-02-19 07:38:21,student_23,btn_submit,Оформить,1759,13,False
+436f83a4,2026-02-19 07:38:53,student_23,filter_sort,Сортировка,961,485,False
+bcbdbddb,2026-02-11 03:54:37,student_49,btn_buy,Купить,1830,1035,True
+4fcfebcc,2026-02-11 03:55:30,student_49,filter_sort,Сортировка,511,458,False
+7eb7e17a,2026-02-11 03:56:16,student_49,filter_sort,Сортировка,1080,1051,True
+d1713dae,2026-02-11 03:56:44,student_49,btn_submit,Оформить,1512,38,False
+d19b8cec,2026-02-11 03:56:58,student_49,btn_add_cart,В корзину,311,594,False
+8f7f168d,2026-02-11 03:57:36,student_49,btn_buy,Купить,72,67,False
+15f8a2fe,2026-02-11 03:57:49,student_49,btn_buy,Купить,1054,567,False
+3742a935,2026-02-11 03:58:14,student_49,btn_submit,Оформить,1398,316,False
+f412faa9,2026-02-11 03:58:36,student_49,filter_sort,Сортировка,420,498,False
+e4626fed,2026-02-11 03:59:23,student_49,btn_buy,Купить,921,231,False
+a7c0ae4c,2026-02-11 04:00:05,student_49,btn_buy,Купить,1898,205,False
+b566b3d7,2026-02-07 04:53:08,student_18,filter_sort,Сортировка,448,246,False
+124f67f4,2026-02-07 04:53:58,student_18,btn_submit,Оформить,672,1021,False
+4f3aa8f7,2026-02-07 04:54:43,student_18,btn_buy,Купить,1344,164,False
+24ab415f,2026-02-07 04:55:32,student_18,btn_buy,Купить,688,735,False
+4f6df3a7,2026-02-07 04:56:27,student_18,btn_buy,Купить,241,236,False
+d392066e,2026-02-07 04:56:39,student_18,filter_sort,Сортировка,1338,21,False
+c085376c,2026-02-07 04:57:32,student_18,btn_submit,Оформить,1032,662,True
+04027404,2026-02-07 04:58:20,student_18,btn_buy,Купить,1039,1066,False
+1c89a576,2026-02-07 04:59:13,student_18,btn_add_cart,В корзину,1755,670,False
+90c761c8,2026-02-07 04:59:56,student_18,btn_add_cart,В корзину,744,1058,False
+dca9f1f6,2026-02-07 05:00:37,student_18,btn_buy,Купить,618,881,False
+fe645e0d,2026-02-07 05:01:29,student_18,btn_buy,Купить,794,315,False
+3de3c9c0,2026-02-07 05:01:42,student_18,filter_sort,Сортировка,1115,372,False
+4e9d26aa,2026-02-07 05:02:02,student_18,btn_buy,Купить,288,766,False
+1fb04368,2026-02-07 05:02:59,student_18,btn_buy,Купить,239,250,False
+e83d84a1,2026-02-15 15:24:34,student_22,btn_submit,Оформить,228,1038,True
+37f3e134,2026-02-15 15:25:20,student_22,btn_add_cart,В корзину,1184,877,False
+0e99d811,2026-02-15 15:25:58,student_22,btn_buy,Купить,76,736,False
+10bc112a,2026-02-15 15:26:07,student_22,btn_submit,Оформить,744,553,False
+08912adf,2026-02-15 15:26:30,student_22,btn_submit,Оформить,1078,288,False
+80090a17,2026-02-15 15:26:52,student_22,btn_submit,Оформить,51,739,False
+3a58bfe2,2026-02-15 15:27:37,student_22,btn_add_cart,В корзину,1352,441,False
+435292b0,2026-02-15 15:28:20,student_22,btn_add_cart,В корзину,643,1058,True
+02c5dd19,2026-02-15 15:28:43,student_22,filter_sort,Сортировка,1299,1008,False
+48d8f4e9,2026-02-15 15:29:43,student_22,btn_submit,Оформить,1008,498,False
+1fe93a08,2026-02-15 15:30:36,student_22,btn_buy,Купить,188,39,False
+f472e633,2026-02-15 15:31:19,student_22,btn_submit,Оформить,1605,11,True
+bb46743a,2026-02-15 15:31:34,student_22,btn_submit,Оформить,324,349,False
+abab2a33,2026-02-15 15:32:03,student_22,btn_submit,Оформить,675,640,False
+5c3d753e,2026-02-15 15:32:28,student_22,btn_add_cart,В корзину,1807,608,False
+1469b385,2026-02-15 15:32:59,student_22,btn_add_cart,В корзину,1305,288,False
+0d0f927a,2026-02-03 04:14:57,student_31,btn_buy,Купить,1338,130,False
+bf6a3c89,2026-02-03 04:15:27,student_31,btn_buy,Купить,907,1053,False
+7613e80c,2026-02-03 04:15:36,student_31,btn_add_cart,В корзину,6,314,False
+ebb7889f,2026-02-03 04:16:20,student_31,btn_buy,Купить,1888,538,False
+283e2663,2026-02-03 04:16:47,student_31,filter_sort,Сортировка,424,455,False
+62ab91ce,2026-02-03 04:17:31,student_31,btn_add_cart,В корзину,647,867,False
+77b1c2b1,2026-02-03 04:17:42,student_31,btn_add_cart,В корзину,114,713,False
+dd5c99ee,2026-02-11 02:35:24,student_30,btn_add_cart,В корзину,1135,308,False
+b2420b56,2026-02-11 02:35:38,student_30,filter_sort,Сортировка,1735,865,False
+3221c9c1,2026-02-11 02:36:26,student_30,btn_submit,Оформить,1471,179,False
+a1c321b5,2026-02-11 02:36:41,student_30,filter_sort,Сортировка,756,450,False
+22e56a50,2026-02-11 02:37:34,student_30,filter_sort,Сортировка,331,44,True
+2487eb2a,2026-02-11 02:38:00,student_30,btn_buy,Купить,144,697,False
+fce7da07,2026-02-11 02:38:50,student_30,btn_buy,Купить,463,1041,False
+036b0d04,2026-02-11 02:39:02,student_30,btn_add_cart,В корзину,1191,484,False
+bd06df90,2026-02-11 02:39:41,student_30,btn_buy,Купить,1506,934,False
+da5f5c88,2026-02-11 02:40:23,student_30,filter_sort,Сортировка,1539,200,False
+5063026b,2026-02-11 02:40:52,student_30,filter_sort,Сортировка,466,858,False
+2574dd1f,2026-02-11 02:41:25,student_30,btn_buy,Купить,592,609,False
+cd266637,2026-02-03 18:02:31,student_41,btn_add_cart,В корзину,868,368,False
+4be24d67,2026-02-03 18:03:25,student_41,btn_submit,Оформить,1494,624,False
+8101456b,2026-02-03 18:03:44,student_41,btn_buy,Купить,1071,315,True
+8dc06cfe,2026-02-03 18:03:57,student_41,btn_buy,Купить,1112,276,False
+96938c67,2026-02-03 18:04:51,student_41,btn_submit,Оформить,1352,83,False
+b4daf83a,2026-02-03 18:05:30,student_41,btn_submit,Оформить,137,376,False
+48e0a092,2026-02-03 18:05:46,student_41,btn_buy,Купить,1472,416,False
+dafeacd0,2026-02-03 18:06:35,student_41,btn_submit,Оформить,1032,681,False
+1880331f,2026-02-08 02:18:25,student_44,btn_add_cart,В корзину,271,470,False
+9c5681c1,2026-02-08 02:18:34,student_44,btn_buy,Купить,824,331,False
+b351068f,2026-02-08 02:19:06,student_44,btn_add_cart,В корзину,490,536,False
+787ccc45,2026-02-08 02:19:49,student_44,filter_sort,Сортировка,923,922,False
+8b855e63,2026-02-08 02:20:23,student_44,btn_add_cart,В корзину,628,658,False
+27782573,2026-02-08 02:21:13,student_44,btn_submit,Оформить,1673,873,False
+cbbeaf3d,2026-02-08 02:21:34,student_44,filter_sort,Сортировка,1552,515,False
+80cd45b3,2026-02-08 02:22:18,student_44,filter_sort,Сортировка,1631,608,False
+c639c2ba,2026-02-08 02:23:12,student_44,btn_add_cart,В корзину,1760,209,False
+b901717d,2026-02-08 02:24:07,student_44,btn_add_cart,В корзину,1527,189,False
+b24673f5,2026-02-08 02:24:09,student_44,btn_submit,Оформить,93,175,False
+7394c705,2026-02-08 02:24:19,student_44,btn_submit,Оформить,1316,356,False
+4d7ef2cd,2026-02-08 02:25:03,student_44,btn_buy,Купить,1746,1053,True
+fd0b1fb7,2026-02-08 02:25:05,student_44,btn_submit,Оформить,1825,49,False
+8db4df9c,2026-02-08 02:25:34,student_44,btn_buy,Купить,1856,540,False
+7d7a2584,2026-02-24 16:41:40,student_48,filter_sort,Сортировка,1140,927,False
+50a49cb1,2026-02-24 16:41:58,student_48,btn_submit,Оформить,124,916,False
+92def036,2026-02-24 16:42:09,student_48,btn_buy,Купить,788,502,False
+ba721a31,2026-02-24 16:42:41,student_48,btn_add_cart,В корзину,1102,133,True
+a75f7776,2026-02-24 16:43:28,student_48,btn_buy,Купить,1020,188,False
+6ec1aaf8,2026-02-24 16:43:31,student_48,btn_buy,Купить,1916,862,True
+1671388e,2026-02-24 16:44:09,student_48,btn_submit,Оформить,1795,858,False
+c9c4024d,2026-02-24 16:44:56,student_48,filter_sort,Сортировка,504,83,False
+8f54c298,2026-02-24 16:45:00,student_48,btn_buy,Купить,1114,829,False
+5c85493c,2026-02-24 16:45:14,student_48,filter_sort,Сортировка,1554,745,False
+7d4c41e7,2026-02-24 16:45:22,student_48,filter_sort,Сортировка,1758,325,False
+74f9067a,2026-02-24 16:46:09,student_48,btn_buy,Купить,992,333,False
+91caa070,2026-02-24 16:46:31,student_48,btn_buy,Купить,1598,633,False
+bd8db706,2026-02-24 16:47:10,student_48,btn_add_cart,В корзину,54,456,False
+01c6e6c2,2026-02-24 16:47:30,student_48,btn_submit,Оформить,1529,733,False
+70a742b1,2026-02-24 16:48:03,student_48,filter_sort,Сортировка,1716,658,False
+465bdfa5,2026-02-24 16:48:26,student_48,filter_sort,Сортировка,579,984,True
+8fcb14a6,2026-02-24 16:48:32,student_48,btn_submit,Оформить,1660,873,False
+fa716737,2026-02-27 13:47:14,student_19,btn_add_cart,В корзину,498,707,False
+25e56afd,2026-02-27 13:47:42,student_19,btn_submit,Оформить,561,960,False
+6409d063,2026-02-27 13:48:27,student_19,filter_sort,Сортировка,1355,83,False
+f2342f7a,2026-02-27 13:48:48,student_19,btn_submit,Оформить,1527,938,False
+ff66fffe,2026-02-27 13:49:04,student_19,btn_buy,Купить,1659,360,False
+919a39d3,2026-02-27 13:49:24,student_19,filter_sort,Сортировка,1639,371,False
+49a326f6,2026-02-27 13:49:25,student_19,btn_add_cart,В корзину,1673,1028,False
+b5666ab6,2026-02-27 13:49:56,student_19,filter_sort,Сортировка,867,716,True
+103f94ab,2026-02-15 06:59:24,student_45,btn_add_cart,В корзину,392,664,False
+6f2e3a55,2026-02-15 07:00:11,student_45,filter_sort,Сортировка,1493,839,False
+42dedf39,2026-02-15 07:00:26,student_45,filter_sort,Сортировка,1123,293,False
+a1785b91,2026-02-15 07:01:00,student_45,btn_submit,Оформить,1408,719,False
+57066999,2026-02-15 07:01:26,student_45,btn_submit,Оформить,712,59,True
+4a8635cd,2026-02-15 07:02:03,student_45,btn_add_cart,В корзину,379,427,False
+b3b2ab2d,2026-02-15 07:02:20,student_45,filter_sort,Сортировка,1143,464,False
+0fb4cab1,2026-02-15 07:03:02,student_45,btn_add_cart,В корзину,1144,361,False
+8d366929,2026-02-15 07:03:05,student_45,btn_add_cart,В корзину,531,495,False
+de10f808,2026-02-15 07:03:09,student_45,btn_submit,Оформить,1409,392,False
+9988ec43,2026-02-15 07:04:04,student_45,btn_submit,Оформить,714,944,False
+6f252fd8,2026-02-22 21:38:36,student_42,btn_buy,Купить,133,575,False
+b48af09a,2026-02-22 21:38:47,student_42,btn_submit,Оформить,1477,179,True
+182ad76b,2026-02-22 21:38:58,student_42,btn_add_cart,В корзину,1648,921,False
+02168cc3,2026-02-22 21:39:55,student_42,filter_sort,Сортировка,210,408,False
+cee7d106,2026-02-22 21:40:32,student_42,btn_buy,Купить,1465,433,False
+db54e4ec,2026-02-22 21:41:01,student_42,btn_submit,Оформить,714,195,False
+12fd632e,2026-02-22 21:41:40,student_42,btn_submit,Оформить,1119,781,False
+70e9ad87,2026-02-22 21:42:16,student_42,btn_add_cart,В корзину,1151,950,False
+5ca79da6,2026-02-22 21:42:32,student_42,btn_submit,Оформить,701,451,False
+c6dc9aca,2026-02-22 21:42:40,student_42,btn_submit,Оформить,363,1047,False
+cd4f6672,2026-02-22 21:43:40,student_42,btn_submit,Оформить,537,311,False
+d695d629,2026-02-22 21:44:06,student_42,btn_buy,Купить,1091,233,False
+a1bb8c59,2026-02-22 21:44:51,student_42,btn_add_cart,В корзину,1592,379,False
+cded1534,2026-02-04 02:16:01,student_37,btn_submit,Оформить,675,807,False
+60fe83f3,2026-02-04 02:16:14,student_37,filter_sort,Сортировка,388,126,False
+dc469956,2026-02-04 02:16:23,student_37,btn_submit,Оформить,1817,525,False
+4fccce69,2026-02-04 02:17:23,student_37,filter_sort,Сортировка,1700,305,False
+c856450a,2026-02-04 02:17:39,student_37,btn_submit,Оформить,536,308,False
+d216e60c,2026-02-04 02:18:19,student_37,filter_sort,Сортировка,119,763,False
+41e71e74,2026-02-04 02:18:43,student_37,btn_add_cart,В корзину,1253,825,False
+c7d8af7a,2026-02-04 02:19:11,student_37,filter_sort,Сортировка,987,495,False
+4dc86cc3,2026-02-04 02:19:30,student_37,btn_add_cart,В корзину,1683,195,False
+59fa3f3c,2026-02-04 02:20:28,student_37,btn_buy,Купить,84,523,True
+1337c4e9,2026-02-04 02:20:48,student_37,btn_buy,Купить,644,900,False
+a0a3a652,2026-02-04 02:21:47,student_37,btn_buy,Купить,26,968,False
+7fc04043,2026-02-04 02:22:31,student_37,btn_buy,Купить,756,769,False
+99c5e6f5,2026-02-04 02:23:12,student_37,btn_submit,Оформить,1565,675,False
+24a660c7,2026-02-04 02:24:03,student_37,filter_sort,Сортировка,770,341,False
+13df58a5,2026-02-04 09:33:04,student_22,filter_sort,Сортировка,1318,412,False
+de42cecc,2026-02-04 09:33:08,student_22,filter_sort,Сортировка,1187,364,False
+9ee1448b,2026-02-04 09:33:53,student_22,btn_buy,Купить,430,1019,False
+7eaf195b,2026-02-04 09:33:55,student_22,btn_buy,Купить,697,871,False
+b5747bff,2026-02-04 09:34:29,student_22,btn_submit,Оформить,173,485,False
+571ad9ab,2026-03-01 17:51:00,student_40,btn_add_cart,В корзину,441,98,False
+dd87eaec,2026-03-01 17:51:23,student_40,filter_sort,Сортировка,894,712,False
+0a5ecf9f,2026-03-01 17:51:47,student_40,filter_sort,Сортировка,1767,234,False
+6de421fe,2026-03-01 17:52:26,student_40,filter_sort,Сортировка,1013,454,False
+ea1357a2,2026-03-01 17:53:18,student_40,btn_buy,Купить,119,403,False
+2263eefa,2026-03-01 17:53:54,student_40,btn_add_cart,В корзину,1148,608,False
+277a3a59,2026-03-01 17:54:28,student_40,btn_submit,Оформить,1177,962,False
+c36e6359,2026-03-01 17:54:35,student_40,btn_buy,Купить,447,368,False
+d25ad36b,2026-03-01 17:54:51,student_40,filter_sort,Сортировка,257,499,False
+148411fa,2026-03-01 17:55:25,student_40,btn_add_cart,В корзину,1235,534,False
+e9ce5482,2026-03-01 17:55:30,student_40,btn_submit,Оформить,313,48,False
+09beef39,2026-03-01 17:56:26,student_40,btn_add_cart,В корзину,1095,267,False
+7e1abee8,2026-03-01 17:56:56,student_40,btn_submit,Оформить,1003,312,False
+d8e0fd9a,2026-03-01 17:57:31,student_40,btn_add_cart,В корзину,718,741,False
+57412c8c,2026-03-01 17:58:28,student_40,btn_submit,Оформить,1650,534,True
+d4485435,2026-03-01 17:59:05,student_40,filter_sort,Сортировка,1098,225,False
+08d2fe55,2026-03-01 18:00:02,student_40,filter_sort,Сортировка,1144,994,True
+14e01eae,2026-03-01 18:00:14,student_40,filter_sort,Сортировка,130,707,False
+f5722ced,2026-03-01 18:00:48,student_40,btn_add_cart,В корзину,788,49,False
+86d8b1ad,2026-03-01 18:01:29,student_40,filter_sort,Сортировка,642,364,False
+843248f9,2026-03-01 02:06:18,student_37,btn_buy,Купить,534,734,False
+424fa036,2026-03-01 02:06:58,student_37,btn_submit,Оформить,1408,577,False
+72f6e43a,2026-03-01 02:07:37,student_37,btn_add_cart,В корзину,579,677,False
+ded02d82,2026-03-01 02:08:19,student_37,btn_add_cart,В корзину,1391,1064,False
+371a5b69,2026-03-01 02:08:54,student_37,btn_buy,Купить,64,634,False
+d7e8b943,2026-03-01 02:09:27,student_37,filter_sort,Сортировка,771,316,False
+b9e031d7,2026-03-01 02:09:59,student_37,btn_add_cart,В корзину,1583,424,False
+bec90379,2026-03-01 02:10:09,student_37,btn_buy,Купить,779,47,False
+214afac9,2026-02-07 11:33:46,student_36,btn_buy,Купить,1321,983,False
+07ac1f8a,2026-02-07 11:34:25,student_36,filter_sort,Сортировка,1634,795,False
+c373d028,2026-02-07 11:34:38,student_36,btn_add_cart,В корзину,452,356,False
+3e8adf99,2026-02-07 11:35:12,student_36,btn_add_cart,В корзину,1410,212,True
+d13b1f40,2026-02-07 11:35:54,student_36,btn_buy,Купить,1115,667,False
+be2c5c1b,2026-02-07 11:36:25,student_36,btn_add_cart,В корзину,1859,0,False
+35420fd5,2026-02-07 11:37:09,student_36,filter_sort,Сортировка,191,952,False
+4e336081,2026-02-07 11:37:28,student_36,btn_submit,Оформить,1886,956,True
+514675ba,2026-02-07 11:38:13,student_36,filter_sort,Сортировка,1121,440,False
+02687a67,2026-02-07 11:38:33,student_36,btn_buy,Купить,1598,773,False
+84804015,2026-02-12 15:23:09,student_19,btn_add_cart,В корзину,1399,248,False
+549a4600,2026-02-12 15:23:52,student_19,btn_buy,Купить,1189,893,False
+82dc2937,2026-02-12 15:24:39,student_19,btn_submit,Оформить,733,1057,False
+01846048,2026-02-12 15:25:07,student_19,btn_submit,Оформить,1862,22,False
+93e0912c,2026-02-12 15:25:57,student_19,btn_buy,Купить,286,213,False
+1350f4ab,2026-02-12 15:26:07,student_19,filter_sort,Сортировка,918,682,False
+b21b877a,2026-02-12 15:26:31,student_19,btn_submit,Оформить,1028,362,False
+03d90fd0,2026-02-12 15:27:09,student_19,btn_add_cart,В корзину,16,503,False
+3ba2d37d,2026-02-12 15:27:41,student_19,btn_add_cart,В корзину,1171,504,False
+75008840,2026-02-12 15:28:16,student_19,btn_submit,Оформить,44,216,False
+f9b9fc0e,2026-02-12 15:28:46,student_19,filter_sort,Сортировка,1870,283,False
+7a64b041,2026-02-12 15:29:40,student_19,filter_sort,Сортировка,1090,825,True
+8bd8d353,2026-02-12 15:30:25,student_19,btn_add_cart,В корзину,885,671,False
+e245eb77,2026-02-12 15:31:16,student_19,btn_add_cart,В корзину,1673,29,False
+f62c57e7,2026-02-12 15:31:34,student_19,btn_submit,Оформить,1359,642,False
+d9dfc66f,2026-02-12 15:32:18,student_19,btn_submit,Оформить,1524,973,False
+cf9613bd,2026-02-12 15:32:36,student_19,btn_submit,Оформить,1290,87,False
+180e497d,2026-02-12 15:33:12,student_19,btn_buy,Купить,621,473,True
+148587d8,2026-02-12 15:33:18,student_19,filter_sort,Сортировка,884,578,False
+a4939509,2026-02-12 15:34:05,student_19,btn_submit,Оформить,1040,425,True
+31edd098,2026-02-04 10:15:01,student_46,filter_sort,Сортировка,982,900,False
+ce0116ff,2026-02-04 10:15:22,student_46,filter_sort,Сортировка,875,541,True
+c73408e0,2026-02-04 10:15:53,student_46,filter_sort,Сортировка,947,1020,False
+587d52d2,2026-02-04 10:16:34,student_46,filter_sort,Сортировка,547,273,False
+0eac8422,2026-02-04 10:17:32,student_46,btn_add_cart,В корзину,323,30,False
+4cc1ef05,2026-02-04 10:17:57,student_46,filter_sort,Сортировка,1437,741,True
+fbb07bbc,2026-02-04 10:18:28,student_46,btn_submit,Оформить,336,123,False
+94d84d8b,2026-02-04 10:18:34,student_46,filter_sort,Сортировка,964,1065,False
+19890965,2026-02-05 18:25:02,student_25,btn_submit,Оформить,334,937,False
+e7d14d5b,2026-02-05 18:25:58,student_25,btn_buy,Купить,841,76,True
+22d88052,2026-02-05 18:26:09,student_25,btn_add_cart,В корзину,1518,674,True
+8dd1d7c0,2026-02-05 18:26:14,student_25,btn_submit,Оформить,1115,994,False
+7be955f9,2026-02-05 18:26:25,student_25,btn_submit,Оформить,1852,765,True
+290dc566,2026-02-05 18:26:40,student_25,btn_submit,Оформить,352,920,False
+35c40512,2026-02-20 17:52:37,student_32,btn_submit,Оформить,228,863,False
+86a228ed,2026-02-20 17:53:29,student_32,btn_add_cart,В корзину,1315,804,False
+5064dd38,2026-02-20 17:53:58,student_32,btn_buy,Купить,1626,656,False
+2c8dd6e2,2026-02-20 17:54:36,student_32,btn_add_cart,В корзину,1347,576,False
+cad95d02,2026-02-20 17:55:12,student_32,btn_submit,Оформить,1747,114,False
+447fb7d0,2026-02-20 17:55:21,student_32,filter_sort,Сортировка,1399,1063,False
+5a56dd88,2026-02-20 17:55:42,student_32,filter_sort,Сортировка,250,686,False
+3a68113c,2026-02-20 17:56:31,student_32,filter_sort,Сортировка,1321,700,False
+67c1b73f,2026-02-20 17:56:46,student_32,btn_submit,Оформить,1220,225,False
+aab5e2ba,2026-02-20 17:57:12,student_32,filter_sort,Сортировка,1856,906,False
+2f596469,2026-02-24 05:32:32,student_20,btn_submit,Оформить,1576,30,False
+3a4c466f,2026-02-24 05:32:37,student_20,btn_submit,Оформить,574,974,False
+a1199390,2026-02-24 05:32:38,student_20,filter_sort,Сортировка,1468,276,False
+01e9d4e7,2026-02-24 05:32:59,student_20,btn_buy,Купить,1261,121,False
+5c809aed,2026-02-24 05:33:15,student_20,btn_buy,Купить,1340,738,False
+c853fafa,2026-02-24 13:26:14,student_02,btn_submit,Оформить,42,656,False
+54deffe0,2026-02-24 13:26:16,student_02,btn_buy,Купить,15,427,False
+8746f4fa,2026-02-24 13:27:05,student_02,btn_buy,Купить,1620,57,True
+b39df696,2026-02-24 13:27:45,student_02,btn_submit,Оформить,629,459,False
+b1399be3,2026-02-24 13:28:12,student_02,btn_submit,Оформить,249,210,False
+6f2879b9,2026-02-24 13:28:20,student_02,btn_buy,Купить,1342,272,False
+6b144b2d,2026-02-24 13:29:10,student_02,btn_submit,Оформить,728,889,True
+1e7ec4c1,2026-02-24 13:29:16,student_02,filter_sort,Сортировка,221,878,False
+9854a628,2026-02-24 13:29:58,student_02,btn_buy,Купить,497,580,False
+1a52604d,2026-02-24 13:30:32,student_02,btn_submit,Оформить,1573,249,True
+4529147c,2026-02-24 13:31:13,student_02,btn_submit,Оформить,1911,864,False
+400548fc,2026-02-24 13:31:21,student_02,filter_sort,Сортировка,1231,936,False
+fa31ec1e,2026-02-24 13:31:25,student_02,btn_add_cart,В корзину,1626,515,False
+116da974,2026-02-24 13:31:48,student_02,btn_buy,Купить,1575,268,False
+fbfc0e19,2026-02-24 13:32:27,student_02,btn_add_cart,В корзину,1198,614,False
+a781efef,2026-02-24 13:32:40,student_02,btn_submit,Оформить,688,542,True
+4a1ac2cf,2026-02-24 13:32:44,student_02,btn_buy,Купить,1676,258,False
+d566bb1e,2026-02-12 18:04:11,student_11,btn_submit,Оформить,672,371,False
+3bd3a473,2026-02-12 18:04:43,student_11,btn_add_cart,В корзину,881,220,False
+7803a2b2,2026-02-12 18:04:46,student_11,btn_add_cart,В корзину,12,147,False
+714baa96,2026-02-12 18:05:09,student_11,filter_sort,Сортировка,378,104,False
+1693a39c,2026-02-12 18:05:29,student_11,filter_sort,Сортировка,957,674,False
+c3e20622,2026-02-07 06:55:53,student_20,filter_sort,Сортировка,1843,824,False
+e5a5553f,2026-02-07 06:56:19,student_20,btn_submit,Оформить,924,293,False
+58513525,2026-02-07 06:56:43,student_20,btn_buy,Купить,926,150,False
+4a22b945,2026-02-07 06:57:10,student_20,filter_sort,Сортировка,1317,1039,False
+27d04e14,2026-02-07 06:57:37,student_20,filter_sort,Сортировка,1513,857,False
+dcb95dcd,2026-02-07 06:58:28,student_20,filter_sort,Сортировка,236,1022,False
+8c1c3743,2026-02-07 06:58:45,student_20,btn_buy,Купить,1088,712,False
+1a386da3,2026-02-07 06:58:57,student_20,filter_sort,Сортировка,1439,61,False
+d3446f15,2026-02-07 06:59:47,student_20,btn_buy,Купить,749,120,False
+021a72ce,2026-02-07 07:00:06,student_20,btn_submit,Оформить,642,798,False
+f7f10ed5,2026-02-25 21:33:53,student_21,filter_sort,Сортировка,1486,141,False
+bddf970d,2026-02-25 21:34:12,student_21,btn_add_cart,В корзину,1287,671,False
+43222dc6,2026-02-25 21:34:15,student_21,btn_submit,Оформить,1554,95,False
+5fe31bac,2026-02-25 21:34:45,student_21,btn_buy,Купить,890,772,False
+25db533e,2026-02-25 21:35:30,student_21,btn_buy,Купить,28,409,False
+1f8c9bb2,2026-02-25 21:35:47,student_21,btn_buy,Купить,1664,39,False
+b00ab23d,2026-02-25 21:36:31,student_21,btn_add_cart,В корзину,531,642,False
+98bf01a1,2026-02-25 21:36:34,student_21,btn_submit,Оформить,1375,891,False
+81caaeed,2026-02-02 08:17:37,student_28,btn_submit,Оформить,230,278,False
+6e2199ae,2026-02-02 08:18:16,student_28,btn_add_cart,В корзину,1109,15,False
+ebe1dc83,2026-02-02 08:18:53,student_28,btn_submit,Оформить,658,571,False
+e5b67ad8,2026-02-02 08:19:29,student_28,filter_sort,Сортировка,911,321,False
+ebdc15a2,2026-02-02 08:20:28,student_28,filter_sort,Сортировка,9,240,False
+8b63efdc,2026-02-02 08:20:34,student_28,btn_submit,Оформить,803,441,False
+a3576b85,2026-02-02 08:21:22,student_28,filter_sort,Сортировка,1665,817,False
+c18ec903,2026-02-02 08:22:05,student_28,btn_submit,Оформить,1281,936,False
+c0c5a7f7,2026-02-02 08:22:29,student_28,btn_submit,Оформить,1245,58,False
+8bdb05af,2026-02-21 04:57:38,student_16,btn_add_cart,В корзину,110,333,False
+b6ad610a,2026-02-21 04:58:00,student_16,btn_add_cart,В корзину,1035,752,False
+a1e014db,2026-02-21 04:58:38,student_16,btn_buy,Купить,636,368,False
+d1847bc3,2026-02-21 04:59:29,student_16,btn_submit,Оформить,47,493,False
+70db30d3,2026-02-21 05:00:09,student_16,btn_submit,Оформить,1720,886,False
+6f99a29f,2026-02-21 05:01:09,student_16,btn_submit,Оформить,1448,616,False
+f47876d3,2026-02-21 05:01:44,student_16,btn_buy,Купить,1747,166,False
+464f83f9,2026-02-21 05:02:41,student_16,filter_sort,Сортировка,1107,774,False
+7f3a4896,2026-02-21 05:02:50,student_16,btn_submit,Оформить,504,318,False
+74874e2a,2026-02-21 05:03:09,student_16,btn_add_cart,В корзину,1845,80,False
+18aeea62,2026-02-21 05:03:37,student_16,btn_buy,Купить,1238,155,False
+40ee1c04,2026-02-21 05:04:24,student_16,btn_add_cart,В корзину,33,764,True
+5d053ff7,2026-02-21 05:05:01,student_16,filter_sort,Сортировка,1849,940,False
+46cb169e,2026-02-21 05:05:35,student_16,btn_buy,Купить,1535,263,False
+460b4d73,2026-02-21 05:06:01,student_16,btn_buy,Купить,239,782,False
+c2a3a15f,2026-02-21 05:06:15,student_16,btn_submit,Оформить,1059,920,False
+45c070ea,2026-02-21 05:06:54,student_16,btn_buy,Купить,1768,742,False
+6a47080e,2026-02-21 05:07:08,student_16,btn_buy,Купить,1038,927,False
+e17b306d,2026-02-21 05:07:18,student_16,btn_add_cart,В корзину,932,160,False
+bc878faa,2026-02-21 05:07:57,student_16,btn_add_cart,В корзину,327,328,False
+c6514396,2026-02-18 11:29:04,student_34,btn_buy,Купить,1823,994,False
+a59a615a,2026-02-18 11:30:02,student_34,btn_buy,Купить,1410,987,False
+c6879b00,2026-02-18 11:30:44,student_34,filter_sort,Сортировка,1036,257,False
+811946bb,2026-02-18 11:31:08,student_34,btn_buy,Купить,1141,1063,False
+80f6ff95,2026-02-18 11:32:02,student_34,filter_sort,Сортировка,792,768,False
+c9717408,2026-02-18 11:32:12,student_34,filter_sort,Сортировка,1765,90,False
+890fba48,2026-02-18 11:32:32,student_34,filter_sort,Сортировка,1544,1052,True
+bde20e6d,2026-02-18 11:33:10,student_34,filter_sort,Сортировка,498,495,False
+29991661,2026-02-18 11:33:52,student_34,btn_buy,Купить,509,930,False
+51d75ef0,2026-02-18 11:34:36,student_34,filter_sort,Сортировка,797,113,False
+63c1d553,2026-02-18 11:35:27,student_34,btn_add_cart,В корзину,13,835,False
+2e53f3dc,2026-02-18 11:35:47,student_34,filter_sort,Сортировка,241,709,False
+f7c9aaeb,2026-02-18 11:36:16,student_34,btn_buy,Купить,122,612,False
+c0dd8047,2026-02-18 11:37:07,student_34,btn_buy,Купить,1350,368,False
+4dc8ded3,2026-02-18 11:37:22,student_34,btn_add_cart,В корзину,1631,248,False
+ef17a03a,2026-02-18 11:37:33,student_34,btn_buy,Купить,1501,4,False
+926ea799,2026-02-18 11:38:06,student_34,btn_add_cart,В корзину,1595,225,False
+72ce4cc0,2026-02-07 05:24:58,student_06,filter_sort,Сортировка,1266,257,False
+6adae417,2026-02-07 05:25:35,student_06,btn_buy,Купить,1202,993,False
+8e296745,2026-02-07 05:25:59,student_06,btn_submit,Оформить,376,953,False
+4ab082da,2026-02-07 05:26:46,student_06,filter_sort,Сортировка,452,349,False
+f311065d,2026-02-07 05:27:07,student_06,btn_buy,Купить,1625,830,False
+98cdf58c,2026-02-07 05:27:30,student_06,btn_add_cart,В корзину,1839,997,False
+09ef4f6f,2026-02-07 05:28:09,student_06,btn_submit,Оформить,1094,899,False
+c30511d5,2026-02-07 05:29:01,student_06,filter_sort,Сортировка,348,976,False
+13324d77,2026-02-07 05:29:37,student_06,btn_add_cart,В корзину,1913,144,False
+89f0160d,2026-02-07 05:30:18,student_06,btn_submit,Оформить,560,837,False
+25a9fb88,2026-02-07 05:30:46,student_06,btn_buy,Купить,307,73,False
+7a88e6d6,2026-02-07 05:30:58,student_06,btn_add_cart,В корзину,1421,828,False
+99433f26,2026-02-27 19:18:41,student_15,btn_add_cart,В корзину,200,113,False
+1d621200,2026-02-27 19:19:31,student_15,btn_submit,Оформить,128,984,False
+d464d632,2026-02-27 19:19:50,student_15,btn_submit,Оформить,1574,759,False
+49fec916,2026-02-27 19:20:27,student_15,btn_buy,Купить,1269,368,False
+e5ea5e1b,2026-02-27 19:20:39,student_15,btn_add_cart,В корзину,1221,1063,False
+1e54085f,2026-02-27 19:21:01,student_15,btn_buy,Купить,680,554,False
+f752e3c3,2026-02-27 19:21:58,student_15,btn_submit,Оформить,1877,890,False
+073311a8,2026-02-27 19:22:40,student_15,btn_buy,Купить,1307,579,False
+6b6f00a6,2026-02-27 19:23:03,student_15,btn_buy,Купить,972,794,False
+8d5f639f,2026-02-27 19:23:26,student_15,btn_add_cart,В корзину,1779,1065,True
+be78400b,2026-02-27 19:23:49,student_15,filter_sort,Сортировка,227,420,False
+b0e8ef5c,2026-02-27 19:24:44,student_15,btn_submit,Оформить,976,907,False
+dc7d6d70,2026-02-27 19:25:39,student_15,btn_submit,Оформить,1746,253,False
+2eb0ed14,2026-02-27 19:25:43,student_15,btn_buy,Купить,826,753,False
+129f7e9a,2026-02-26 15:58:11,student_15,btn_buy,Купить,1816,341,False
+5aaa761f,2026-02-26 15:59:07,student_15,btn_add_cart,В корзину,138,23,False
+96d8b44f,2026-02-26 15:59:59,student_15,btn_buy,Купить,356,939,False
+70525821,2026-02-26 16:00:25,student_15,filter_sort,Сортировка,1481,876,False
+bc0c916b,2026-02-26 16:01:03,student_15,filter_sort,Сортировка,398,70,False
+ffabb0b2,2026-02-18 07:34:08,student_04,filter_sort,Сортировка,1077,241,False
+777c68c7,2026-02-18 07:34:31,student_04,filter_sort,Сортировка,293,501,False
+2d6d0632,2026-02-18 07:35:26,student_04,btn_submit,Оформить,1215,809,False
+1a29b29f,2026-02-18 07:35:43,student_04,btn_add_cart,В корзину,1380,955,False
+f006e1bb,2026-02-18 07:36:11,student_04,btn_buy,Купить,547,421,False
+48c47a39,2026-02-18 07:36:49,student_04,btn_add_cart,В корзину,568,871,False
+5f37e9f7,2026-02-18 07:37:31,student_04,btn_add_cart,В корзину,1617,1023,False
+9efd1229,2026-02-18 07:37:50,student_04,filter_sort,Сортировка,988,612,False
+688db6cc,2026-02-18 07:38:49,student_04,btn_add_cart,В корзину,879,765,False
+8c9fd778,2026-02-18 07:38:50,student_04,btn_submit,Оформить,107,193,False
+61ec2697,2026-02-18 07:39:46,student_04,btn_add_cart,В корзину,1368,557,False
+45d4a7cc,2026-02-18 07:40:08,student_04,filter_sort,Сортировка,707,54,False
+3f98ad75,2026-02-18 07:40:58,student_04,btn_buy,Купить,1548,188,False
+3c9de43d,2026-02-18 07:41:14,student_04,btn_buy,Купить,404,1072,False
+35f05abb,2026-02-18 07:41:46,student_04,btn_submit,Оформить,878,1070,False
+1fa9c700,2026-02-18 07:42:07,student_04,btn_add_cart,В корзину,398,918,False
+0abf2179,2026-02-09 01:39:06,student_27,btn_buy,Купить,216,443,False
+72dac07f,2026-02-09 01:39:39,student_27,btn_buy,Купить,1717,236,False
+f1663a7b,2026-02-09 01:40:16,student_27,btn_buy,Купить,1349,365,False
+5e44f263,2026-02-09 01:40:42,student_27,btn_submit,Оформить,817,345,False
+3e83cac4,2026-02-09 01:41:40,student_27,btn_add_cart,В корзину,38,621,False
+30e6879c,2026-02-09 01:42:00,student_27,btn_add_cart,В корзину,1479,945,False
+c811c725,2026-02-09 01:42:19,student_27,filter_sort,Сортировка,1723,705,False
+378eb9ff,2026-02-09 01:42:36,student_27,btn_submit,Оформить,829,555,False
+94a3b65b,2026-02-09 01:42:57,student_27,btn_buy,Купить,858,1034,True
+27b76ea9,2026-02-09 01:43:18,student_27,btn_add_cart,В корзину,1131,185,False
+a67603f0,2026-02-13 13:02:30,student_43,btn_submit,Оформить,1118,234,False
+68465b30,2026-02-13 13:03:16,student_43,btn_buy,Купить,589,1012,False
+08e235cb,2026-02-13 13:03:59,student_43,btn_submit,Оформить,1289,815,False
+0fa345d5,2026-02-13 13:04:13,student_43,btn_submit,Оформить,1389,223,False
+fdfe7d5a,2026-02-13 13:04:43,student_43,btn_buy,Купить,0,355,False
+9c82ee6d,2026-02-13 13:05:17,student_43,btn_buy,Купить,489,290,True
+48cb465a,2026-02-13 13:05:47,student_43,filter_sort,Сортировка,1058,720,False
+a97547a7,2026-02-13 13:06:35,student_43,filter_sort,Сортировка,1529,57,False
+a1e0a46c,2026-02-22 00:36:35,student_34,filter_sort,Сортировка,13,571,False
+911c16da,2026-02-22 00:36:36,student_34,btn_buy,Купить,1846,632,False
+e98f2972,2026-02-22 00:36:39,student_34,btn_submit,Оформить,1242,170,False
+4df1646e,2026-02-22 00:37:21,student_34,btn_add_cart,В корзину,964,978,False
+e3889f68,2026-02-22 00:37:31,student_34,btn_submit,Оформить,329,1006,False
+6eaae13e,2026-02-22 00:37:46,student_34,btn_add_cart,В корзину,325,1048,False
+88a202ac,2026-02-22 00:37:51,student_34,btn_add_cart,В корзину,1015,932,True
+4f98e907,2026-02-22 00:38:10,student_34,btn_buy,Купить,1252,879,False
+cad378c0,2026-02-22 00:38:22,student_34,filter_sort,Сортировка,1098,176,False
+0f45f4af,2026-02-22 00:38:26,student_34,filter_sort,Сортировка,623,434,False
+060dbdcf,2026-02-22 00:39:04,student_34,filter_sort,Сортировка,1034,637,False
+914ed574,2026-02-22 00:39:56,student_34,btn_submit,Оформить,264,594,False
+2017eb6e,2026-02-22 00:40:06,student_34,btn_submit,Оформить,408,671,False
+48b0a949,2026-02-22 00:40:40,student_34,btn_submit,Оформить,1213,904,False
+d2a4b46f,2026-02-15 13:46:39,student_46,btn_submit,Оформить,182,123,False
+28f1f737,2026-02-15 13:46:59,student_46,btn_buy,Купить,988,868,False
+1519c7bc,2026-02-15 13:47:21,student_46,btn_add_cart,В корзину,1370,422,False
+64e60a3b,2026-02-15 13:48:06,student_46,btn_buy,Купить,1811,960,False
+28125b26,2026-02-15 13:48:24,student_46,btn_submit,Оформить,1376,1068,False
+67052f02,2026-02-15 13:49:22,student_46,btn_submit,Оформить,1650,898,False
+a6f21e1b,2026-02-15 13:50:01,student_46,btn_buy,Купить,1813,1016,False
+e21b7cea,2026-02-15 13:50:09,student_46,filter_sort,Сортировка,1706,924,False
+a6bf5c42,2026-02-15 13:51:03,student_46,btn_submit,Оформить,1571,931,False
+d4b4d350,2026-02-15 13:51:12,student_46,btn_submit,Оформить,514,917,False
+af5ee4b6,2026-02-15 13:51:53,student_46,btn_add_cart,В корзину,1867,772,False
+6c2a514e,2026-02-15 13:52:51,student_46,filter_sort,Сортировка,1319,1046,False
+61437c9d,2026-02-15 13:53:19,student_46,filter_sort,Сортировка,663,202,False
+abaccfda,2026-02-15 13:53:58,student_46,btn_submit,Оформить,869,144,False
+ee6ab5ec,2026-02-26 23:19:03,student_10,btn_add_cart,В корзину,760,833,False
+3a04fed7,2026-02-26 23:19:36,student_10,btn_add_cart,В корзину,1242,725,False
+15ce74c9,2026-02-26 23:20:02,student_10,btn_submit,Оформить,747,297,False
+9db0de3f,2026-02-26 23:20:50,student_10,btn_add_cart,В корзину,1555,311,False
+3e118070,2026-02-26 23:21:33,student_10,filter_sort,Сортировка,1461,120,False
+a0bdd2b5,2026-02-26 23:22:16,student_10,btn_add_cart,В корзину,1677,544,False
+7916c729,2026-02-26 23:23:07,student_10,btn_buy,Купить,1286,31,False
+c714fcc4,2026-02-26 23:23:11,student_10,btn_submit,Оформить,1283,492,False
+43ae7c1e,2026-02-26 23:23:22,student_10,btn_submit,Оформить,1650,297,False
+b1ca2c73,2026-02-26 23:23:29,student_10,btn_add_cart,В корзину,1587,356,False
+a0383315,2026-02-26 23:23:55,student_10,btn_submit,Оформить,1530,216,True
+ba283139,2026-02-26 23:24:41,student_10,btn_add_cart,В корзину,171,120,False
+5a076047,2026-02-15 17:34:54,student_14,filter_sort,Сортировка,163,230,False
+bfe85ee6,2026-02-15 17:35:13,student_14,filter_sort,Сортировка,1857,1034,False
+1745a1f0,2026-02-15 17:35:38,student_14,filter_sort,Сортировка,749,178,False
+8e76e5e3,2026-02-15 17:36:34,student_14,btn_buy,Купить,203,779,False
+7e9b2394,2026-02-15 17:37:24,student_14,filter_sort,Сортировка,1164,132,True
+aacf14d4,2026-02-15 17:38:12,student_14,btn_buy,Купить,1204,390,False
+83c343d7,2026-03-02 07:46:35,student_03,filter_sort,Сортировка,701,131,False
+fe7a917d,2026-03-02 07:47:29,student_03,btn_submit,Оформить,1514,189,False
+41dbcfb6,2026-03-02 07:48:07,student_03,btn_buy,Купить,1231,969,False
+422fe93e,2026-03-02 07:49:05,student_03,btn_submit,Оформить,1908,547,False
+1e665bcf,2026-03-02 07:49:55,student_03,filter_sort,Сортировка,1182,303,False
+d5d25a03,2026-03-02 07:50:12,student_03,btn_add_cart,В корзину,1293,483,False
+399ed5d6,2026-03-02 07:50:41,student_03,btn_submit,Оформить,1198,87,False
+e1c48566,2026-03-02 07:51:09,student_03,btn_buy,Купить,1162,877,False
+e86ae6b4,2026-03-02 07:51:14,student_03,btn_buy,Купить,1268,600,False
+ddcec7aa,2026-03-02 07:51:49,student_03,filter_sort,Сортировка,1698,228,False
+55eb6b49,2026-02-02 00:07:38,student_37,btn_add_cart,В корзину,1356,770,False
+7b706b52,2026-02-02 00:07:45,student_37,btn_submit,Оформить,121,113,False
+0f0ef7cb,2026-02-02 00:07:48,student_37,filter_sort,Сортировка,1362,910,False
+abc4a7b2,2026-02-02 00:07:57,student_37,btn_add_cart,В корзину,872,660,False
+16485575,2026-02-02 00:08:28,student_37,btn_submit,Оформить,153,877,False
+2753b37b,2026-02-02 00:08:48,student_37,btn_add_cart,В корзину,16,946,False
+5e9270d4,2026-02-02 00:09:20,student_37,filter_sort,Сортировка,1581,623,False
+c11b7ddb,2026-02-02 00:09:46,student_37,filter_sort,Сортировка,1535,417,False
+8832997c,2026-02-02 00:10:21,student_37,filter_sort,Сортировка,1160,836,False
+f90db0bb,2026-02-02 00:10:28,student_37,btn_submit,Оформить,1195,1010,False
+ec4eec64,2026-02-02 00:10:31,student_37,btn_buy,Купить,327,973,True
+ce9887c3,2026-02-02 00:10:53,student_37,btn_add_cart,В корзину,523,94,False
+95478b64,2026-02-02 00:11:33,student_37,filter_sort,Сортировка,428,531,True
+9ef312aa,2026-02-16 13:18:52,student_41,btn_add_cart,В корзину,176,330,True
+c3b780a8,2026-02-16 13:19:46,student_41,btn_submit,Оформить,111,547,True
+9a057c51,2026-02-16 13:19:59,student_41,btn_buy,Купить,1067,229,False
+826f551b,2026-02-16 13:20:28,student_41,filter_sort,Сортировка,1616,363,False
+8a95a90a,2026-02-16 13:21:27,student_41,btn_buy,Купить,1602,731,False
+577371b8,2026-02-16 13:22:11,student_41,btn_buy,Купить,1748,581,False
+129cded0,2026-02-16 13:23:07,student_41,filter_sort,Сортировка,40,704,False
+778204c6,2026-02-16 13:23:53,student_41,btn_add_cart,В корзину,1353,469,False
+3970167f,2026-02-16 13:24:47,student_41,btn_submit,Оформить,20,962,False
+3a3d1b0a,2026-02-16 13:25:46,student_41,btn_add_cart,В корзину,1876,807,False
+99eca0e6,2026-02-16 13:25:59,student_41,btn_buy,Купить,918,303,False
+deee33ab,2026-02-16 13:26:57,student_41,btn_submit,Оформить,463,293,False
+f19a4cfb,2026-02-16 13:27:08,student_41,btn_buy,Купить,147,178,False
+2f9bef42,2026-02-16 13:27:16,student_41,btn_add_cart,В корзину,1610,262,False
+9579ecff,2026-02-16 13:27:44,student_41,btn_submit,Оформить,1080,853,False
+614f8137,2026-02-16 13:27:46,student_41,btn_add_cart,В корзину,1276,93,False
+f2a91f72,2026-02-16 13:28:09,student_41,btn_add_cart,В корзину,531,660,False
+881854d8,2026-02-16 20:32:51,student_29,filter_sort,Сортировка,905,595,False
+3787d206,2026-02-16 20:33:44,student_29,btn_add_cart,В корзину,521,46,False
+a266c021,2026-02-16 20:34:26,student_29,filter_sort,Сортировка,591,638,False
+264ab2ef,2026-02-16 20:34:58,student_29,btn_buy,Купить,1028,1013,False
+dbe8f1d9,2026-02-16 20:35:14,student_29,btn_submit,Оформить,1673,132,False
+426b11a6,2026-02-16 20:35:41,student_29,btn_add_cart,В корзину,1352,998,False
+8b8372ca,2026-02-01 13:41:30,student_16,btn_submit,Оформить,1282,516,False
+6312d652,2026-02-01 13:41:51,student_16,btn_buy,Купить,556,192,False
+def4ef22,2026-02-01 13:42:48,student_16,btn_buy,Купить,26,741,False
+7b9216be,2026-02-01 13:43:33,student_16,btn_add_cart,В корзину,1506,983,False
+726ff35e,2026-02-01 13:44:19,student_16,btn_add_cart,В корзину,1623,944,False
+458fe769,2026-02-01 13:44:46,student_16,btn_add_cart,В корзину,1205,784,False
+abcc774a,2026-02-01 13:44:51,student_16,btn_submit,Оформить,395,497,False
+74642f3c,2026-02-01 13:45:09,student_16,btn_buy,Купить,700,706,False
+ed4215b0,2026-02-01 13:45:47,student_16,btn_submit,Оформить,1324,1068,True
+4e9ea23e,2026-02-01 13:46:40,student_16,btn_add_cart,В корзину,1610,554,True
+d53f6901,2026-02-01 13:47:24,student_16,btn_buy,Купить,1709,542,False
+ca90bf96,2026-02-01 13:47:32,student_16,btn_add_cart,В корзину,1428,1068,False
+4568f86e,2026-02-01 13:48:22,student_16,btn_buy,Купить,355,766,True
+24c29004,2026-02-01 13:48:26,student_16,btn_submit,Оформить,1692,338,False
+fd4884ff,2026-02-01 13:48:46,student_16,filter_sort,Сортировка,1473,610,True
+b6ac8dbf,2026-02-01 13:49:19,student_16,filter_sort,Сортировка,661,609,False
+be891645,2026-02-18 19:06:15,student_28,btn_submit,Оформить,1400,550,False
+6968f735,2026-02-18 19:06:44,student_28,btn_buy,Купить,1317,547,False
+94512a23,2026-02-18 19:07:31,student_28,filter_sort,Сортировка,1003,45,False
+96244a73,2026-02-18 19:07:48,student_28,filter_sort,Сортировка,594,850,False
+82838a75,2026-02-18 19:08:38,student_28,filter_sort,Сортировка,1365,676,False
+ae3f545d,2026-02-18 19:08:45,student_28,btn_submit,Оформить,1838,371,False
+484a0c21,2026-02-18 19:09:23,student_28,btn_submit,Оформить,765,284,False
+a27888d8,2026-02-18 19:10:11,student_28,btn_add_cart,В корзину,1891,791,False
+02d410b7,2026-02-18 19:11:06,student_28,btn_buy,Купить,860,431,True
+940baf34,2026-02-18 19:11:32,student_28,btn_add_cart,В корзину,380,929,False
+a0356c70,2026-02-18 19:12:23,student_28,btn_submit,Оформить,1236,814,False
+62d2165c,2026-02-18 19:12:28,student_28,btn_buy,Купить,133,734,False
+e6ba53d7,2026-02-18 19:13:23,student_28,btn_add_cart,В корзину,224,496,False
+15713232,2026-02-18 19:14:00,student_28,btn_add_cart,В корзину,925,481,False
+3a4343b2,2026-02-18 19:14:07,student_28,btn_buy,Купить,67,114,False
+bda26ffb,2026-02-18 19:14:39,student_28,filter_sort,Сортировка,1134,38,False
+d7d6ddb4,2026-02-18 19:15:35,student_28,btn_buy,Купить,1919,1014,False
+bf5cfd1d,2026-02-18 19:16:10,student_28,btn_add_cart,В корзину,508,800,False
+ffc60b4a,2026-02-27 21:28:22,student_12,btn_submit,Оформить,516,544,True
+d668747b,2026-02-27 21:28:46,student_12,filter_sort,Сортировка,216,558,True
+ca66af1f,2026-02-27 21:29:39,student_12,btn_add_cart,В корзину,306,645,False
+3ba087e6,2026-02-27 21:30:29,student_12,btn_add_cart,В корзину,1135,14,False
+bd796672,2026-02-27 21:30:43,student_12,btn_buy,Купить,636,331,False
+f0991de6,2026-02-27 21:31:11,student_12,btn_submit,Оформить,818,841,False
+d3d15207,2026-02-27 21:31:56,student_12,filter_sort,Сортировка,1084,726,False
+18d122d6,2026-02-27 21:32:03,student_12,btn_buy,Купить,118,944,False
+ee913615,2026-02-27 21:32:05,student_12,btn_submit,Оформить,428,767,False
+9bea6097,2026-02-27 21:32:47,student_12,btn_add_cart,В корзину,652,540,False
+a3566792,2026-02-27 21:33:25,student_12,btn_add_cart,В корзину,148,728,True
+168f5054,2026-02-03 16:34:01,student_16,btn_add_cart,В корзину,344,703,False
+5d87fab6,2026-02-03 16:34:08,student_16,btn_add_cart,В корзину,55,939,False
+eb5e1b47,2026-02-03 16:34:11,student_16,btn_submit,Оформить,676,10,True
+e18b3c9c,2026-02-03 16:34:31,student_16,filter_sort,Сортировка,1700,381,False
+e518e966,2026-02-03 16:35:26,student_16,btn_buy,Купить,956,320,False
+587d7325,2026-02-03 16:36:21,student_16,btn_submit,Оформить,1106,906,False
+bbd898b9,2026-02-03 16:37:14,student_16,filter_sort,Сортировка,1743,1037,False
+83d9e100,2026-02-03 16:37:53,student_16,btn_add_cart,В корзину,1102,264,False
+a689ce16,2026-02-03 16:38:37,student_16,filter_sort,Сортировка,462,66,False
+396a0fc0,2026-02-03 16:38:48,student_16,btn_buy,Купить,1018,774,True
+47caf6f1,2026-02-03 16:39:24,student_16,btn_submit,Оформить,1494,895,False
+56aa2251,2026-02-03 16:40:03,student_16,btn_submit,Оформить,264,202,False
+22018e42,2026-02-03 16:40:17,student_16,btn_add_cart,В корзину,1109,574,False
+718f8b2c,2026-02-03 16:40:32,student_16,btn_submit,Оформить,1413,873,False
+faccb05c,2026-02-03 16:40:37,student_16,btn_add_cart,В корзину,1918,753,False
+40eee03c,2026-02-24 04:17:19,student_49,btn_add_cart,В корзину,63,251,False
+0a369bd5,2026-02-24 04:17:38,student_49,btn_add_cart,В корзину,535,535,False
+54efa46e,2026-02-24 04:18:27,student_49,btn_buy,Купить,1143,626,False
+547ec3ef,2026-02-24 04:19:03,student_49,btn_add_cart,В корзину,89,737,True
+cf9c9c65,2026-02-24 04:19:19,student_49,btn_submit,Оформить,1107,44,False
+a1e64104,2026-02-24 04:20:03,student_49,btn_submit,Оформить,32,107,False
+191dcce5,2026-02-24 04:20:15,student_49,btn_buy,Купить,286,443,False
+e3326fff,2026-02-24 04:21:14,student_49,btn_buy,Купить,1491,313,False
+260f69c3,2026-02-24 04:22:04,student_49,btn_submit,Оформить,384,35,False
+0e893590,2026-02-24 04:22:21,student_49,btn_add_cart,В корзину,1894,243,False
+bad96f0a,2026-02-24 04:23:07,student_49,btn_submit,Оформить,772,571,False
+70d182b8,2026-02-24 04:23:50,student_49,btn_buy,Купить,969,628,False
+980b0f8c,2026-02-24 04:24:41,student_49,btn_add_cart,В корзину,720,701,False
+8e991918,2026-02-24 04:25:12,student_49,filter_sort,Сортировка,89,455,False
+cc6a1ef6,2026-02-24 04:25:59,student_49,btn_buy,Купить,1445,472,False
+56dd14ed,2026-02-24 04:26:23,student_49,filter_sort,Сортировка,1707,1052,False
+db1049df,2026-02-24 04:27:04,student_49,btn_submit,Оформить,44,822,False
+152ec6a0,2026-02-24 04:27:29,student_49,btn_buy,Купить,781,786,False
+cb1b37a2,2026-02-24 04:28:28,student_49,btn_buy,Купить,1375,1043,False
+06131f23,2026-02-24 04:29:11,student_49,btn_submit,Оформить,1340,388,False
+78ab2996,2026-02-20 17:45:08,student_47,filter_sort,Сортировка,337,226,False
+d596226d,2026-02-20 17:45:37,student_47,btn_buy,Купить,986,671,False
+f21008bb,2026-02-20 17:45:40,student_47,btn_buy,Купить,819,713,False
+6962ca31,2026-02-20 17:46:34,student_47,btn_submit,Оформить,121,809,False
+287e7685,2026-02-20 17:46:37,student_47,btn_add_cart,В корзину,1296,300,True
+7e70b84f,2026-02-20 17:46:53,student_47,btn_buy,Купить,1280,1041,False
+6eb31ca0,2026-02-20 17:47:08,student_47,filter_sort,Сортировка,1337,670,False
+e03898d4,2026-02-18 14:32:33,student_47,btn_submit,Оформить,1494,37,False
+67a147fe,2026-02-18 14:33:10,student_47,btn_add_cart,В корзину,1147,41,False
+8437193e,2026-02-18 14:33:15,student_47,filter_sort,Сортировка,543,928,False
+988bf93f,2026-02-18 14:33:47,student_47,btn_add_cart,В корзину,907,269,False
+b854bdf0,2026-02-18 14:34:10,student_47,btn_add_cart,В корзину,598,311,False
+2a3dc8a5,2026-02-18 14:34:24,student_47,btn_buy,Купить,1289,715,False
+cfc649ad,2026-02-18 14:35:02,student_47,btn_submit,Оформить,1110,483,False
+69a2f196,2026-02-18 14:35:42,student_47,btn_add_cart,В корзину,789,263,False
+2d5fcdae,2026-02-18 14:36:21,student_47,btn_buy,Купить,1269,740,False
+517a8ccf,2026-02-18 14:36:56,student_47,btn_submit,Оформить,1024,1065,False
+5c769dcf,2026-02-18 14:37:13,student_47,btn_submit,Оформить,228,604,False
+8d091a47,2026-02-18 14:38:00,student_47,btn_submit,Оформить,871,111,False
+a3140e4b,2026-02-18 14:38:23,student_47,btn_submit,Оформить,423,220,False
+394f32e8,2026-02-18 14:39:07,student_47,btn_submit,Оформить,791,1024,False
+4a9c24de,2026-02-18 14:39:25,student_47,btn_buy,Купить,1427,228,False
+8a735fd2,2026-02-18 14:40:09,student_47,btn_submit,Оформить,1903,229,False
+c8fd8a81,2026-02-18 14:40:11,student_47,btn_submit,Оформить,201,541,False
+483b5d45,2026-02-12 03:47:09,student_23,btn_submit,Оформить,1349,589,False
+34942351,2026-02-12 03:48:03,student_23,btn_buy,Купить,1769,964,False
+d3332336,2026-02-12 03:48:26,student_23,filter_sort,Сортировка,854,930,False
+a77ee64c,2026-02-12 03:48:30,student_23,filter_sort,Сортировка,1752,995,False
+414f9a67,2026-02-12 03:48:50,student_23,btn_add_cart,В корзину,128,1017,True
+23357af5,2026-02-12 03:48:54,student_23,btn_add_cart,В корзину,1656,714,False
+6c9ff203,2026-02-12 03:49:45,student_23,btn_add_cart,В корзину,776,417,True
+01c14403,2026-02-12 03:50:05,student_23,btn_submit,Оформить,1424,28,True
+89f43b43,2026-02-12 03:50:26,student_23,btn_buy,Купить,1150,109,True
+c7adcbf3,2026-02-12 03:50:49,student_23,btn_add_cart,В корзину,564,43,False
+f1f71f1c,2026-02-12 03:51:32,student_23,filter_sort,Сортировка,751,17,False
+f1a24fd1,2026-02-08 07:51:10,student_18,btn_submit,Оформить,395,935,False
+a3f6189d,2026-02-08 07:51:45,student_18,btn_submit,Оформить,783,758,True
+2b6a9435,2026-02-08 07:52:35,student_18,filter_sort,Сортировка,7,900,False
+d18e35c6,2026-02-08 07:53:09,student_18,btn_add_cart,В корзину,1674,984,False
+3ea9316f,2026-02-08 07:54:08,student_18,btn_submit,Оформить,1351,847,False
+1ccd98fb,2026-02-08 07:54:43,student_18,btn_buy,Купить,909,527,True
+14b65365,2026-02-08 07:54:47,student_18,filter_sort,Сортировка,1076,391,False
+6fccfe3a,2026-02-08 07:55:35,student_18,btn_buy,Купить,127,695,False
+c675ad1c,2026-02-08 07:56:07,student_18,btn_buy,Купить,1343,104,False
+523108c0,2026-02-08 07:56:44,student_18,btn_submit,Оформить,517,268,False
+1a5f7fe5,2026-02-08 07:57:43,student_18,btn_add_cart,В корзину,194,806,False
+8ba1cbc1,2026-02-08 07:58:21,student_18,btn_submit,Оформить,1233,76,False
+5f31f0e6,2026-02-08 07:59:08,student_18,btn_submit,Оформить,755,321,False
+035b1770,2026-02-08 07:59:34,student_18,btn_submit,Оформить,32,444,False
+6a684c0b,2026-02-08 07:59:52,student_18,btn_add_cart,В корзину,1244,298,False
+445df7f2,2026-02-08 08:00:51,student_18,btn_buy,Купить,1139,771,True
+d8e8c9df,2026-02-21 07:29:04,student_39,filter_sort,Сортировка,122,973,False
+a48f51be,2026-02-21 07:29:53,student_39,btn_submit,Оформить,323,318,False
+09217928,2026-02-21 07:29:59,student_39,btn_add_cart,В корзину,1864,164,False
+ea429b33,2026-02-21 07:30:49,student_39,btn_submit,Оформить,412,924,False
+677e89be,2026-02-21 07:31:19,student_39,btn_add_cart,В корзину,490,442,False
+889017c6,2026-02-21 07:32:01,student_39,btn_add_cart,В корзину,820,318,False
+1d57ba2b,2026-02-10 02:06:06,student_06,btn_buy,Купить,1563,659,False
+6b03e627,2026-02-10 02:07:05,student_06,btn_add_cart,В корзину,1392,309,False
+a09f30c4,2026-02-10 02:07:54,student_06,btn_buy,Купить,278,369,False
+257ad5dd,2026-02-10 02:08:09,student_06,btn_add_cart,В корзину,443,221,False
+8c494bf5,2026-02-10 02:08:33,student_06,btn_buy,Купить,1405,702,False
+f99de054,2026-02-10 02:09:07,student_06,btn_submit,Оформить,559,730,True
+17c915ba,2026-02-10 02:09:16,student_06,btn_add_cart,В корзину,21,783,True
+497fba3f,2026-02-10 02:09:46,student_06,btn_add_cart,В корзину,439,750,True
+f3302db7,2026-02-10 02:10:33,student_06,filter_sort,Сортировка,260,558,False
+01d68114,2026-02-10 02:11:19,student_06,btn_add_cart,В корзину,846,1048,True
+8d705a00,2026-02-10 02:12:01,student_06,btn_submit,Оформить,501,97,False
+7fc1ffa8,2026-02-16 03:48:07,student_26,btn_buy,Купить,1266,347,True
+a6e4a77f,2026-02-16 03:48:13,student_26,btn_buy,Купить,77,759,False
+d00f675a,2026-02-16 03:48:51,student_26,filter_sort,Сортировка,604,932,True
+b89bbb3a,2026-02-16 03:49:21,student_26,filter_sort,Сортировка,207,60,False
+b8d41cfd,2026-02-16 03:49:55,student_26,btn_submit,Оформить,856,102,False
+c1c406e8,2026-02-16 03:50:07,student_26,filter_sort,Сортировка,944,415,False
+b7894452,2026-02-16 03:50:30,student_26,filter_sort,Сортировка,1563,837,False
+01569caa,2026-02-16 03:50:44,student_26,filter_sort,Сортировка,568,762,False
+9d95ab9f,2026-02-16 03:51:19,student_26,btn_buy,Купить,706,361,False
+f60dbe87,2026-02-16 03:51:50,student_26,filter_sort,Сортировка,1857,507,False
+5e71b059,2026-02-16 03:51:58,student_26,btn_add_cart,В корзину,552,569,False
+50eb5edf,2026-02-16 03:52:08,student_26,btn_submit,Оформить,56,487,False
+5e31e782,2026-02-16 03:52:37,student_26,filter_sort,Сортировка,1267,463,False
+64d57a31,2026-02-16 03:52:59,student_26,btn_add_cart,В корзину,1522,577,False
+dfe54861,2026-02-16 03:53:55,student_26,btn_buy,Купить,431,102,False
+1b54e99c,2026-02-16 03:54:47,student_26,btn_buy,Купить,366,51,True
+309e88b6,2026-02-16 03:55:38,student_26,btn_submit,Оформить,1698,260,False
+64ccd7c0,2026-02-03 02:16:43,student_35,btn_buy,Купить,1215,778,False
+3c63206a,2026-02-03 02:17:15,student_35,btn_submit,Оформить,373,1000,False
+cae746ab,2026-02-03 02:17:40,student_35,filter_sort,Сортировка,1154,498,False
+7595ce96,2026-02-03 02:18:26,student_35,btn_submit,Оформить,424,1077,False
+8588163f,2026-02-03 02:18:35,student_35,filter_sort,Сортировка,1045,604,False
+e87cc7c0,2026-02-03 02:19:30,student_35,filter_sort,Сортировка,563,810,False
+6156530b,2026-02-03 02:19:47,student_35,btn_add_cart,В корзину,1548,57,False
+39b460d6,2026-02-03 02:20:30,student_35,btn_buy,Купить,1184,377,False
+cf1fd174,2026-02-03 02:21:22,student_35,btn_add_cart,В корзину,1844,798,False
+c59ee96a,2026-02-03 02:22:09,student_35,btn_buy,Купить,907,1059,False
+cc93e360,2026-02-03 02:22:22,student_35,btn_add_cart,В корзину,1473,789,False
+0f71333f,2026-02-03 02:22:36,student_35,filter_sort,Сортировка,1071,184,False
+aab04292,2026-02-03 02:22:37,student_35,filter_sort,Сортировка,1620,741,False
+6c49eab8,2026-02-03 02:23:33,student_35,btn_add_cart,В корзину,130,663,True
+5c4a92af,2026-02-03 02:24:05,student_35,filter_sort,Сортировка,1906,933,True
+86827aed,2026-02-03 02:24:11,student_35,btn_submit,Оформить,515,572,False
+18e22bcd,2026-02-03 02:24:53,student_35,btn_add_cart,В корзину,1828,289,False
+b49b3ce8,2026-02-03 02:25:22,student_35,btn_add_cart,В корзину,72,235,False
+6345f540,2026-02-03 02:26:07,student_35,btn_submit,Оформить,1800,771,False
+7a0d14d9,2026-02-12 17:45:10,student_37,btn_submit,Оформить,1396,504,True
+722b0dc1,2026-02-12 17:45:22,student_37,btn_submit,Оформить,1694,345,False
+74039e27,2026-02-12 17:45:55,student_37,btn_buy,Купить,714,95,False
+8c87b604,2026-02-12 17:46:33,student_37,btn_buy,Купить,100,953,False
+aac55cf0,2026-02-12 17:47:26,student_37,filter_sort,Сортировка,1743,1077,False
+d4fd0f03,2026-02-12 17:47:40,student_37,btn_buy,Купить,1142,94,False
+2fb58377,2026-02-12 17:48:11,student_37,btn_buy,Купить,567,760,False
+08a0f4ed,2026-02-12 17:48:35,student_37,filter_sort,Сортировка,1398,310,False
+f5830c92,2026-02-12 17:48:39,student_37,btn_add_cart,В корзину,1024,681,False
+43595395,2026-02-12 17:49:09,student_37,btn_submit,Оформить,165,737,False
+38ffe377,2026-02-11 04:27:18,student_19,btn_add_cart,В корзину,1130,194,False
+d87cd9d5,2026-02-11 04:27:28,student_19,btn_submit,Оформить,1017,123,False
+b79f7c7e,2026-02-11 04:28:00,student_19,btn_buy,Купить,947,128,False
+9f3bf9fb,2026-02-11 04:28:32,student_19,btn_add_cart,В корзину,1307,1077,False
+2e32cf8f,2026-02-11 04:28:53,student_19,btn_buy,Купить,915,822,False
+7c38fdcf,2026-02-11 04:28:57,student_19,btn_add_cart,В корзину,380,598,False
+b83aa7de,2026-02-11 04:29:21,student_19,btn_submit,Оформить,1480,553,False
+92368b2a,2026-02-11 04:22:05,student_18,btn_submit,Оформить,832,773,False
+f64f4a6b,2026-02-11 04:23:00,student_18,filter_sort,Сортировка,1158,382,False
+e48f07a3,2026-02-11 04:23:21,student_18,btn_add_cart,В корзину,721,968,False
+1be131ee,2026-02-11 04:24:04,student_18,btn_add_cart,В корзину,57,362,False
+1ca20e58,2026-02-11 04:24:52,student_18,filter_sort,Сортировка,1618,1030,False
+84a472fe,2026-02-11 04:25:21,student_18,btn_submit,Оформить,766,734,False
+1fe16758,2026-02-11 04:26:03,student_18,btn_buy,Купить,153,959,False
+99427e9e,2026-02-11 04:26:55,student_18,filter_sort,Сортировка,1245,195,False
+d057a735,2026-02-11 04:27:49,student_18,filter_sort,Сортировка,119,318,False
+e709841d,2026-02-03 21:50:29,student_45,btn_submit,Оформить,1180,552,True
+0c287beb,2026-02-03 21:50:45,student_45,filter_sort,Сортировка,664,116,False
+8c542373,2026-02-03 21:50:48,student_45,btn_buy,Купить,1504,561,True
+e5a3ac63,2026-02-03 21:51:19,student_45,btn_add_cart,В корзину,817,833,False
+66680102,2026-02-03 21:51:46,student_45,filter_sort,Сортировка,76,461,False
+7f0b7867,2026-02-03 21:52:40,student_45,filter_sort,Сортировка,271,616,False
+ffe6aa89,2026-02-03 21:52:49,student_45,filter_sort,Сортировка,245,273,False
+b1077526,2026-02-08 17:28:47,student_11,btn_buy,Купить,1213,320,False
+b988b7b4,2026-02-08 17:29:15,student_11,btn_buy,Купить,1043,764,False
+7669a84b,2026-02-08 17:29:32,student_11,btn_add_cart,В корзину,1425,973,False
+18af79f9,2026-02-08 17:30:03,student_11,btn_buy,Купить,661,692,True
+7180602d,2026-02-08 17:30:51,student_11,btn_buy,Купить,548,1030,False
+90d5ac28,2026-02-08 17:31:39,student_11,filter_sort,Сортировка,1160,908,True
+7cece416,2026-02-08 17:31:54,student_11,btn_buy,Купить,798,264,False
+80359714,2026-02-08 17:32:46,student_11,filter_sort,Сортировка,297,585,False
+b7d84cf2,2026-02-08 17:33:26,student_11,filter_sort,Сортировка,1201,140,False
+f3c0f535,2026-02-08 17:34:05,student_11,btn_buy,Купить,804,54,False
+787e6d96,2026-02-08 17:34:35,student_11,btn_submit,Оформить,1611,303,False
+dbe5c924,2026-02-08 17:34:49,student_11,btn_buy,Купить,1308,825,False
+96d48b89,2026-02-08 17:34:59,student_11,btn_add_cart,В корзину,186,586,False
+01340e10,2026-02-08 17:35:33,student_11,filter_sort,Сортировка,1662,250,False
+37133673,2026-02-08 17:36:27,student_11,btn_buy,Купить,1538,687,False
+c89ee841,2026-02-08 17:36:48,student_11,btn_add_cart,В корзину,1370,348,False
+8b33fda3,2026-02-07 16:31:17,student_09,filter_sort,Сортировка,655,299,False
+d2578b88,2026-02-07 16:31:42,student_09,btn_buy,Купить,1570,291,True
+fba7e781,2026-02-07 16:32:33,student_09,btn_add_cart,В корзину,1292,719,False
+62616374,2026-02-07 16:32:56,student_09,btn_submit,Оформить,403,971,False
+46be02e2,2026-02-07 16:33:02,student_09,btn_buy,Купить,1558,1040,False
+0191d043,2026-02-26 21:24:54,student_36,btn_add_cart,В корзину,1606,479,False
+8e541e06,2026-02-26 21:25:08,student_36,filter_sort,Сортировка,700,536,False
+54183358,2026-02-26 21:25:19,student_36,btn_submit,Оформить,1524,390,False
+8303484f,2026-02-26 21:26:16,student_36,btn_add_cart,В корзину,1323,658,False
+becfdef4,2026-02-26 21:26:27,student_36,btn_add_cart,В корзину,266,932,False
+29b5fab5,2026-02-26 21:27:05,student_36,btn_buy,Купить,176,938,False
+2147b31e,2026-02-26 21:27:20,student_36,btn_submit,Оформить,550,297,True
+4c2be539,2026-02-26 21:28:08,student_36,btn_add_cart,В корзину,433,872,False
+d0124c51,2026-02-26 21:28:18,student_36,btn_buy,Купить,1369,183,True
+5dfe950a,2026-02-26 21:29:03,student_36,filter_sort,Сортировка,576,1044,False
+40042faa,2026-02-26 21:29:23,student_36,btn_submit,Оформить,490,1051,False
+13784436,2026-02-26 21:29:26,student_36,btn_buy,Купить,1371,773,False
+7d0fef8e,2026-02-26 21:29:49,student_36,btn_add_cart,В корзину,281,655,False
+ad73e2c3,2026-02-26 21:30:16,student_36,btn_submit,Оформить,489,331,False
+d56d1106,2026-02-26 21:30:35,student_36,btn_submit,Оформить,242,885,False
+5519dd73,2026-02-26 21:31:00,student_36,btn_buy,Купить,747,164,False
+d5657807,2026-02-26 21:31:56,student_36,btn_add_cart,В корзину,1280,708,False
+746d3aaf,2026-02-26 21:32:30,student_36,filter_sort,Сортировка,1468,455,False
+e3341c40,2026-02-01 10:55:39,student_05,btn_add_cart,В корзину,39,297,False
+e1822c08,2026-02-01 10:56:28,student_05,btn_buy,Купить,1129,367,False
+4216cc18,2026-02-01 10:57:23,student_05,btn_submit,Оформить,547,164,False
+95798d8d,2026-02-01 10:58:11,student_05,btn_submit,Оформить,1340,777,False
+722e23c9,2026-02-01 10:58:55,student_05,btn_add_cart,В корзину,636,701,False
+224b1b3b,2026-02-01 10:59:51,student_05,btn_submit,Оформить,507,351,False
+b56f8ddf,2026-02-01 11:00:34,student_05,btn_submit,Оформить,522,424,False
+ebaf471a,2026-02-01 11:00:42,student_05,btn_buy,Купить,609,409,False
+fa947d32,2026-02-01 11:01:33,student_05,filter_sort,Сортировка,1385,689,False
+09107eec,2026-02-01 11:01:35,student_05,btn_buy,Купить,1207,967,False
+189217a8,2026-02-01 11:02:08,student_05,btn_submit,Оформить,1836,207,False
+1a3a84ed,2026-02-01 11:02:29,student_05,btn_buy,Купить,1736,626,False
+cfe1899b,2026-02-17 22:08:27,student_19,btn_add_cart,В корзину,795,923,False
+28c81e6c,2026-02-17 22:08:52,student_19,btn_submit,Оформить,1221,410,False
+c011bee2,2026-02-17 22:09:15,student_19,filter_sort,Сортировка,1759,431,False
+de76e78a,2026-02-17 22:09:51,student_19,btn_buy,Купить,1854,757,False
+db75073b,2026-02-17 22:10:39,student_19,btn_add_cart,В корзину,1278,79,False
+a53a0b52,2026-02-17 22:11:25,student_19,btn_submit,Оформить,936,898,False
+8d542799,2026-02-17 22:12:10,student_19,btn_submit,Оформить,172,389,False
+0123db1a,2026-02-17 22:12:23,student_19,btn_add_cart,В корзину,1468,351,False
+36c63766,2026-02-15 09:15:07,student_07,btn_submit,Оформить,74,1052,False
+f4e72882,2026-02-15 09:16:02,student_07,filter_sort,Сортировка,1341,770,False
+f35dfee5,2026-02-15 09:16:46,student_07,filter_sort,Сортировка,745,857,True
+f8da102c,2026-02-15 09:16:58,student_07,btn_buy,Купить,389,870,False
+fc9b5550,2026-02-15 09:17:01,student_07,btn_add_cart,В корзину,1467,938,False
+0c92fcc8,2026-02-15 09:17:34,student_07,btn_submit,Оформить,1551,552,False
+419aa474,2026-02-15 09:18:32,student_07,btn_buy,Купить,36,797,True
+8b4f371e,2026-02-15 09:18:50,student_07,btn_buy,Купить,717,533,False
+0ade57dc,2026-02-10 02:04:33,student_34,btn_buy,Купить,1826,360,False
+57811ee2,2026-02-10 02:04:35,student_34,btn_buy,Купить,404,54,False
+e32e488d,2026-02-10 02:04:51,student_34,filter_sort,Сортировка,1185,71,False
+6c55e2ff,2026-02-10 02:05:26,student_34,filter_sort,Сортировка,928,66,False
+d442c689,2026-02-10 02:05:48,student_34,btn_buy,Купить,1797,437,False
+90c89507,2026-02-10 02:06:22,student_34,btn_submit,Оформить,345,631,False
+3523a68a,2026-02-10 02:06:24,student_34,filter_sort,Сортировка,937,685,False
+b33e6c56,2026-02-10 02:06:31,student_34,filter_sort,Сортировка,499,278,False
+7574008a,2026-02-10 02:07:20,student_34,btn_submit,Оформить,810,221,False
+f94e79c1,2026-02-10 02:08:01,student_34,btn_add_cart,В корзину,109,663,False
+ebc05f1c,2026-02-10 02:08:35,student_34,filter_sort,Сортировка,1241,548,False
+cdf5fca4,2026-02-10 02:08:47,student_34,btn_add_cart,В корзину,1614,63,False
+77eaaeba,2026-02-10 02:09:34,student_34,filter_sort,Сортировка,1316,102,False
+fd91c9bc,2026-02-10 02:09:43,student_34,filter_sort,Сортировка,638,621,False
+54f7dc68,2026-02-10 02:09:46,student_34,btn_buy,Купить,1428,791,False
+b66c86cc,2026-02-10 02:09:50,student_34,btn_buy,Купить,40,315,False
+23c970a7,2026-02-10 02:10:15,student_34,btn_add_cart,В корзину,264,118,True
+294b5d4f,2026-02-10 02:10:26,student_34,filter_sort,Сортировка,859,961,False
+e062336a,2026-02-10 02:11:19,student_34,filter_sort,Сортировка,490,665,False
+1f3b1d1d,2026-02-10 02:11:48,student_34,btn_submit,Оформить,1595,404,False
+404a8138,2026-02-06 00:39:34,student_30,btn_add_cart,В корзину,677,254,False
+0a0ce504,2026-02-06 00:40:19,student_30,btn_buy,Купить,866,922,False
+197a39da,2026-02-06 00:40:32,student_30,btn_buy,Купить,1366,640,False
+d92e0cea,2026-02-06 00:41:25,student_30,btn_add_cart,В корзину,258,145,False
+8fc8c6c6,2026-02-06 00:41:39,student_30,filter_sort,Сортировка,1658,717,False
+948840fb,2026-02-06 00:41:40,student_30,btn_add_cart,В корзину,520,626,False
+f26d5c8b,2026-02-06 00:42:35,student_30,btn_buy,Купить,1572,696,False
+c1188ba9,2026-02-13 04:21:23,student_20,btn_add_cart,В корзину,369,491,False
+14936649,2026-02-13 04:21:46,student_20,btn_add_cart,В корзину,1284,270,False
+48f28ed9,2026-02-13 04:22:03,student_20,btn_add_cart,В корзину,566,821,True
+adf31ab6,2026-02-13 04:22:37,student_20,btn_add_cart,В корзину,1830,1027,True
+818aa0b4,2026-02-13 04:23:22,student_20,btn_add_cart,В корзину,1649,1004,False
+82563451,2026-02-13 04:23:50,student_20,btn_add_cart,В корзину,1899,865,False
+ab5d2c85,2026-02-13 04:23:59,student_20,btn_submit,Оформить,79,250,False
+a720a044,2026-02-13 04:24:09,student_20,btn_submit,Оформить,522,746,False
+03ad5a29,2026-02-13 04:24:20,student_20,btn_submit,Оформить,599,381,False
+41646764,2026-02-13 04:25:02,student_20,btn_submit,Оформить,1831,143,False
+ed4524f5,2026-02-13 04:25:53,student_20,filter_sort,Сортировка,1639,572,False
+923db7c6,2026-02-13 04:26:09,student_20,btn_submit,Оформить,18,480,False
+90a594c4,2026-02-13 04:26:43,student_20,btn_buy,Купить,185,621,False
+bc2031d0,2026-02-13 04:26:59,student_20,btn_buy,Купить,667,628,False
+7dfced5e,2026-02-13 04:27:01,student_20,btn_submit,Оформить,1056,765,False
+29ae487d,2026-02-13 04:27:47,student_20,btn_add_cart,В корзину,989,207,False
+63020826,2026-02-13 04:28:06,student_20,btn_buy,Купить,364,355,False
+3673326e,2026-02-13 04:28:33,student_20,btn_submit,Оформить,883,497,True
+26f30ced,2026-02-13 04:29:00,student_20,filter_sort,Сортировка,1212,958,False
+8e59020c,2026-02-25 22:22:12,student_34,btn_buy,Купить,1644,566,False
+01f865c1,2026-02-25 22:22:13,student_34,btn_submit,Оформить,1917,205,True
+53a732d0,2026-02-25 22:22:17,student_34,btn_submit,Оформить,1133,673,False
+6eae315f,2026-02-25 22:22:25,student_34,btn_submit,Оформить,1602,570,False
+59323bad,2026-02-25 22:22:36,student_34,btn_add_cart,В корзину,198,317,False
+4c8bdeab,2026-02-25 22:23:05,student_34,btn_add_cart,В корзину,838,820,False
+aee0e6dc,2026-02-25 22:23:58,student_34,filter_sort,Сортировка,547,170,True
+f9e53931,2026-02-25 22:24:38,student_34,btn_buy,Купить,952,1055,False
+3ba6b3d0,2026-02-25 22:24:54,student_34,btn_buy,Купить,1074,1067,False
+988c01da,2026-02-25 22:25:52,student_34,btn_buy,Купить,1859,367,False
+c6668abd,2026-02-25 22:26:52,student_34,btn_buy,Купить,1630,470,False
+38c327d2,2026-02-25 22:27:01,student_34,btn_buy,Купить,1681,664,True
+6e258291,2026-02-25 22:27:06,student_34,btn_buy,Купить,1030,344,False
+0f5d9636,2026-02-25 22:27:30,student_34,btn_buy,Купить,1639,782,False
+03fd4a50,2026-02-25 22:28:09,student_34,filter_sort,Сортировка,56,934,False
+f4ef0e6f,2026-02-12 07:10:38,student_13,filter_sort,Сортировка,562,561,False
+1c606944,2026-02-12 07:11:24,student_13,btn_add_cart,В корзину,43,344,False
+206198dc,2026-02-12 07:11:50,student_13,filter_sort,Сортировка,653,715,False
+e724cfec,2026-02-12 07:12:22,student_13,btn_add_cart,В корзину,54,545,False
+71d7fbe1,2026-02-12 07:13:07,student_13,btn_buy,Купить,604,899,False
+379c814e,2026-02-12 07:13:10,student_13,btn_submit,Оформить,211,37,False
+f553ff47,2026-02-12 07:14:04,student_13,btn_submit,Оформить,798,822,False
+c4f18b38,2026-02-17 08:34:07,student_27,btn_buy,Купить,1324,1065,False
+c027439e,2026-02-17 08:34:32,student_27,btn_add_cart,В корзину,71,115,False
+4cd704e5,2026-02-17 08:34:42,student_27,btn_add_cart,В корзину,677,606,False
+010a1066,2026-02-17 08:35:34,student_27,filter_sort,Сортировка,699,296,True
+c962ce77,2026-02-17 08:35:47,student_27,btn_add_cart,В корзину,910,1027,False
+626d0303,2026-02-17 08:36:43,student_27,btn_submit,Оформить,1067,218,False
+b5d4cd89,2026-02-17 08:37:13,student_27,btn_add_cart,В корзину,1703,673,False
+9410431c,2026-02-17 08:37:39,student_27,btn_add_cart,В корзину,193,82,True
+024c42e4,2026-02-17 08:38:08,student_27,btn_add_cart,В корзину,1894,133,False
+ec31da78,2026-02-17 08:38:51,student_27,btn_buy,Купить,1670,1055,True
+b9e4ec7f,2026-02-17 08:39:05,student_27,btn_add_cart,В корзину,1617,555,False
+d1c45a64,2026-02-17 08:39:12,student_27,btn_add_cart,В корзину,1243,971,False
+3c37a99f,2026-02-17 08:39:30,student_27,btn_buy,Купить,1502,459,False
+cc043516,2026-02-17 08:40:11,student_27,filter_sort,Сортировка,591,169,True
+3ede7ec5,2026-02-17 08:41:08,student_27,btn_buy,Купить,1756,6,True
+18c5cb7b,2026-02-17 08:41:34,student_27,filter_sort,Сортировка,1543,761,False
+cc6a416c,2026-02-17 08:42:15,student_27,filter_sort,Сортировка,1180,116,False
+e7c16d45,2026-02-17 08:42:58,student_27,btn_buy,Купить,583,265,True
+9205ca66,2026-02-21 22:58:00,student_18,btn_buy,Купить,269,450,False
+aaa5c95e,2026-02-21 22:58:23,student_18,btn_submit,Оформить,1753,662,False
+795be1cb,2026-02-21 22:59:11,student_18,filter_sort,Сортировка,1364,609,False
+2249298d,2026-02-21 22:59:59,student_18,btn_buy,Купить,1068,45,False
+054199bd,2026-02-21 23:00:23,student_18,btn_buy,Купить,1333,53,False
+f555413d,2026-02-21 23:00:29,student_18,btn_add_cart,В корзину,1257,1000,False
+7fb1606c,2026-02-21 23:00:53,student_18,btn_buy,Купить,1818,510,False
+252981d4,2026-02-21 23:01:48,student_18,filter_sort,Сортировка,473,787,True
+f0d09988,2026-02-09 17:22:04,student_29,btn_submit,Оформить,1538,263,False
+e6b9b38c,2026-02-09 17:22:38,student_29,btn_add_cart,В корзину,337,45,False
+aaaee3bc,2026-02-09 17:22:42,student_29,btn_buy,Купить,170,745,False
+68be4d6d,2026-02-09 17:23:05,student_29,btn_submit,Оформить,1540,35,False
+5585f274,2026-02-09 17:23:07,student_29,btn_submit,Оформить,1231,828,False
+98692eb9,2026-02-09 17:23:08,student_29,btn_buy,Купить,513,599,True
+1ccc6aee,2026-02-09 17:23:54,student_29,btn_buy,Купить,1751,337,False
+b99875dc,2026-02-09 17:24:15,student_29,btn_buy,Купить,797,432,False
+b295582f,2026-02-09 17:24:46,student_29,btn_submit,Оформить,171,99,False
+8d5a6a93,2026-02-09 17:25:45,student_29,btn_buy,Купить,205,540,False
+91d47ea7,2026-02-09 17:26:35,student_29,btn_submit,Оформить,1403,594,False
+0abbab21,2026-02-09 17:27:11,student_29,btn_add_cart,В корзину,710,51,False
+eca2e237,2026-02-09 17:27:42,student_29,btn_add_cart,В корзину,974,140,False
+abae7e79,2026-02-09 17:27:58,student_29,btn_submit,Оформить,1428,1015,False
+6847b9f0,2026-02-16 00:22:59,student_16,btn_buy,Купить,959,998,False
+69ca33d6,2026-02-16 00:23:34,student_16,btn_submit,Оформить,1677,154,True
+de5a4462,2026-02-16 00:24:03,student_16,btn_buy,Купить,422,302,False
+86b5946f,2026-02-16 00:24:24,student_16,btn_buy,Купить,458,643,False
+b96d5da1,2026-02-16 00:25:17,student_16,btn_buy,Купить,1642,713,False
+dd5fd6bb,2026-02-16 00:26:16,student_16,btn_add_cart,В корзину,635,590,False
+a4639bbc,2026-02-16 00:26:57,student_16,btn_buy,Купить,1562,777,False
+f6d28634,2026-02-16 00:27:30,student_16,filter_sort,Сортировка,827,306,False
+94c9d7bc,2026-02-16 00:27:37,student_16,btn_buy,Купить,129,392,False
+eca501a0,2026-02-16 00:27:45,student_16,btn_buy,Купить,1671,671,False
+ed35bc05,2026-02-04 13:14:50,student_45,btn_add_cart,В корзину,1094,979,False
+73eb824e,2026-02-04 13:15:06,student_45,filter_sort,Сортировка,118,803,False
+109888b9,2026-02-04 13:15:58,student_45,filter_sort,Сортировка,758,75,False
+dc25ed81,2026-02-04 13:16:56,student_45,filter_sort,Сортировка,1413,60,False
+cceee03b,2026-02-04 13:17:11,student_45,btn_add_cart,В корзину,1407,77,False
+978ac0dc,2026-02-04 13:17:27,student_45,btn_submit,Оформить,571,702,False
+09c3085a,2026-02-04 13:18:22,student_45,btn_submit,Оформить,1859,606,False
+4c87e6cf,2026-02-04 13:18:50,student_45,btn_buy,Купить,1201,1064,False
+3c0bf191,2026-02-04 13:19:01,student_45,filter_sort,Сортировка,753,685,False
+be38b689,2026-02-04 13:19:12,student_45,btn_submit,Оформить,887,431,False
+7956deb2,2026-02-04 13:20:02,student_45,btn_add_cart,В корзину,51,403,False
+f5196bd1,2026-02-04 13:20:12,student_45,filter_sort,Сортировка,1605,690,False
+ed3330e2,2026-02-04 13:20:31,student_45,btn_submit,Оформить,177,576,False
+38dd06ec,2026-02-04 13:20:41,student_45,btn_submit,Оформить,943,594,False
+dde17c21,2026-02-04 13:21:08,student_45,filter_sort,Сортировка,1017,366,False
+61e0cc58,2026-02-04 13:21:15,student_45,btn_add_cart,В корзину,409,657,False
+fd4d923a,2026-02-04 13:21:44,student_45,btn_add_cart,В корзину,1906,499,False
+c7f23af8,2026-02-04 13:21:46,student_45,btn_submit,Оформить,1695,82,False
+24c164d7,2026-02-17 09:09:24,student_33,filter_sort,Сортировка,164,68,False
+a4f5d51b,2026-02-17 09:09:28,student_33,btn_buy,Купить,1171,704,False
+fa229911,2026-02-17 09:10:17,student_33,btn_submit,Оформить,499,960,False
+aa5fdae2,2026-02-17 09:11:05,student_33,btn_submit,Оформить,690,163,False
+425f100d,2026-02-17 09:11:30,student_33,btn_add_cart,В корзину,86,134,True
+ed803655,2026-02-17 09:11:34,student_33,btn_add_cart,В корзину,1335,73,False
+78c84e81,2026-02-17 09:12:05,student_33,btn_add_cart,В корзину,324,988,False
+1afc7820,2026-02-17 09:12:17,student_33,btn_buy,Купить,426,753,False
+69ef9389,2026-02-17 09:12:37,student_33,btn_submit,Оформить,1138,782,False
+93fa59c1,2026-02-17 09:13:33,student_33,btn_submit,Оформить,981,858,False
+404c1c56,2026-02-17 09:13:56,student_33,filter_sort,Сортировка,436,411,False
+989be834,2026-02-17 09:14:26,student_33,btn_submit,Оформить,1441,1027,False
+e50c56d1,2026-02-17 09:14:53,student_33,btn_submit,Оформить,1615,184,False
+20a85a85,2026-02-17 09:15:32,student_33,btn_submit,Оформить,743,434,False
+cb3c5eec,2026-02-28 13:22:50,student_43,btn_add_cart,В корзину,1089,400,False
+8752d434,2026-02-28 13:23:41,student_43,btn_add_cart,В корзину,566,587,True
+8a1edbcf,2026-02-28 13:23:55,student_43,btn_add_cart,В корзину,260,394,False
+27a0798c,2026-02-28 13:24:54,student_43,filter_sort,Сортировка,1884,1040,False
+2c6a1e30,2026-02-28 13:25:20,student_43,btn_submit,Оформить,131,1033,False
+57ef00ac,2026-02-28 13:25:48,student_43,filter_sort,Сортировка,491,674,False
+b594e427,2026-02-28 13:26:04,student_43,filter_sort,Сортировка,895,596,False
+504b7c2d,2026-02-28 13:26:42,student_43,btn_buy,Купить,1858,641,False
+05d8f152,2026-02-28 13:26:52,student_43,filter_sort,Сортировка,100,744,False
+0c0c1fe7,2026-02-28 13:27:52,student_43,filter_sort,Сортировка,1917,467,False
+b32ad310,2026-02-28 13:28:38,student_43,filter_sort,Сортировка,1435,700,True
+1ff3e580,2026-02-28 13:28:49,student_43,filter_sort,Сортировка,936,985,False
+1f08417b,2026-02-28 13:29:25,student_43,btn_buy,Купить,1268,1050,False
+d7bda530,2026-02-28 13:29:32,student_43,btn_buy,Купить,1440,205,False
+7b9b7ce1,2026-03-01 23:39:20,student_17,filter_sort,Сортировка,1463,672,False
+923797dc,2026-03-01 23:39:39,student_17,btn_submit,Оформить,1883,466,False
+f0789a05,2026-03-01 23:40:23,student_17,btn_submit,Оформить,633,375,False
+bd8042fd,2026-03-01 23:41:14,student_17,btn_add_cart,В корзину,1419,799,False
+fd10780f,2026-03-01 23:41:55,student_17,filter_sort,Сортировка,73,986,False
+14c4e1ca,2026-03-01 23:42:16,student_17,btn_buy,Купить,635,486,False
+1c75b30c,2026-03-01 23:42:35,student_17,btn_buy,Купить,287,874,False
+9e60a086,2026-03-01 23:42:39,student_17,btn_add_cart,В корзину,1876,906,False
+0d848650,2026-03-01 23:43:13,student_17,btn_buy,Купить,857,497,True
+89744002,2026-03-01 23:43:45,student_17,btn_buy,Купить,1825,461,False
+f635fea3,2026-03-01 23:44:32,student_17,btn_add_cart,В корзину,1321,436,False
+50657104,2026-03-01 23:44:45,student_17,btn_submit,Оформить,509,103,False
+5501c5e0,2026-03-01 23:45:25,student_17,filter_sort,Сортировка,1018,304,False
+f8d21f50,2026-03-01 23:45:40,student_17,btn_add_cart,В корзину,206,156,False
+7e1f00d6,2026-03-01 02:18:47,student_28,btn_add_cart,В корзину,1439,600,False
+c8f05f32,2026-03-01 02:19:00,student_28,btn_add_cart,В корзину,62,1055,True
+aea7826b,2026-03-01 02:19:26,student_28,btn_add_cart,В корзину,292,395,False
+66cdf61e,2026-03-01 02:20:14,student_28,btn_add_cart,В корзину,567,700,True
+90bdaebd,2026-03-01 02:20:27,student_28,btn_buy,Купить,317,535,False
+627ce171,2026-03-01 02:21:01,student_28,btn_submit,Оформить,1806,139,False
+024190cb,2026-03-01 02:21:02,student_28,btn_add_cart,В корзину,180,1070,False
+8e7738ad,2026-03-01 02:21:08,student_28,filter_sort,Сортировка,1554,117,False
+c7548aed,2026-03-01 02:21:18,student_28,btn_buy,Купить,235,206,False
+b220d68d,2026-03-01 02:21:42,student_28,btn_buy,Купить,1284,39,False
+e4371d37,2026-03-01 02:22:02,student_28,btn_buy,Купить,670,286,False
+06528fd7,2026-03-01 02:22:51,student_28,btn_add_cart,В корзину,1727,102,False
+e9c22427,2026-03-01 02:23:49,student_28,btn_submit,Оформить,110,265,False
+5b43b0c9,2026-03-01 02:23:56,student_28,filter_sort,Сортировка,1312,306,False
+247154c4,2026-03-01 02:24:40,student_28,btn_submit,Оформить,966,687,False
+b836ce2c,2026-03-01 02:25:27,student_28,btn_buy,Купить,118,929,False
+e3c69dce,2026-02-10 21:37:16,student_33,btn_submit,Оформить,1536,1033,False
+9b46fd77,2026-02-10 21:37:35,student_33,btn_submit,Оформить,383,245,False
+a2de2bc0,2026-02-10 21:38:30,student_33,filter_sort,Сортировка,495,385,False
+88565391,2026-02-10 21:39:15,student_33,btn_submit,Оформить,1726,558,False
+89022aa1,2026-02-10 21:39:52,student_33,btn_add_cart,В корзину,257,980,False
+78c81412,2026-02-10 21:40:36,student_33,filter_sort,Сортировка,892,851,False
+e018a511,2026-02-10 21:40:48,student_33,btn_add_cart,В корзину,617,113,False
+0f28e9d2,2026-02-10 21:41:14,student_33,filter_sort,Сортировка,793,1033,False
+6b083b6e,2026-02-14 19:39:01,student_25,btn_add_cart,В корзину,1309,22,False
+ae18dcc6,2026-02-14 19:39:17,student_25,btn_add_cart,В корзину,231,409,False
+fba13d11,2026-02-14 19:40:16,student_25,btn_submit,Оформить,302,482,False
+18b34072,2026-02-14 19:40:41,student_25,btn_add_cart,В корзину,1200,584,False
+b878be8c,2026-02-14 19:41:34,student_25,filter_sort,Сортировка,448,132,False
+25f1da34,2026-02-14 19:42:15,student_25,filter_sort,Сортировка,1576,865,False
+494a70fe,2026-02-14 19:43:08,student_25,btn_submit,Оформить,43,623,True
+c7753480,2026-02-14 19:43:36,student_25,filter_sort,Сортировка,854,617,False
+c764fb14,2026-02-14 19:44:27,student_25,filter_sort,Сортировка,1214,241,True
+71873c8a,2026-02-14 19:45:23,student_25,btn_add_cart,В корзину,942,951,False
+3777c8f2,2026-02-14 19:45:55,student_25,btn_add_cart,В корзину,1694,834,True
+92552966,2026-02-14 19:46:40,student_25,filter_sort,Сортировка,457,770,False
+a3b17bc2,2026-02-02 17:46:35,student_01,filter_sort,Сортировка,511,835,False
+e6235320,2026-02-02 17:46:45,student_01,btn_submit,Оформить,1901,229,False
+3c475fe4,2026-02-02 17:47:15,student_01,filter_sort,Сортировка,1762,251,False
+b9b91d84,2026-02-02 17:47:29,student_01,btn_add_cart,В корзину,411,128,False
+8e2f05e2,2026-02-02 17:47:42,student_01,btn_submit,Оформить,1470,1014,False
+7b9bcf8c,2026-02-02 17:47:46,student_01,btn_buy,Купить,1880,569,False
+7b3bd963,2026-02-02 17:48:39,student_01,btn_buy,Купить,1008,71,False
+25613310,2026-02-02 17:49:05,student_01,btn_submit,Оформить,1588,137,False
+91e7982a,2026-02-02 17:49:39,student_01,btn_add_cart,В корзину,557,788,False
+e3362a02,2026-02-02 17:50:02,student_01,filter_sort,Сортировка,1027,1010,False
+1a1629dc,2026-02-02 17:50:35,student_01,btn_add_cart,В корзину,338,652,False
+64f32828,2026-02-02 17:51:10,student_01,btn_buy,Купить,1232,49,False
+e712eb13,2026-02-02 17:51:44,student_01,btn_buy,Купить,391,1041,True
+d29e1dbd,2026-02-02 17:52:05,student_01,btn_buy,Купить,1496,764,False
+5f2420a4,2026-02-02 17:52:09,student_01,btn_buy,Купить,1572,762,False
+4d1c6f6f,2026-02-23 14:04:55,student_29,btn_add_cart,В корзину,1099,723,False
+35267e90,2026-02-23 14:04:56,student_29,btn_buy,Купить,148,165,False
+2a5b3b09,2026-02-23 14:05:55,student_29,btn_buy,Купить,1856,448,False
+a16f834a,2026-02-23 14:06:22,student_29,btn_submit,Оформить,1459,114,False
+76cbc7f7,2026-02-23 14:06:46,student_29,btn_buy,Купить,1834,288,True
+99e5a576,2026-02-17 10:17:41,student_21,filter_sort,Сортировка,1453,45,True
+a7143f55,2026-02-17 10:18:07,student_21,filter_sort,Сортировка,796,125,False
+906e3772,2026-02-17 10:18:55,student_21,btn_add_cart,В корзину,1286,722,False
+198fee13,2026-02-17 10:19:08,student_21,btn_submit,Оформить,48,603,False
+1420d5c8,2026-02-17 10:19:44,student_21,btn_buy,Купить,330,719,False
+43291b4b,2026-02-17 10:20:22,student_21,btn_submit,Оформить,407,37,False
+efad2781,2026-02-17 10:21:09,student_21,filter_sort,Сортировка,1401,382,False
+304e90d9,2026-02-17 10:21:25,student_21,btn_buy,Купить,349,265,False
+795ed328,2026-02-17 10:22:13,student_21,btn_submit,Оформить,1852,363,False
+b8b9b005,2026-02-17 10:22:29,student_21,btn_submit,Оформить,930,402,False
+5b7cd942,2026-02-17 10:22:43,student_21,filter_sort,Сортировка,1371,920,False
+66297bdf,2026-02-17 10:23:20,student_21,filter_sort,Сортировка,247,270,False
+62e5f714,2026-02-17 10:24:07,student_21,btn_buy,Купить,1854,133,False
+a18e7953,2026-02-17 10:24:26,student_21,btn_submit,Оформить,511,295,False
+74c8a644,2026-02-15 00:02:27,student_32,btn_submit,Оформить,10,1078,False
+fee4d1db,2026-02-15 00:02:33,student_32,btn_add_cart,В корзину,79,603,True
+2224fcfb,2026-02-15 00:03:05,student_32,btn_add_cart,В корзину,449,127,False
+e4eb067e,2026-02-15 00:03:24,student_32,btn_add_cart,В корзину,1673,640,False
+d0c16c3d,2026-02-15 00:04:17,student_32,btn_add_cart,В корзину,1026,156,False
+8ff8adf4,2026-02-15 00:04:51,student_32,btn_buy,Купить,313,637,False
+2548b975,2026-02-15 00:05:35,student_32,btn_buy,Купить,1312,295,True
+30a66a45,2026-02-15 00:06:17,student_32,btn_submit,Оформить,1758,801,False
+78f9b9d2,2026-02-15 00:07:16,student_32,btn_submit,Оформить,1052,678,False
+3e7f57a2,2026-02-15 00:07:27,student_32,btn_buy,Купить,1823,318,False
+aa5d80de,2026-02-15 00:08:22,student_32,filter_sort,Сортировка,1826,658,False
+1dd76704,2026-02-15 00:09:10,student_32,btn_submit,Оформить,274,1076,False
+39668df8,2026-02-15 00:10:03,student_32,btn_add_cart,В корзину,303,1076,False
+b8005e91,2026-03-02 18:14:29,student_21,btn_buy,Купить,1833,1026,False
+9d2f0f79,2026-03-02 18:15:26,student_21,btn_add_cart,В корзину,1591,372,False
+ad3b61af,2026-03-02 18:15:47,student_21,btn_submit,Оформить,773,761,False
+ffd366a2,2026-03-02 18:16:28,student_21,filter_sort,Сортировка,816,974,False
+54fa0ccb,2026-03-02 18:17:03,student_21,btn_buy,Купить,732,383,False
+50f7fed4,2026-03-02 18:17:20,student_21,btn_add_cart,В корзину,1063,432,False
+18a2bdba,2026-03-02 18:17:38,student_21,btn_add_cart,В корзину,138,132,False
+1ea0569e,2026-03-02 18:18:29,student_21,btn_buy,Купить,391,621,False
+f2cfda9c,2026-03-02 18:18:58,student_21,btn_buy,Купить,83,971,False
+46358213,2026-03-02 18:19:33,student_21,filter_sort,Сортировка,888,877,False
+1b2f2671,2026-03-02 18:19:37,student_21,btn_submit,Оформить,357,777,False
+a18f0b6d,2026-03-02 18:20:20,student_21,btn_submit,Оформить,1306,682,False
+ab8fa545,2026-03-02 18:20:42,student_21,filter_sort,Сортировка,1836,404,False
+033b1a2c,2026-03-02 18:20:55,student_21,btn_buy,Купить,1035,651,False
+82ad3c21,2026-03-02 18:21:44,student_21,btn_add_cart,В корзину,1817,724,False
+e47c4911,2026-03-02 18:22:26,student_21,btn_buy,Купить,815,506,False
+c0d22187,2026-03-02 18:22:52,student_21,filter_sort,Сортировка,102,514,True
+6ddc031a,2026-03-02 18:23:40,student_21,btn_submit,Оформить,1629,31,False
+e9b0e635,2026-03-02 18:23:44,student_21,filter_sort,Сортировка,775,179,False
+7d569f40,2026-02-09 18:03:02,student_27,filter_sort,Сортировка,390,885,False
+90fb1061,2026-02-09 18:03:31,student_27,btn_buy,Купить,560,212,False
+18cb32c5,2026-02-09 18:03:39,student_27,btn_add_cart,В корзину,941,525,False
+c4e60abf,2026-02-09 18:04:16,student_27,btn_submit,Оформить,133,458,False
+9909458c,2026-02-09 18:04:25,student_27,filter_sort,Сортировка,1296,508,False
+29eea9e8,2026-02-09 18:04:30,student_27,btn_submit,Оформить,1612,479,False
+372acfec,2026-02-09 18:04:38,student_27,filter_sort,Сортировка,1778,1050,False
+260464ab,2026-02-09 18:04:45,student_27,btn_submit,Оформить,676,520,False
+45aca553,2026-02-09 18:05:35,student_27,btn_add_cart,В корзину,1342,114,False
+05011f89,2026-02-14 08:08:01,student_06,btn_buy,Купить,709,110,False
+7cf50da5,2026-02-14 08:08:45,student_06,btn_buy,Купить,1164,152,False
+d8890ef7,2026-02-14 08:08:54,student_06,btn_submit,Оформить,1073,82,False
+c14c8a22,2026-02-14 08:09:50,student_06,filter_sort,Сортировка,428,209,False
+1982e4eb,2026-02-14 08:10:18,student_06,btn_buy,Купить,1752,127,False
+524c901a,2026-02-14 08:11:02,student_06,btn_submit,Оформить,244,955,False
+5bd9439a,2026-02-14 08:11:05,student_06,btn_submit,Оформить,345,405,False
+895803cb,2026-02-14 08:11:11,student_06,filter_sort,Сортировка,698,651,False
+c238aeb7,2026-02-14 08:11:14,student_06,filter_sort,Сортировка,1799,565,False
+e17c6073,2026-02-14 08:11:26,student_06,filter_sort,Сортировка,982,821,False
+720af81f,2026-02-14 08:11:32,student_06,filter_sort,Сортировка,938,596,False
+9af5ab8d,2026-02-14 08:11:55,student_06,btn_submit,Оформить,1699,724,False
+78003be9,2026-02-14 08:11:57,student_06,btn_buy,Купить,1382,911,True
+148b6cf6,2026-02-14 08:12:28,student_06,btn_submit,Оформить,712,840,False
+00e76442,2026-02-14 08:13:21,student_06,btn_buy,Купить,657,66,False
+b0c28879,2026-03-02 04:03:01,student_01,btn_buy,Купить,1079,334,False
+f52fb7e4,2026-03-02 04:03:55,student_01,btn_buy,Купить,924,16,False
+e13ab946,2026-03-02 04:04:38,student_01,filter_sort,Сортировка,795,901,False
+392b45e8,2026-03-02 04:05:33,student_01,btn_buy,Купить,490,876,True
+68e0bab4,2026-03-02 04:05:41,student_01,btn_submit,Оформить,1048,111,False
+c6ac3ae4,2026-03-02 04:06:28,student_01,btn_submit,Оформить,1275,882,False
+fafda695,2026-03-02 04:07:21,student_01,btn_submit,Оформить,566,84,False
+db930bc0,2026-03-02 04:07:48,student_01,filter_sort,Сортировка,1272,662,False
+4cd55342,2026-03-02 04:08:21,student_01,btn_buy,Купить,413,866,False
+b53b289b,2026-03-02 04:08:27,student_01,filter_sort,Сортировка,1377,496,False
+490ec3bb,2026-03-02 04:08:30,student_01,btn_add_cart,В корзину,743,661,False
+fcea24e0,2026-03-02 04:08:51,student_01,btn_buy,Купить,278,1067,True
+ce35e121,2026-03-02 04:09:18,student_01,btn_add_cart,В корзину,196,369,False
+e0e55e1d,2026-03-02 04:09:23,student_01,filter_sort,Сортировка,295,78,True
+96a714f0,2026-03-02 04:09:49,student_01,btn_buy,Купить,1787,393,False
+77572741,2026-03-02 04:10:14,student_01,filter_sort,Сортировка,1641,751,True
+981882de,2026-03-02 04:10:35,student_01,btn_add_cart,В корзину,255,693,True
+34121bd4,2026-03-02 04:11:25,student_01,btn_buy,Купить,145,663,True
+0f6cf7c0,2026-02-28 21:47:11,student_13,btn_add_cart,В корзину,1303,112,True
+50753211,2026-02-28 21:48:05,student_13,btn_add_cart,В корзину,1018,774,False
+4b3b637e,2026-02-28 21:48:24,student_13,btn_submit,Оформить,1604,364,False
+686de8f3,2026-02-28 21:48:29,student_13,btn_submit,Оформить,367,262,False
+820a6a27,2026-02-28 21:49:15,student_13,filter_sort,Сортировка,751,641,False
+9eb16862,2026-02-28 21:50:01,student_13,filter_sort,Сортировка,1434,655,False
+5b967cc8,2026-02-28 21:50:13,student_13,btn_submit,Оформить,715,136,False
+6669eab9,2026-02-28 21:50:59,student_13,btn_add_cart,В корзину,1071,304,False
+aafed4ed,2026-02-28 21:51:39,student_13,filter_sort,Сортировка,15,519,False
+74d07c94,2026-02-28 21:52:38,student_13,btn_submit,Оформить,226,1049,False
+4232c3ca,2026-02-28 21:52:39,student_13,filter_sort,Сортировка,1253,236,False
+f73143f1,2026-02-28 21:53:14,student_13,filter_sort,Сортировка,1820,61,True
+9e2b267e,2026-02-28 21:53:24,student_13,btn_buy,Купить,1517,703,False
+b98e0b75,2026-02-28 21:53:57,student_13,btn_add_cart,В корзину,1517,583,False
+fa11caf9,2026-02-28 21:54:50,student_13,filter_sort,Сортировка,303,634,True
+1bd7b14c,2026-02-28 21:54:56,student_13,btn_submit,Оформить,140,461,True
+ae545ba5,2026-02-28 21:55:55,student_13,btn_buy,Купить,1009,852,False
+5735a235,2026-02-21 22:34:23,student_16,btn_submit,Оформить,1050,42,False
+7e341a4e,2026-02-21 22:34:44,student_16,btn_add_cart,В корзину,1266,1062,True
+9e69d7e4,2026-02-21 22:35:24,student_16,btn_buy,Купить,554,910,False
+6992d52b,2026-02-21 22:36:11,student_16,btn_buy,Купить,1362,215,False
+ddbbe77e,2026-02-21 22:36:24,student_16,btn_submit,Оформить,1592,280,False
+0246adc1,2026-02-21 22:37:22,student_16,filter_sort,Сортировка,1867,413,False
+38286cb1,2026-02-21 22:37:42,student_16,btn_add_cart,В корзину,39,688,True
+558fcf28,2026-02-21 22:38:20,student_16,btn_buy,Купить,1829,1014,False
+957742c6,2026-02-21 22:39:04,student_16,btn_submit,Оформить,724,394,False
+270f2f9e,2026-02-21 22:39:15,student_16,btn_submit,Оформить,208,453,False
+5966dc0a,2026-02-21 22:39:19,student_16,btn_add_cart,В корзину,1764,146,False
+7d5d335b,2026-02-21 22:39:30,student_16,btn_add_cart,В корзину,1705,54,False
+128f541a,2026-02-22 23:26:00,student_43,filter_sort,Сортировка,977,244,False
+99873458,2026-02-22 23:26:27,student_43,btn_add_cart,В корзину,435,210,False
+1c87bbdf,2026-02-22 23:27:18,student_43,filter_sort,Сортировка,1278,383,True
+d48607f1,2026-02-22 23:28:10,student_43,filter_sort,Сортировка,195,207,False
+c03f73e7,2026-02-22 23:29:04,student_43,filter_sort,Сортировка,224,235,False
+472e3127,2026-02-22 23:29:15,student_43,btn_submit,Оформить,1294,522,False
+99aff9da,2026-02-22 23:29:17,student_43,filter_sort,Сортировка,863,173,False
+900e70ab,2026-02-22 23:29:43,student_43,btn_submit,Оформить,396,502,False
+92550f67,2026-02-25 12:47:36,student_34,btn_buy,Купить,22,889,False
+a91afce2,2026-02-25 12:47:37,student_34,btn_buy,Купить,13,1029,True
+b1b959cc,2026-02-25 12:48:37,student_34,btn_add_cart,В корзину,1489,230,False
+d937e9ca,2026-02-25 12:49:20,student_34,btn_submit,Оформить,1246,325,False
+24181816,2026-02-25 12:49:49,student_34,btn_submit,Оформить,48,1034,False
+0fe8ed21,2026-02-25 12:50:47,student_34,filter_sort,Сортировка,701,375,False
+bb758890,2026-02-25 12:50:57,student_34,btn_submit,Оформить,722,981,False
+6056a056,2026-02-25 12:51:26,student_34,btn_buy,Купить,826,481,False
+b0bc8a6e,2026-02-25 12:52:16,student_34,btn_buy,Купить,1725,766,False
+44e4810b,2026-02-25 12:52:50,student_34,filter_sort,Сортировка,288,923,True
+4b1c1713,2026-02-25 12:53:27,student_34,btn_buy,Купить,1113,452,False
+027e6d27,2026-02-21 03:09:13,student_34,filter_sort,Сортировка,313,627,False
+4b685ac5,2026-02-21 03:09:35,student_34,filter_sort,Сортировка,1914,179,False
+c39c5adb,2026-02-21 03:10:03,student_34,btn_buy,Купить,710,899,False
+5a9d7cea,2026-02-21 03:10:23,student_34,filter_sort,Сортировка,1493,543,True
+e1e9e1f0,2026-02-21 03:10:30,student_34,filter_sort,Сортировка,1892,374,False
+1d9539f8,2026-02-21 03:11:14,student_34,filter_sort,Сортировка,1185,370,False
+f9b7644a,2026-02-21 03:11:30,student_34,btn_buy,Купить,13,225,False
+87f61c03,2026-02-21 03:12:20,student_34,filter_sort,Сортировка,1051,762,False
+008e4ebf,2026-02-21 03:12:24,student_34,filter_sort,Сортировка,834,692,False
+be0aef51,2026-02-21 03:13:22,student_34,btn_add_cart,В корзину,1181,711,False
+c9c3a0da,2026-02-21 03:13:26,student_34,btn_submit,Оформить,243,628,False
+f3b094d7,2026-02-21 03:13:51,student_34,filter_sort,Сортировка,1637,599,True
+ff780617,2026-02-21 03:14:24,student_34,btn_buy,Купить,1695,885,False
+3e31118d,2026-03-02 02:43:39,student_20,btn_add_cart,В корзину,236,857,False
+013a72ae,2026-03-02 02:44:00,student_20,btn_submit,Оформить,1140,238,False
+92e44dae,2026-03-02 02:44:20,student_20,btn_buy,Купить,1809,318,False
+043c100d,2026-03-02 02:44:30,student_20,btn_submit,Оформить,135,896,False
+17b16bee,2026-03-02 02:44:38,student_20,filter_sort,Сортировка,331,1071,False
+683061ec,2026-03-02 02:45:29,student_20,btn_submit,Оформить,1771,34,False
+4c934019,2026-03-02 02:46:17,student_20,btn_submit,Оформить,778,389,False
+2cbbef40,2026-03-02 02:47:16,student_20,btn_add_cart,В корзину,609,312,False
+0b4a40e5,2026-03-02 02:47:27,student_20,btn_buy,Купить,168,794,False
+3d026d2c,2026-03-02 02:48:11,student_20,btn_submit,Оформить,1199,774,False
+a4c784de,2026-03-02 02:49:11,student_20,btn_submit,Оформить,88,944,True
+ca72b2e3,2026-03-02 02:49:24,student_20,filter_sort,Сортировка,1731,546,False
+b2a7b27f,2026-03-02 02:50:12,student_20,filter_sort,Сортировка,267,332,False
+54119f5e,2026-03-02 02:50:30,student_20,btn_add_cart,В корзину,1760,259,False
+2ed11723,2026-03-02 02:50:38,student_20,btn_submit,Оформить,220,172,False
+dcfd23b6,2026-03-02 02:50:39,student_20,btn_submit,Оформить,39,1028,False
+5e62362c,2026-03-02 02:51:22,student_20,btn_add_cart,В корзину,1839,335,False
+e2a626cd,2026-03-02 02:52:04,student_20,btn_add_cart,В корзину,261,282,False
+c3f229b9,2026-03-02 02:52:50,student_20,btn_add_cart,В корзину,1465,264,False
+da358252,2026-03-02 02:53:45,student_20,btn_submit,Оформить,751,853,False
+3cf45aa7,2026-02-28 06:33:34,student_17,btn_submit,Оформить,936,708,False
+2ff738c4,2026-02-28 06:34:24,student_17,btn_buy,Купить,118,850,False
+edd4dfea,2026-02-28 06:34:30,student_17,btn_add_cart,В корзину,1180,889,False
+15bb7d12,2026-02-28 06:35:20,student_17,filter_sort,Сортировка,1341,487,False
+0c577f04,2026-02-28 06:35:31,student_17,filter_sort,Сортировка,188,572,False
+04d5e88f,2026-02-28 06:36:12,student_17,filter_sort,Сортировка,349,118,True
+7578758a,2026-02-28 06:37:05,student_17,btn_buy,Купить,954,310,False
+5838db44,2026-02-28 06:37:08,student_17,filter_sort,Сортировка,428,292,False
+ae17bd21,2026-02-28 06:37:21,student_17,btn_add_cart,В корзину,1395,551,False
+9aaa93eb,2026-02-28 06:37:56,student_17,btn_buy,Купить,719,777,False
+b01a7f80,2026-02-17 14:41:18,student_31,filter_sort,Сортировка,906,352,False
+d8b979ac,2026-02-17 14:42:15,student_31,filter_sort,Сортировка,472,743,False
+84086b0f,2026-02-17 14:42:42,student_31,btn_submit,Оформить,604,28,False
+f2989180,2026-02-17 14:42:53,student_31,filter_sort,Сортировка,167,506,False
+8446be44,2026-02-17 14:43:45,student_31,btn_add_cart,В корзину,467,675,False
+c1920738,2026-02-17 14:44:22,student_31,btn_submit,Оформить,204,373,False
+1d449ec7,2026-02-17 14:44:27,student_31,btn_add_cart,В корзину,578,85,False
+2602b734,2026-02-17 14:44:38,student_31,btn_buy,Купить,1753,964,False
+3658a024,2026-02-17 14:44:53,student_31,btn_buy,Купить,1494,703,False
+cdc5b00a,2026-02-17 14:45:42,student_31,filter_sort,Сортировка,214,345,False
+bd6ae15d,2026-02-17 14:46:35,student_31,btn_add_cart,В корзину,1186,123,False
+2d9e63b8,2026-02-17 14:46:38,student_31,btn_buy,Купить,1336,1037,False
+3d68720d,2026-02-17 14:47:33,student_31,filter_sort,Сортировка,1903,12,False
+4000989c,2026-02-17 14:48:31,student_31,filter_sort,Сортировка,332,638,False
+193890cc,2026-02-17 14:48:55,student_31,btn_submit,Оформить,978,439,False
+ce9bb995,2026-02-17 14:49:43,student_31,filter_sort,Сортировка,425,794,False
+4fa35d78,2026-02-17 14:50:04,student_31,filter_sort,Сортировка,622,260,True
+450dd211,2026-02-17 14:50:40,student_31,btn_submit,Оформить,904,180,False
+e85f914e,2026-02-17 14:50:59,student_31,btn_add_cart,В корзину,1383,486,False
+da11caee,2026-02-16 00:18:10,student_17,btn_buy,Купить,1433,620,False
+4217489d,2026-02-16 00:18:36,student_17,btn_add_cart,В корзину,843,1061,False
+a23ac31d,2026-02-16 00:18:46,student_17,filter_sort,Сортировка,269,884,False
+77e08a01,2026-02-16 00:19:29,student_17,filter_sort,Сортировка,710,391,False
+19e9977b,2026-02-16 00:19:35,student_17,btn_buy,Купить,1230,487,False
+cd951472,2026-02-16 00:20:22,student_17,btn_add_cart,В корзину,159,732,False
+bfa44ca8,2026-02-16 00:21:19,student_17,filter_sort,Сортировка,755,925,False
+ec69f3fc,2026-02-16 00:21:49,student_17,filter_sort,Сортировка,1879,886,False
+edfc1f42,2026-02-16 00:22:01,student_17,btn_submit,Оформить,1041,446,False
+5e47aad0,2026-02-16 00:22:02,student_17,filter_sort,Сортировка,1074,807,False
+201dfc68,2026-02-16 00:22:37,student_17,filter_sort,Сортировка,1200,148,False
+26251bb3,2026-03-02 23:11:50,student_29,btn_add_cart,В корзину,735,856,False
+982d429e,2026-03-02 23:12:02,student_29,filter_sort,Сортировка,522,963,False
+cc3925a7,2026-03-02 23:12:56,student_29,btn_buy,Купить,1517,243,False
+ef4af7ad,2026-03-02 23:13:50,student_29,btn_add_cart,В корзину,1166,501,False
+ae7e34f8,2026-03-02 23:14:18,student_29,filter_sort,Сортировка,127,501,False
+08038940,2026-03-02 23:14:49,student_29,filter_sort,Сортировка,383,288,False
+fd98c786,2026-03-02 23:14:57,student_29,btn_add_cart,В корзину,1762,697,False
+ef16bb81,2026-03-01 10:04:39,student_39,btn_add_cart,В корзину,655,803,False
+a9ce6520,2026-03-01 10:04:52,student_39,filter_sort,Сортировка,554,747,False
+e70d86a2,2026-03-01 10:05:31,student_39,btn_submit,Оформить,1640,867,False
+cb1ad669,2026-03-01 10:05:58,student_39,btn_buy,Купить,1530,445,False
+ceadacd7,2026-03-01 10:06:01,student_39,btn_submit,Оформить,679,515,False
+0e36ef80,2026-03-01 10:06:06,student_39,btn_submit,Оформить,1581,595,False
+4cd4457e,2026-03-01 10:06:56,student_39,btn_submit,Оформить,1735,334,False
+950b8aee,2026-03-01 10:07:02,student_39,btn_submit,Оформить,530,268,False
+18c2b964,2026-03-01 10:07:23,student_39,btn_submit,Оформить,1908,666,True
+fc6f8b45,2026-03-01 10:08:05,student_39,filter_sort,Сортировка,1693,151,False
+a37dfb87,2026-03-01 10:08:51,student_39,btn_add_cart,В корзину,1411,697,False
+c68da03a,2026-03-01 10:08:58,student_39,btn_submit,Оформить,138,338,False
+3060af1f,2026-03-01 10:09:50,student_39,btn_submit,Оформить,93,628,False
+ad21d0d6,2026-03-01 10:10:37,student_39,filter_sort,Сортировка,366,646,False
+5f982c73,2026-03-01 10:11:02,student_39,filter_sort,Сортировка,1128,705,False
+c284609a,2026-03-01 10:11:24,student_39,btn_submit,Оформить,1257,986,False
+7dd6d839,2026-03-01 10:11:28,student_39,btn_buy,Купить,1542,1021,False
+00f8c84d,2026-02-22 23:20:26,student_02,btn_buy,Купить,1489,1030,False
+226ae608,2026-02-22 23:20:30,student_02,filter_sort,Сортировка,312,1054,False
+25b1d06e,2026-02-22 23:20:35,student_02,btn_submit,Оформить,638,919,False
+845e9e5e,2026-02-22 23:20:51,student_02,btn_add_cart,В корзину,73,445,True
+7f7f5653,2026-02-22 23:21:10,student_02,btn_submit,Оформить,880,588,False
+80dfc163,2026-02-22 23:21:34,student_02,btn_add_cart,В корзину,614,87,False
+364c3f5b,2026-02-22 23:22:06,student_02,btn_buy,Купить,1017,567,True
+04609595,2026-02-22 23:22:23,student_02,btn_buy,Купить,374,1006,False
+ac24517e,2026-02-22 23:23:23,student_02,filter_sort,Сортировка,1088,478,False
+abec8225,2026-02-22 23:24:17,student_02,btn_add_cart,В корзину,1330,526,False
+45a1dc58,2026-02-22 23:24:30,student_02,btn_add_cart,В корзину,1716,1041,False
+68f6f52d,2026-02-03 11:32:18,student_40,btn_add_cart,В корзину,662,668,False
+a4fde3f0,2026-02-03 11:32:28,student_40,btn_submit,Оформить,932,73,False
+d8fd7be9,2026-02-03 11:33:08,student_40,btn_add_cart,В корзину,285,206,False
+7db49515,2026-02-03 11:33:14,student_40,btn_buy,Купить,681,649,False
+bc991feb,2026-02-03 11:33:15,student_40,filter_sort,Сортировка,115,538,False
+570549cf,2026-02-03 11:34:07,student_40,filter_sort,Сортировка,217,828,False
+bf389c6e,2026-02-03 11:34:32,student_40,btn_add_cart,В корзину,443,568,False
+70704a95,2026-02-03 11:35:04,student_40,filter_sort,Сортировка,498,134,False
+91ce3f4c,2026-03-01 03:52:29,student_16,btn_buy,Купить,459,310,False
+abef65a5,2026-03-01 03:52:30,student_16,btn_buy,Купить,1635,819,False
+3cf7dcba,2026-03-01 03:52:31,student_16,btn_submit,Оформить,148,157,False
+f42b641f,2026-03-01 03:52:47,student_16,filter_sort,Сортировка,786,1061,False
+190edef8,2026-03-01 03:53:00,student_16,btn_buy,Купить,1541,898,False
+b2f86d1d,2026-03-01 03:53:33,student_16,btn_buy,Купить,993,417,False
+9896948f,2026-03-01 03:53:52,student_16,btn_submit,Оформить,1867,703,False
+e8df3d7d,2026-03-01 03:53:58,student_16,btn_submit,Оформить,1024,1047,False
+a9d7b739,2026-03-01 03:54:47,student_16,filter_sort,Сортировка,1526,1008,False
+a77381eb,2026-03-01 03:55:39,student_16,btn_submit,Оформить,8,404,False
+dd71acb7,2026-03-01 03:56:34,student_16,btn_submit,Оформить,154,184,True
+b0125740,2026-03-01 03:56:53,student_16,btn_add_cart,В корзину,1524,704,False
+c766b9bf,2026-03-01 03:57:07,student_16,btn_add_cart,В корзину,1015,292,False
+5f030e6a,2026-03-01 03:58:04,student_16,btn_submit,Оформить,467,141,True
+0c9ce5d6,2026-03-01 03:58:44,student_16,btn_buy,Купить,1308,860,False
+ba498ea9,2026-03-01 03:59:38,student_16,btn_buy,Купить,1740,393,False
+c175ba94,2026-03-01 04:00:33,student_16,btn_submit,Оформить,1762,399,False
+c2893915,2026-03-01 04:01:29,student_16,btn_buy,Купить,948,470,False
+3cc3ec3c,2026-03-01 04:02:13,student_16,btn_add_cart,В корзину,549,903,False
+9838994e,2026-02-05 01:24:25,student_33,btn_submit,Оформить,543,496,False
+999ef826,2026-02-05 01:24:27,student_33,filter_sort,Сортировка,261,97,False
+8554c51d,2026-02-05 01:25:03,student_33,btn_add_cart,В корзину,120,86,False
+af7041ba,2026-02-05 01:25:45,student_33,btn_submit,Оформить,361,599,False
+54cc6c26,2026-02-05 01:26:01,student_33,btn_buy,Купить,1754,451,False
+f9a8dfad,2026-02-05 01:26:03,student_33,btn_submit,Оформить,472,515,False
+89a7128f,2026-02-05 01:26:30,student_33,btn_buy,Купить,1114,905,False
+9d20ed98,2026-02-05 01:27:20,student_33,filter_sort,Сортировка,1580,626,False
+e59480d7,2026-02-05 01:27:23,student_33,filter_sort,Сортировка,106,885,False
+73f0b157,2026-02-05 01:27:44,student_33,btn_add_cart,В корзину,637,663,False
+00c4213c,2026-02-05 01:27:49,student_33,btn_submit,Оформить,1060,248,False
+79dcb11d,2026-02-05 01:28:15,student_33,filter_sort,Сортировка,1570,500,False
+d0042850,2026-02-06 01:32:21,student_13,btn_buy,Купить,1920,107,True
+c5f00bfe,2026-02-06 01:32:53,student_13,btn_submit,Оформить,407,72,False
+b6cb7384,2026-02-06 01:33:11,student_13,filter_sort,Сортировка,1056,1027,False
+5f599a39,2026-02-06 01:34:08,student_13,filter_sort,Сортировка,1653,25,False
+e98855e2,2026-02-06 01:34:23,student_13,btn_add_cart,В корзину,1244,334,False
+22c85658,2026-02-06 01:34:59,student_13,filter_sort,Сортировка,424,801,False
+884766a1,2026-02-06 01:35:04,student_13,btn_buy,Купить,685,976,False
+49ad50e6,2026-02-06 01:35:22,student_13,filter_sort,Сортировка,556,821,False
+9f94ea2e,2026-02-06 01:35:42,student_13,btn_submit,Оформить,263,846,False
+704d3a22,2026-02-06 01:35:50,student_13,btn_buy,Купить,68,56,False
+6279ddf4,2026-02-06 01:36:44,student_13,btn_add_cart,В корзину,113,51,False
+9675e4c5,2026-02-06 01:36:55,student_13,btn_add_cart,В корзину,950,684,False
+b6f51de1,2026-02-06 01:37:29,student_13,btn_buy,Купить,1746,320,False
+2716972c,2026-02-06 01:37:56,student_13,btn_add_cart,В корзину,388,864,False
+dd8ac5de,2026-02-06 01:37:58,student_13,btn_add_cart,В корзину,575,947,False
+d2a05e14,2026-02-06 01:38:17,student_13,filter_sort,Сортировка,177,1027,False
+99d51142,2026-02-06 01:39:06,student_13,btn_add_cart,В корзину,158,958,False
+b62df257,2026-02-06 01:39:33,student_13,filter_sort,Сортировка,1051,1014,False
+22b05455,2026-02-06 01:40:17,student_13,filter_sort,Сортировка,929,129,False
+a39f25f4,2026-02-06 01:41:06,student_13,btn_buy,Купить,622,714,False
+76bd0b68,2026-03-02 18:59:55,student_14,filter_sort,Сортировка,907,549,False
+f709b72d,2026-03-02 19:00:24,student_14,btn_add_cart,В корзину,1556,48,False
+3109e12a,2026-03-02 19:00:47,student_14,btn_buy,Купить,971,1041,True
+3e50877a,2026-03-02 19:01:00,student_14,btn_add_cart,В корзину,1083,86,False
+175ab44a,2026-03-02 19:01:58,student_14,btn_submit,Оформить,1898,1067,False
+b99d4651,2026-03-02 19:02:55,student_14,filter_sort,Сортировка,209,962,False
+edf6a0f1,2026-03-02 19:03:49,student_14,filter_sort,Сортировка,1703,654,False
+b5e842c6,2026-03-02 19:04:14,student_14,filter_sort,Сортировка,1466,942,False
+a1c795a5,2026-03-02 19:04:38,student_14,btn_submit,Оформить,1421,661,False
+3c4144e7,2026-03-02 19:05:18,student_14,btn_add_cart,В корзину,1290,530,False
+54d34f63,2026-03-02 19:05:53,student_14,btn_buy,Купить,500,435,False
+627d3ea5,2026-03-02 19:05:59,student_14,btn_buy,Купить,1314,909,False
+5d78294d,2026-03-02 19:06:38,student_14,btn_add_cart,В корзину,1736,1060,False
+9586ffe3,2026-03-02 19:06:54,student_14,btn_submit,Оформить,968,406,False
+19dc8bd2,2026-03-02 19:07:29,student_14,btn_buy,Купить,493,104,False
+3956184e,2026-03-02 19:07:56,student_14,btn_submit,Оформить,1273,1003,False
+d74c3965,2026-03-02 19:08:42,student_14,btn_buy,Купить,1038,0,False
+73625f0b,2026-03-02 19:09:08,student_14,btn_add_cart,В корзину,903,186,False
+b891b00a,2026-03-02 19:09:47,student_14,btn_buy,Купить,162,129,False
+1fd2c1b2,2026-02-19 21:55:38,student_23,btn_submit,Оформить,254,905,False
+2fdf000a,2026-02-19 21:55:50,student_23,btn_buy,Купить,535,124,False
+65693e2f,2026-02-19 21:56:05,student_23,btn_add_cart,В корзину,1674,999,False
+d6883ee0,2026-02-19 21:56:09,student_23,btn_buy,Купить,1714,59,True
+775360f3,2026-02-19 21:56:10,student_23,btn_submit,Оформить,943,930,False
+300ecf84,2026-02-19 21:56:17,student_23,btn_add_cart,В корзину,813,1055,False
+9e6f4bda,2026-02-19 21:56:51,student_23,filter_sort,Сортировка,472,958,False
+519ef4e0,2026-02-19 21:57:26,student_23,btn_add_cart,В корзину,1311,354,False
+bb5032bc,2026-02-19 21:57:58,student_23,btn_submit,Оформить,1462,584,False
+cdce3cbf,2026-02-19 21:58:58,student_23,btn_submit,Оформить,825,623,False
+a5b57854,2026-02-19 21:59:32,student_23,btn_submit,Оформить,1406,940,False
+871f15c2,2026-02-19 21:59:54,student_23,filter_sort,Сортировка,906,312,True
+8aa02042,2026-02-19 22:00:00,student_23,btn_submit,Оформить,1618,1078,False
+bde33501,2026-02-19 22:00:24,student_23,btn_submit,Оформить,488,545,False
+5829a202,2026-02-19 22:00:50,student_23,filter_sort,Сортировка,314,566,False
+fd0fb814,2026-02-19 22:01:16,student_23,btn_add_cart,В корзину,701,897,True
+b51d1f46,2026-02-19 22:01:54,student_23,btn_buy,Купить,12,231,False
+fef83041,2026-02-19 22:02:50,student_23,btn_submit,Оформить,1768,559,False
+219ad707,2026-02-10 19:27:56,student_29,filter_sort,Сортировка,94,188,False
+56faa4d1,2026-02-10 19:28:38,student_29,btn_buy,Купить,993,710,False
+c88f5095,2026-02-10 19:29:31,student_29,filter_sort,Сортировка,337,197,False
+0d9f1f1f,2026-02-10 19:30:07,student_29,btn_submit,Оформить,1566,354,False
+52d74045,2026-02-10 19:30:29,student_29,btn_add_cart,В корзину,15,601,False
+caf5dbb1,2026-02-10 19:31:25,student_29,btn_submit,Оформить,1119,756,False
+3854ef58,2026-02-10 19:31:55,student_29,btn_add_cart,В корзину,355,645,False
+a691800b,2026-02-10 19:32:21,student_29,filter_sort,Сортировка,1333,568,False
+2996751f,2026-02-10 19:33:21,student_29,btn_buy,Купить,520,372,False
+5b67d864,2026-02-10 19:34:02,student_29,btn_submit,Оформить,959,27,True
+a52978b5,2026-02-10 19:34:20,student_29,btn_submit,Оформить,1601,695,False
+83fca790,2026-02-10 19:35:04,student_29,btn_submit,Оформить,1453,610,False
+22f4960d,2026-02-10 19:35:50,student_29,filter_sort,Сортировка,948,584,False
+d9b29c44,2026-02-10 19:36:14,student_29,btn_add_cart,В корзину,1669,314,False
+c07945c7,2026-02-10 19:36:25,student_29,btn_buy,Купить,1292,1079,False
+13c46c4f,2026-02-10 19:36:49,student_29,filter_sort,Сортировка,49,247,False
+13c5293b,2026-02-10 19:37:43,student_29,btn_buy,Купить,274,182,False
+ce7b95eb,2026-02-11 20:55:43,student_30,btn_buy,Купить,1644,1025,False
+889ff5a8,2026-02-11 20:55:45,student_30,btn_add_cart,В корзину,1426,684,False
+6000add4,2026-02-11 20:56:37,student_30,filter_sort,Сортировка,717,357,False
+ae16ccce,2026-02-11 20:57:28,student_30,filter_sort,Сортировка,750,1038,False
+3e009ad8,2026-02-11 20:58:09,student_30,btn_buy,Купить,1695,1075,False
+8416cf74,2026-02-11 20:58:33,student_30,btn_add_cart,В корзину,1817,540,False
+84565c0e,2026-02-11 20:59:15,student_30,btn_submit,Оформить,911,169,False
+3d5142a9,2026-02-11 20:59:55,student_30,btn_buy,Купить,14,647,False
+ab1e25df,2026-02-11 21:00:52,student_30,btn_submit,Оформить,523,361,False
+a3b8ff68,2026-02-11 21:01:30,student_30,btn_submit,Оформить,897,292,False
+55091669,2026-02-11 21:01:32,student_30,btn_submit,Оформить,1428,894,False
+ad924d11,2026-02-11 21:02:22,student_30,btn_buy,Купить,385,350,False
+ac8fea56,2026-02-11 21:03:13,student_30,btn_submit,Оформить,1503,330,False
+68eb6e63,2026-02-11 21:03:43,student_30,btn_submit,Оформить,112,692,False
+06184f00,2026-02-11 21:04:34,student_30,filter_sort,Сортировка,147,550,False
+b71eaa5c,2026-03-02 09:41:11,student_41,btn_buy,Купить,1479,1014,False
+e50c9b02,2026-03-02 09:41:22,student_41,btn_buy,Купить,1721,700,False
+e0baecfb,2026-03-02 09:42:08,student_41,btn_buy,Купить,633,704,False
+1b7a5f96,2026-03-02 09:42:41,student_41,filter_sort,Сортировка,55,267,False
+cd052d62,2026-03-02 09:43:29,student_41,btn_buy,Купить,1098,1057,False
+94e60524,2026-03-02 09:43:52,student_41,filter_sort,Сортировка,188,345,False
+a8136ed9,2026-03-02 09:44:02,student_41,filter_sort,Сортировка,134,851,True
+edaeb061,2026-02-07 20:07:52,student_49,btn_add_cart,В корзину,846,845,False
+045e02a2,2026-02-07 20:08:51,student_49,filter_sort,Сортировка,1277,975,False
+545db7eb,2026-02-07 20:09:19,student_49,filter_sort,Сортировка,1201,258,False
+c8aa7a45,2026-02-07 20:10:03,student_49,btn_add_cart,В корзину,359,1053,False
+ab110caa,2026-02-07 20:10:52,student_49,filter_sort,Сортировка,1063,118,False
+08ed98b0,2026-02-07 20:11:21,student_49,btn_buy,Купить,1757,76,True
+c5161c25,2026-02-07 20:11:54,student_49,btn_submit,Оформить,1539,498,False
+8bb31c2c,2026-02-07 20:12:35,student_49,btn_add_cart,В корзину,1868,850,True
+1d86a5bf,2026-02-07 20:12:55,student_49,filter_sort,Сортировка,60,420,False
+9b4fe708,2026-02-07 20:13:35,student_49,btn_add_cart,В корзину,505,244,False
+232a0d39,2026-02-07 20:14:05,student_49,filter_sort,Сортировка,1087,431,False
+83245127,2026-02-07 20:14:45,student_49,btn_submit,Оформить,1307,275,True
+67003485,2026-02-07 20:15:45,student_49,btn_submit,Оформить,992,33,False
