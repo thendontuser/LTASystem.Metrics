@@ -13,7 +13,7 @@ class DataLoader:
             f"{self.base_path}/{filename}", 
             header=True, 
             inferSchema=True,
-            escape='"'  # <--- добавьте это
+            escape='"'
         )
         return df.dropna(how="all")
 

@@ -5,25 +5,34 @@ from pyspark.sql.functions import col, avg, count
 from algorithms.utils.visualizer import plot_clusters
 
 class StudentBehaviorAnalyzer:
+    """
+    Сегментирует студентов на основе их поведения с помощью алгоритма K-Means.
+    Позволяет выявить типичные стратегии поиска багов (например, "торопыги", "исследователи").
+    """
     def __init__(self, features_df, k=4):
         self.df = features_df
         self.k = k
 
     def run(self):
+        # 1. Собираем признаки в единый вектор
         feature_cols = ["avg_time_on_page", "avg_scroll_depth", "total_api_requests", "acceptance_rate", "api_error_rate"]
         assembler = VectorAssembler(inputCols=feature_cols, outputCol="raw_features")
         df_vec = assembler.transform(self.df).na.drop(subset=feature_cols)
         
+        # 2. Масштабируем данные (K-Means чувствителен к масштабу признаков)
         scaler = StandardScaler(inputCol="raw_features", outputCol="features")
         df_scaled = scaler.fit(df_vec).transform(df_vec)
 
+        # 3. Обучаем модель кластеризации
         kmeans = KMeans(featuresCol="features", k=self.k, seed=42)
         predictions = kmeans.fit(df_scaled).transform(df_scaled)
 
+        # 4. Оцениваем качество кластеризации (Silhouette Score: от -1 до 1)
         evaluator = ClusteringEvaluator(featuresCol="features")
         silhouette = evaluator.evaluate(predictions)
         print(f"[K-Means] Silhouette Score: {silhouette:.3f}")
 
+        # 5. Выводим средние характеристики каждого кластера
         predictions.groupBy("prediction").agg(
             avg("acceptance_rate").alias("avg_acceptance_rate"),
             avg("avg_time_on_page").alias("avg_time_on_page"),
@@ -31,6 +40,7 @@ class StudentBehaviorAnalyzer:
             count("user_id").alias("students_in_cluster")
         ).orderBy("prediction").show()
 
+        # 6. Визуализация
         pdf = predictions.select("avg_time_on_page", "acceptance_rate", "total_api_requests", "prediction").toPandas()
         plot_clusters(pdf)
         return predictions
